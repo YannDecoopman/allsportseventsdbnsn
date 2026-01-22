@@ -9,8 +9,8 @@ DATA_DIR = Path(__file__).parent
 
 # Sports majeurs par priorité (sports prioritaires NSN)
 MAJOR_SPORTS = {
-    "Football", "Tennis", "Rugby", "Basketball", "Ice Hockey",
-    "Swimming", "Baseball", "Cricket", "Boxing",
+    "Football", "Tennis", "Rugby", "Basketball",
+    "Baseball", "Cricket", "Boxing",
 }
 
 # Niveaux de compétition
