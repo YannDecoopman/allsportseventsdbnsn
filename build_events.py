@@ -7,12 +7,10 @@ from pathlib import Path
 
 DATA_DIR = Path(__file__).parent
 
-# Sports majeurs par priorité
+# Sports majeurs par priorité (sports prioritaires NSN)
 MAJOR_SPORTS = {
     "Football", "Tennis", "Rugby", "Basketball", "Ice Hockey",
-    "Cycling", "Athletics", "Swimming", "Handball", "Volleyball",
-    "Baseball", "Cricket", "Golf", "Motorsport", "Boxing", "MMA",
-    "Skiing", "Figure Skating", "Gymnastics", "Water Polo",
+    "Swimming", "Baseball", "Cricket", "Boxing",
 }
 
 # Niveaux de compétition
