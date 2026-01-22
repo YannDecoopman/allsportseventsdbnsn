@@ -17,10 +17,29 @@ MAJOR_SPORTS = {
 
 # Niveaux de compétition
 COMPETITION_LEVELS = {
-    "World": 1,      # Coupe du Monde, Championnats du Monde
-    "Continental": 2, # Euro, Copa America, Champions League
+    "World": 1,      # Coupe du Monde, Championnats du Monde, événements majeurs globaux
+    "Continental": 2, # Euro, Copa America, Champions League, compétitions continentales
     "National": 3,    # Championnats nationaux
     "Other": 4,
+}
+
+# Compétitions connues comme World-class (événements majeurs globaux)
+WORLD_COMPETITIONS = {
+    "formula 1", "formula e", "moto gp", "motogp",
+    "tour de france", "giro d'italia", "vuelta a españa",
+    "grand slam", "atp finals", "wta finals", "atp tour", "wta tour",
+    "super bowl", "nba", "nhl",
+    "24 hours of le mans", "indycar", "nascar",
+    "commonwealth games", "pga tour", "lpga tour", "liv golf",
+    "sailgp", "the boat race",
+}
+
+# Compétitions continentales
+CONTINENTAL_COMPETITIONS = {
+    "euroleague", "eurocup", "uefa europa league", "uefa europa conference league",
+    "afc", "caf", "concacaf", "conmebol", "ofc",
+    "fih hockey men's pro league", "fih hockey women's pro league",
+    "mediterranean games", "central american", "south american games",
 }
 
 
@@ -28,12 +47,23 @@ def get_competition_level(event: dict) -> int:
     """Determine competition level from event data."""
     name = event.get("name", "").lower()
     competition = event.get("competition", "").lower()
+    combined = f"{name} {competition}"
 
-    if any(w in name or w in competition for w in ["world", "mondial", "olympics", "olympic"]):
+    # Check specific known competitions first
+    for comp in WORLD_COMPETITIONS:
+        if comp in combined:
+            return COMPETITION_LEVELS["World"]
+
+    for comp in CONTINENTAL_COMPETITIONS:
+        if comp in combined:
+            return COMPETITION_LEVELS["Continental"]
+
+    # Generic keyword matching
+    if any(w in combined for w in ["world", "mondial", "olympics", "olympic", "global"]):
         return COMPETITION_LEVELS["World"]
-    if any(w in name or w in competition for w in ["european", "euro ", "asian", "african", "copa america", "champions league"]):
+    if any(w in combined for w in ["european", "euro ", "asian", "african", "copa america", "champions league", "continental"]):
         return COMPETITION_LEVELS["Continental"]
-    if any(w in name or w in competition for w in ["national", "championship", "cup"]):
+    if any(w in combined for w in ["national", "championship", "cup", "league"]):
         return COMPETITION_LEVELS["National"]
     return COMPETITION_LEVELS["Other"]
 
