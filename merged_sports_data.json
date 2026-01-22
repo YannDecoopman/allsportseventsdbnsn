@@ -1,0 +1,6415 @@
+{
+  "_meta": {
+    "generated": true,
+    "countries_in_reference": 28,
+    "countries_with_data": 28,
+    "unreferenced_countries": [
+      "Algeria",
+      "Azerbaijan",
+      "Bangladesh",
+      "Bermuda",
+      "Bulgaria",
+      "Burkina Faso",
+      "Chile",
+      "Colombia",
+      "Congo (Kinshasa)",
+      "Costa Rica",
+      "Ecuador",
+      "El Salvador",
+      "Finland",
+      "Guatemala",
+      "Hungary",
+      "Ivory Coast",
+      "Kazakhstan",
+      "Kenya",
+      "Kuwait",
+      "Kyrgyzstan",
+      "Luxembourg",
+      "Mauritania",
+      "Moldova",
+      "Mongolia",
+      "Morocco",
+      "Nepal",
+      "Nigeria",
+      "Panama",
+      "Peru",
+      "Senegal",
+      "Singapore",
+      "South Africa",
+      "Tunisia",
+      "Uzbekistan",
+      "Venezuela"
+    ],
+    "enriched_with_popularity": true,
+    "leagues_with_popularity": 87,
+    "popularity_sources": [
+      "wikipedia",
+      "google_trends"
+    ],
+    "popularity_weights": {
+      "wikipedia": 0.55,
+      "google_trends": 0.45
+    },
+    "leagues_with_season": 27,
+    "allsportdb_integrated": true,
+    "sports_count": 69,
+    "international_competitions_count": 151
+  },
+  "countries": {
+    "France": {
+      "code": "FR",
+      "major_sports": [
+        "Football",
+        "Rugby",
+        "Basketball",
+        "Handball",
+        "Tennis",
+        "Cycling"
+      ],
+      "leagues_by_sport": {
+        "Basketball": [
+          {
+            "name": "French LNB"
+          },
+          {
+            "name": "French LNB Pro B"
+          },
+          {
+            "name": "Coupe de France de Basket"
+          },
+          {
+            "name": "LNB Pro A Leaders Cup"
+          },
+          {
+            "name": "Ligue Féminine de Basketball"
+          },
+          {
+            "name": "French Nationale Masculine 1"
+          }
+        ],
+        "Extreme Sports": [
+          {
+            "name": "Olympics Breaking"
+          }
+        ],
+        "Football": [
+          {
+            "name": "French Ligue 1",
+            "popularity": {
+              "score": 63,
+              "tier": "B",
+              "sources": [
+                "wikipedia",
+                "google_trends"
+              ],
+              "wikipedia_monthly_views": 70945,
+              "wikipedia_score": 87,
+              "google_trends_index": 35,
+              "google_trends_score": 35
+            },
+            "season": {
+              "current": "2025-2026",
+              "start_date": "2025-08-15",
+              "end_date": "2026-05-24",
+              "events_count": 306
+            }
+          },
+          {
+            "name": "French Ligue 2"
+          },
+          {
+            "name": "Coupe de France"
+          },
+          {
+            "name": "Coupe de la Ligue",
+            "popularity": {
+              "score": 82,
+              "tier": "A",
+              "sources": [
+                "wikipedia",
+                "google_trends"
+              ],
+              "wikipedia_monthly_views": 132058,
+              "wikipedia_score": 92,
+              "google_trends_index": 70,
+              "google_trends_score": 70
+            }
+          },
+          {
+            "name": "French Championnat National"
+          },
+          {
+            "name": "French Trophée des Champions"
+          },
+          {
+            "name": "France Première Ligue"
+          },
+          {
+            "name": "French National 2 Group A"
+          },
+          {
+            "name": "French National 2 Group B"
+          },
+          {
+            "name": "French National 2 Group C"
+          },
+          {
+            "name": "French National 2 Group D"
+          },
+          {
+            "name": "French National 3 Group A"
+          },
+          {
+            "name": "French National 3 Group B"
+          },
+          {
+            "name": "French National 3 Group C"
+          },
+          {
+            "name": "French National 3 Group D"
+          },
+          {
+            "name": "French National 3 Group E"
+          },
+          {
+            "name": "French National 3 Group F"
+          },
+          {
+            "name": "French National 3 Group G"
+          },
+          {
+            "name": "French National 3 Group H"
+          }
+        ],
+        "Handball": [
+          {
+            "name": "French LNH Division 1"
+          }
+        ],
+        "Ice Hockey": [
+          {
+            "name": "French Ligue Magnus"
+          }
+        ],
+        "MMA": [
+          {
+            "name": "Hexagone MMA"
+          }
+        ],
+        "Rugby": [
+          {
+            "name": "French Top 14",
+            "popularity": {
+              "score": 45,
+              "tier": "C",
+              "sources": [
+                "wikipedia",
+                "google_trends"
+              ],
+              "wikipedia_monthly_views": 11221,
+              "wikipedia_score": 73,
+              "google_trends_index": 12,
+              "google_trends_score": 12
+            }
+          },
+          {
+            "name": "French Pro D2"
+          },
+          {
+            "name": "French Nationale"
+          }
+        ],
+        "Volleyball": [
+          {
+            "name": "French Ligue A Mens Volleyball"
+          },
+          {
+            "name": "French Ligue A Womens Volleyball"
+          }
+        ]
+      },
+      "coverage": {
+        "matched": [
+          "Basketball",
+          "Football",
+          "Handball",
+          "Rugby"
+        ],
+        "missing": [
+          "Cycling",
+          "Tennis"
+        ],
+        "extra_sports": [
+          "Extreme Sports",
+          "Ice Hockey",
+          "MMA",
+          "Volleyball"
+        ]
+      },
+      "stats": {
+        "total_leagues": 34,
+        "matched_leagues": 29,
+        "coverage_percent": 67
+      },
+      "notes": "Multi-sport, handball champion du monde"
+    },
+    "United Kingdom": {
+      "code": "GB",
+      "major_sports": [
+        "Football",
+        "Rugby",
+        "Cricket",
+        "Tennis",
+        "Golf",
+        "Motorsport"
+      ],
+      "leagues_by_sport": {
+        "Cricket": [
+          {
+            "name": "English County Championship Division 1"
+          },
+          {
+            "name": "English County Championship Division 2"
+          },
+          {
+            "name": "English t20 Blast",
+            "popularity": {
+              "score": 82,
+              "tier": "A",
+              "sources": [
+                "wikipedia",
+                "google_trends"
+              ],
+              "wikipedia_monthly_views": 132058,
+              "wikipedia_score": 92,
+              "google_trends_index": 70,
+              "google_trends_score": 70
+            }
+          }
+        ],
+        "Darts": [
+          {
+            "name": "BDO Darts"
+          }
+        ],
+        "Football": [
+          {
+            "name": "English Premier League",
+            "popularity": {
+              "score": 100,
+              "tier": "A",
+              "sources": [
+                "wikipedia",
+                "google_trends"
+              ],
+              "wikipedia_monthly_views": 339659,
+              "wikipedia_score": 100,
+              "google_trends_index": 100,
+              "google_trends_score": 100
+            },
+            "season": {
+              "current": "2025-2026",
+              "start_date": "2025-08-16",
+              "end_date": "2026-05-24",
+              "events_count": 380
+            }
+          },
+          {
+            "name": "English League Championship"
+          },
+          {
+            "name": "English League 1"
+          },
+          {
+            "name": "English League 2"
+          },
+          {
+            "name": "Football League First Division"
+          },
+          {
+            "name": "Football League Super Cup"
+          },
+          {
+            "name": "EFL Cup"
+          },
+          {
+            "name": "English National League"
+          },
+          {
+            "name": "English Northern Premier League Premier Division",
+            "popularity": {
+              "score": 100,
+              "tier": "A",
+              "sources": [
+                "wikipedia",
+                "google_trends"
+              ],
+              "wikipedia_monthly_views": 339659,
+              "wikipedia_score": 100,
+              "google_trends_index": 100,
+              "google_trends_score": 100
+            }
+          },
+          {
+            "name": "English Isthmian League Premier Division",
+            "popularity": {
+              "score": 100,
+              "tier": "A",
+              "sources": [
+                "wikipedia",
+                "google_trends"
+              ],
+              "wikipedia_monthly_views": 339659,
+              "wikipedia_score": 100,
+              "google_trends_index": 100,
+              "google_trends_score": 100
+            }
+          },
+          {
+            "name": "English Southern Premier League South Division",
+            "popularity": {
+              "score": 100,
+              "tier": "A",
+              "sources": [
+                "wikipedia",
+                "google_trends"
+              ],
+              "wikipedia_monthly_views": 339659,
+              "wikipedia_score": 100,
+              "google_trends_index": 100,
+              "google_trends_score": 100
+            }
+          },
+          {
+            "name": "English National League North"
+          },
+          {
+            "name": "English National League South"
+          },
+          {
+            "name": "FA Trophy"
+          },
+          {
+            "name": "EFL Trophy"
+          },
+          {
+            "name": "English Womens Super League"
+          },
+          {
+            "name": "England Non League Div One Isthmian North",
+            "popularity": {
+              "score": 82,
+              "tier": "A",
+              "sources": [
+                "wikipedia",
+                "google_trends"
+              ],
+              "wikipedia_monthly_views": 132058,
+              "wikipedia_score": 92,
+              "google_trends_index": 70,
+              "google_trends_score": 70
+            }
+          },
+          {
+            "name": "England Non League Div One Isthmian South",
+            "popularity": {
+              "score": 82,
+              "tier": "A",
+              "sources": [
+                "wikipedia",
+                "google_trends"
+              ],
+              "wikipedia_monthly_views": 132058,
+              "wikipedia_score": 92,
+              "google_trends_index": 70,
+              "google_trends_score": 70
+            }
+          },
+          {
+            "name": "England Non League Div One Southern SW",
+            "popularity": {
+              "score": 82,
+              "tier": "A",
+              "sources": [
+                "wikipedia",
+                "google_trends"
+              ],
+              "wikipedia_monthly_views": 132058,
+              "wikipedia_score": 92,
+              "google_trends_index": 70,
+              "google_trends_score": 70
+            }
+          },
+          {
+            "name": "England Non League Div One Southern Central",
+            "popularity": {
+              "score": 82,
+              "tier": "A",
+              "sources": [
+                "wikipedia",
+                "google_trends"
+              ],
+              "wikipedia_monthly_views": 132058,
+              "wikipedia_score": 92,
+              "google_trends_index": 70,
+              "google_trends_score": 70
+            }
+          },
+          {
+            "name": "English Southern Premier League Central Division",
+            "popularity": {
+              "score": 100,
+              "tier": "A",
+              "sources": [
+                "wikipedia",
+                "google_trends"
+              ],
+              "wikipedia_monthly_views": 339659,
+              "wikipedia_score": 100,
+              "google_trends_index": 100,
+              "google_trends_score": 100
+            }
+          },
+          {
+            "name": "English Northern Premier League Division One East",
+            "popularity": {
+              "score": 100,
+              "tier": "A",
+              "sources": [
+                "wikipedia",
+                "google_trends"
+              ],
+              "wikipedia_monthly_views": 339659,
+              "wikipedia_score": 100,
+              "google_trends_index": 100,
+              "google_trends_score": 100
+            }
+          },
+          {
+            "name": "English Northern Premier League Division One Midlands",
+            "popularity": {
+              "score": 100,
+              "tier": "A",
+              "sources": [
+                "wikipedia",
+                "google_trends"
+              ],
+              "wikipedia_monthly_views": 339659,
+              "wikipedia_score": 100,
+              "google_trends_index": 100,
+              "google_trends_score": 100
+            }
+          },
+          {
+            "name": "English Southern Premier League Central Division One",
+            "popularity": {
+              "score": 100,
+              "tier": "A",
+              "sources": [
+                "wikipedia",
+                "google_trends"
+              ],
+              "wikipedia_monthly_views": 339659,
+              "wikipedia_score": 100,
+              "google_trends_index": 100,
+              "google_trends_score": 100
+            }
+          },
+          {
+            "name": "English Northern Premier League Division One West",
+            "popularity": {
+              "score": 100,
+              "tier": "A",
+              "sources": [
+                "wikipedia",
+                "google_trends"
+              ],
+              "wikipedia_monthly_views": 339659,
+              "wikipedia_score": 100,
+              "google_trends_index": 100,
+              "google_trends_score": 100
+            }
+          },
+          {
+            "name": "Scottish Premier League",
+            "popularity": {
+              "score": 100,
+              "tier": "A",
+              "sources": [
+                "wikipedia",
+                "google_trends"
+              ],
+              "wikipedia_monthly_views": 339659,
+              "wikipedia_score": 100,
+              "google_trends_index": 100,
+              "google_trends_score": 100
+            }
+          },
+          {
+            "name": "Scottish Championship"
+          },
+          {
+            "name": "Scottish League 1"
+          },
+          {
+            "name": "Scottish League 2"
+          },
+          {
+            "name": "Scottish FA Cup"
+          },
+          {
+            "name": "Scottish League Cup"
+          },
+          {
+            "name": "Scottish Highland League",
+            "popularity": {
+              "score": 82,
+              "tier": "A",
+              "sources": [
+                "wikipedia",
+                "google_trends"
+              ],
+              "wikipedia_monthly_views": 132058,
+              "wikipedia_score": 92,
+              "google_trends_index": 70,
+              "google_trends_score": 70
+            }
+          },
+          {
+            "name": "Scottish Lowland League",
+            "popularity": {
+              "score": 82,
+              "tier": "A",
+              "sources": [
+                "wikipedia",
+                "google_trends"
+              ],
+              "wikipedia_monthly_views": 132058,
+              "wikipedia_score": 92,
+              "google_trends_index": 70,
+              "google_trends_score": 70
+            }
+          },
+          {
+            "name": "Welsh Premier League",
+            "popularity": {
+              "score": 100,
+              "tier": "A",
+              "sources": [
+                "wikipedia",
+                "google_trends"
+              ],
+              "wikipedia_monthly_views": 339659,
+              "wikipedia_score": 100,
+              "google_trends_index": 100,
+              "google_trends_score": 100
+            }
+          },
+          {
+            "name": "Welsh League Cup"
+          },
+          {
+            "name": "Welsh Cymru North-South"
+          },
+          {
+            "name": "Northern Irish Premiership",
+            "popularity": {
+              "score": 100,
+              "tier": "A",
+              "sources": [
+                "wikipedia",
+                "google_trends"
+              ],
+              "wikipedia_monthly_views": 339659,
+              "wikipedia_score": 100,
+              "google_trends_index": 100,
+              "google_trends_score": 100
+            }
+          },
+          {
+            "name": "Northern Irish Championship"
+          },
+          {
+            "name": "Northern Irish Premier Intermediate League",
+            "popularity": {
+              "score": 100,
+              "tier": "A",
+              "sources": [
+                "wikipedia",
+                "google_trends"
+              ],
+              "wikipedia_monthly_views": 339659,
+              "wikipedia_score": 100,
+              "google_trends_index": 100,
+              "google_trends_score": 100
+            }
+          }
+        ],
+        "MMA": [
+          {
+            "name": "RevPro"
+          },
+          {
+            "name": "ICW"
+          }
+        ],
+        "Motorsport": [
+          {
+            "name": "BTCC"
+          },
+          {
+            "name": "British GT Championship"
+          }
+        ],
+        "Netball": [
+          {
+            "name": "Celtic Cup"
+          }
+        ],
+        "Rugby": [
+          {
+            "name": "English Prem Rugby"
+          },
+          {
+            "name": "English Rugby League Super League"
+          },
+          {
+            "name": "English Prem Rugby Cup"
+          },
+          {
+            "name": "Scottish Premiership",
+            "popularity": {
+              "score": 100,
+              "tier": "A",
+              "sources": [
+                "wikipedia",
+                "google_trends"
+              ],
+              "wikipedia_monthly_views": 339659,
+              "wikipedia_score": 100,
+              "google_trends_index": 100,
+              "google_trends_score": 100
+            }
+          }
+        ]
+      },
+      "coverage": {
+        "matched": [
+          "Cricket",
+          "Football",
+          "Motorsport",
+          "Rugby"
+        ],
+        "missing": [
+          "Golf",
+          "Tennis"
+        ],
+        "extra_sports": [
+          "Darts",
+          "MMA",
+          "Netball"
+        ]
+      },
+      "stats": {
+        "total_leagues": 52,
+        "matched_leagues": 48,
+        "coverage_percent": 67
+      },
+      "notes": "Berceau du football moderne, Premier League"
+    },
+    "Germany": {
+      "code": "DE",
+      "major_sports": [
+        "Football",
+        "Basketball",
+        "Ice Hockey",
+        "Handball",
+        "Motorsport",
+        "Tennis"
+      ],
+      "leagues_by_sport": {
+        "American Football": [
+          {
+            "name": "GFL"
+          }
+        ],
+        "Basketball": [
+          {
+            "name": "German BBL"
+          },
+          {
+            "name": "German ProA"
+          },
+          {
+            "name": "German BBL Pokal"
+          },
+          {
+            "name": "German DBBL"
+          }
+        ],
+        "Football": [
+          {
+            "name": "German Bundesliga",
+            "popularity": {
+              "score": 68,
+              "tier": "B",
+              "sources": [
+                "wikipedia",
+                "google_trends"
+              ],
+              "wikipedia_monthly_views": 74438,
+              "wikipedia_score": 88,
+              "google_trends_index": 45,
+              "google_trends_score": 45
+            },
+            "season": {
+              "current": "2025-2026",
+              "start_date": "2025-08-23",
+              "end_date": "2026-05-17",
+              "events_count": 306
+            }
+          },
+          {
+            "name": "German 2. Bundesliga",
+            "popularity": {
+              "score": 68,
+              "tier": "B",
+              "sources": [
+                "wikipedia",
+                "google_trends"
+              ],
+              "wikipedia_monthly_views": 74438,
+              "wikipedia_score": 88,
+              "google_trends_index": 45,
+              "google_trends_score": 45
+            }
+          },
+          {
+            "name": "DFB-Pokal"
+          },
+          {
+            "name": "Germany Liga 3"
+          },
+          {
+            "name": "German Regionalliga Nord"
+          },
+          {
+            "name": "German Regionalliga West"
+          },
+          {
+            "name": "German Regionalliga SudWest"
+          },
+          {
+            "name": "German Regionalliga Bayern"
+          },
+          {
+            "name": "German Regionalliga Nordost"
+          },
+          {
+            "name": "German Super Cup"
+          },
+          {
+            "name": "Germany Women Bundesliga",
+            "popularity": {
+              "score": 68,
+              "tier": "B",
+              "sources": [
+                "wikipedia",
+                "google_trends"
+              ],
+              "wikipedia_monthly_views": 74438,
+              "wikipedia_score": 88,
+              "google_trends_index": 45,
+              "google_trends_score": 45
+            }
+          },
+          {
+            "name": "DFB-Pokal Frauen"
+          }
+        ],
+        "Golf": [
+          {
+            "name": "ProGolf Tour"
+          }
+        ],
+        "Handball": [
+          {
+            "name": "German Handball-Bundesliga",
+            "popularity": {
+              "score": 68,
+              "tier": "B",
+              "sources": [
+                "wikipedia",
+                "google_trends"
+              ],
+              "wikipedia_monthly_views": 74438,
+              "wikipedia_score": 88,
+              "google_trends_index": 45,
+              "google_trends_score": 45
+            }
+          }
+        ],
+        "Ice Hockey": [
+          {
+            "name": "German DEL"
+          },
+          {
+            "name": "German DEL 2"
+          }
+        ],
+        "MMA": [
+          {
+            "name": "wXw"
+          }
+        ],
+        "Volleyball": [
+          {
+            "name": "German 1. Bundesliga",
+            "popularity": {
+              "score": 68,
+              "tier": "B",
+              "sources": [
+                "wikipedia",
+                "google_trends"
+              ],
+              "wikipedia_monthly_views": 74438,
+              "wikipedia_score": 88,
+              "google_trends_index": 45,
+              "google_trends_score": 45
+            }
+          }
+        ]
+      },
+      "coverage": {
+        "matched": [
+          "Basketball",
+          "Football",
+          "Handball",
+          "Ice Hockey"
+        ],
+        "missing": [
+          "Motorsport",
+          "Tennis"
+        ],
+        "extra_sports": [
+          "American Football",
+          "Golf",
+          "MMA",
+          "Volleyball"
+        ]
+      },
+      "stats": {
+        "total_leagues": 23,
+        "matched_leagues": 19,
+        "coverage_percent": 67
+      },
+      "notes": "Bundesliga, forte culture foot"
+    },
+    "Spain": {
+      "code": "ES",
+      "major_sports": [
+        "Football",
+        "Basketball",
+        "Tennis",
+        "Motorsport",
+        "Handball",
+        "Cycling"
+      ],
+      "leagues_by_sport": {
+        "Basketball": [
+          {
+            "name": "Spanish Liga ACB"
+          },
+          {
+            "name": "Spanish Copa del Rey de Baloncesto"
+          },
+          {
+            "name": "Spanish Supercup of Basketball"
+          },
+          {
+            "name": "Spanish Primera FEB"
+          },
+          {
+            "name": "Spanish Liga Femenina de Baloncesto"
+          },
+          {
+            "name": "Spanish Supercopa de Espana de Baloncesto Femenino"
+          },
+          {
+            "name": "Spanish Copa de la Reina de Baloncesto",
+            "popularity": {
+              "score": 82,
+              "tier": "A",
+              "sources": [
+                "wikipedia",
+                "google_trends"
+              ],
+              "wikipedia_monthly_views": 132058,
+              "wikipedia_score": 92,
+              "google_trends_index": 70,
+              "google_trends_score": 70
+            }
+          },
+          {
+            "name": "Spanish Segunda FEB"
+          }
+        ],
+        "Football": [
+          {
+            "name": "Spanish La Liga",
+            "popularity": {
+              "score": 82,
+              "tier": "A",
+              "sources": [
+                "wikipedia",
+                "google_trends"
+              ],
+              "wikipedia_monthly_views": 132058,
+              "wikipedia_score": 92,
+              "google_trends_index": 70,
+              "google_trends_score": 70
+            },
+            "season": {
+              "current": "2025-2026",
+              "start_date": "2025-08-16",
+              "end_date": "2026-05-24",
+              "events_count": 380
+            }
+          },
+          {
+            "name": "Spanish La Liga 2",
+            "popularity": {
+              "score": 82,
+              "tier": "A",
+              "sources": [
+                "wikipedia",
+                "google_trends"
+              ],
+              "wikipedia_monthly_views": 132058,
+              "wikipedia_score": 92,
+              "google_trends_index": 70,
+              "google_trends_score": 70
+            },
+            "season": {
+              "current": "2025-2026",
+              "start_date": "2025-08-16",
+              "end_date": "2026-05-24",
+              "events_count": 380
+            }
+          },
+          {
+            "name": "Copa del Rey"
+          },
+          {
+            "name": "Supercopa de Espana"
+          },
+          {
+            "name": "Primera División RFEF Group 1"
+          },
+          {
+            "name": "Primera División RFEF Group 2"
+          },
+          {
+            "name": "Spanish Segunda División B Group 3"
+          },
+          {
+            "name": "Spanish Segunda División B Group 4"
+          },
+          {
+            "name": "Spanish Segunda División B Group 5"
+          },
+          {
+            "name": "Spanish Primera RFEF Group 1"
+          },
+          {
+            "name": "Spanish Segunda RFEF Group 1"
+          },
+          {
+            "name": "Spanish Primera RFEF Group 2"
+          },
+          {
+            "name": "Spanish Segunda RFEF Group 2"
+          },
+          {
+            "name": "Spanish Segunda RFEF Group 3"
+          },
+          {
+            "name": "Spanish Segunda RFEF Group 4"
+          },
+          {
+            "name": "Spanish Segunda RFEF Group 5"
+          },
+          {
+            "name": "Spanish Liga F"
+          },
+          {
+            "name": "Supercopa de Espana Femenina"
+          },
+          {
+            "name": "Spanish Tercera Federación Group 1"
+          },
+          {
+            "name": "Spanish Tercera Federación Group 2"
+          },
+          {
+            "name": "Spanish Tercera Federación Group 3"
+          },
+          {
+            "name": "Spanish Tercera Federación Group 4"
+          },
+          {
+            "name": "Spanish Tercera Federación Group 5"
+          },
+          {
+            "name": "Spanish Tercera Federación Group 6"
+          },
+          {
+            "name": "Spanish Tercera Federación Group 7"
+          },
+          {
+            "name": "Spanish Tercera Federación Group 8"
+          },
+          {
+            "name": "Spanish Tercera Federación Group 9"
+          },
+          {
+            "name": "Spanish Tercera Federación Group 10"
+          },
+          {
+            "name": "Spanish Tercera Federación Group 11"
+          },
+          {
+            "name": "Spanish Tercera Federación Group 12"
+          },
+          {
+            "name": "Spanish Tercera Federación Group 13"
+          },
+          {
+            "name": "Spanish Tercera Federación Group 14"
+          },
+          {
+            "name": "Spanish Tercera Federación Group 15"
+          },
+          {
+            "name": "Spanish Tercera Federación Group 16"
+          },
+          {
+            "name": "Spanish Tercera Federación Group 17"
+          },
+          {
+            "name": "Spanish Tercera Federación Group 18"
+          },
+          {
+            "name": "Spanish Copa Federacion"
+          }
+        ],
+        "Handball": [
+          {
+            "name": "Spanish Liga ASOBAL"
+          }
+        ],
+        "Rugby": [
+          {
+            "name": "Spanish División de Honor"
+          }
+        ]
+      },
+      "coverage": {
+        "matched": [
+          "Basketball",
+          "Football",
+          "Handball"
+        ],
+        "missing": [
+          "Cycling",
+          "Motorsport",
+          "Tennis"
+        ],
+        "extra_sports": [
+          "Rugby"
+        ]
+      },
+      "stats": {
+        "total_leagues": 47,
+        "matched_leagues": 46,
+        "coverage_percent": 50
+      },
+      "notes": "La Liga, basketball fort"
+    },
+    "Italy": {
+      "code": "IT",
+      "major_sports": [
+        "Football",
+        "Basketball",
+        "Volleyball",
+        "Rugby",
+        "Motorsport",
+        "Cycling"
+      ],
+      "leagues_by_sport": {
+        "Football": [
+          {
+            "name": "Serie A",
+            "popularity": {
+              "score": 74,
+              "tier": "B",
+              "sources": [
+                "wikipedia",
+                "google_trends"
+              ],
+              "wikipedia_monthly_views": 110171,
+              "wikipedia_score": 91,
+              "google_trends_index": 55,
+              "google_trends_score": 55
+            },
+            "season": {
+              "current": "2025-2026",
+              "start_date": "2025-08-24",
+              "end_date": "2026-05-24",
+              "events_count": 380
+            }
+          },
+          {
+            "name": "Serie B"
+          }
+        ]
+      },
+      "coverage": {
+        "matched": [
+          "Football"
+        ],
+        "missing": [
+          "Basketball",
+          "Cycling",
+          "Motorsport",
+          "Rugby",
+          "Volleyball"
+        ],
+        "extra_sports": []
+      },
+      "stats": {
+        "total_leagues": 2,
+        "matched_leagues": 2,
+        "coverage_percent": 17
+      },
+      "notes": "Serie A, passion foot intense"
+    },
+    "United States": {
+      "code": "US",
+      "major_sports": [
+        "American Football",
+        "Basketball",
+        "Baseball",
+        "Ice Hockey",
+        "MMA",
+        "Golf"
+      ],
+      "leagues_by_sport": {
+        "American Football": [
+          {
+            "name": "NFL",
+            "popularity": {
+              "score": 96,
+              "tier": "A",
+              "sources": [
+                "wikipedia",
+                "google_trends"
+              ],
+              "wikipedia_monthly_views": 252206,
+              "wikipedia_score": 97,
+              "google_trends_index": 95,
+              "google_trends_score": 95
+            },
+            "season": {
+              "current": "2025-2026",
+              "start_date": "2025-09-04",
+              "end_date": "2026-02-08",
+              "events_count": 272
+            }
+          },
+          {
+            "name": "Arena Football League"
+          },
+          {
+            "name": "Indoor Football League"
+          },
+          {
+            "name": "National Arena League"
+          },
+          {
+            "name": "NCAA Division 1"
+          },
+          {
+            "name": "AAF"
+          },
+          {
+            "name": "XFL"
+          }
+        ],
+        "Baseball": [
+          {
+            "name": "MLB",
+            "popularity": {
+              "score": 78,
+              "tier": "A",
+              "sources": [
+                "wikipedia",
+                "google_trends"
+              ],
+              "wikipedia_monthly_views": 153317,
+              "wikipedia_score": 93,
+              "google_trends_index": 60,
+              "google_trends_score": 60
+            },
+            "season": {
+              "current": "2026",
+              "start_date": "2026-03-26",
+              "end_date": "2026-10-04",
+              "events_count": 2430
+            }
+          }
+        ],
+        "Basketball": [
+          {
+            "name": "NBA",
+            "popularity": {
+              "score": 91,
+              "tier": "A",
+              "sources": [
+                "wikipedia",
+                "google_trends"
+              ],
+              "wikipedia_monthly_views": 139120,
+              "wikipedia_score": 92,
+              "google_trends_index": 90,
+              "google_trends_score": 90
+            },
+            "season": {
+              "current": "2025-2026",
+              "start_date": "2025-10-21",
+              "end_date": "2026-06-21",
+              "events_count": 1230
+            }
+          },
+          {
+            "name": "NBA G League",
+            "popularity": {
+              "score": 91,
+              "tier": "A",
+              "sources": [
+                "wikipedia",
+                "google_trends"
+              ],
+              "wikipedia_monthly_views": 139120,
+              "wikipedia_score": 92,
+              "google_trends_index": 90,
+              "google_trends_score": 90
+            },
+            "season": {
+              "current": "2025-2026",
+              "start_date": "2025-10-21",
+              "end_date": "2026-06-21",
+              "events_count": 1230
+            }
+          },
+          {
+            "name": "WNBA",
+            "popularity": {
+              "score": 91,
+              "tier": "A",
+              "sources": [
+                "wikipedia",
+                "google_trends"
+              ],
+              "wikipedia_monthly_views": 139120,
+              "wikipedia_score": 92,
+              "google_trends_index": 90,
+              "google_trends_score": 90
+            },
+            "season": {
+              "current": "2025-2026",
+              "start_date": "2025-10-21",
+              "end_date": "2026-06-21",
+              "events_count": 1230
+            }
+          },
+          {
+            "name": "NCAA Division I Basketball Mens"
+          },
+          {
+            "name": "FIBA AmeriCup"
+          }
+        ],
+        "ESports": [
+          {
+            "name": "League of Legends Championship Series"
+          },
+          {
+            "name": "eNASCAR iRacing Series",
+            "popularity": {
+              "score": 61,
+              "tier": "B",
+              "sources": [
+                "wikipedia",
+                "google_trends"
+              ],
+              "wikipedia_monthly_views": 45122,
+              "wikipedia_score": 84,
+              "google_trends_index": 35,
+              "google_trends_score": 35
+            }
+          }
+        ],
+        "Football": [
+          {
+            "name": "American Major League Soccer",
+            "popularity": {
+              "score": 68,
+              "tier": "B",
+              "sources": [
+                "wikipedia",
+                "google_trends"
+              ],
+              "wikipedia_monthly_views": 129355,
+              "wikipedia_score": 92,
+              "google_trends_index": 40,
+              "google_trends_score": 40
+            },
+            "season": {
+              "current": "2026",
+              "start_date": "2026-02-21",
+              "end_date": "2026-12-13",
+              "events_count": 612
+            }
+          },
+          {
+            "name": "American NASL"
+          },
+          {
+            "name": "American NWSL"
+          },
+          {
+            "name": "American USL Championship"
+          }
+        ],
+        "Golf": [
+          {
+            "name": "Korn Ferry Tour"
+          }
+        ],
+        "Ice Hockey": [
+          {
+            "name": "American AHL"
+          }
+        ],
+        "MMA": [
+          {
+            "name": "WWE"
+          },
+          {
+            "name": "ROH"
+          },
+          {
+            "name": "WCW"
+          },
+          {
+            "name": "ECW"
+          },
+          {
+            "name": "NWA"
+          },
+          {
+            "name": "TNA Wrestling"
+          },
+          {
+            "name": "AEW"
+          },
+          {
+            "name": "BKFC"
+          },
+          {
+            "name": "GCW"
+          },
+          {
+            "name": "Affliction"
+          },
+          {
+            "name": "Strikeforce"
+          },
+          {
+            "name": "IFL"
+          },
+          {
+            "name": "Top Rank"
+          },
+          {
+            "name": "TPW"
+          },
+          {
+            "name": "USWF"
+          },
+          {
+            "name": "KOTC"
+          },
+          {
+            "name": "EliteXC"
+          },
+          {
+            "name": "NCAA Fighting"
+          }
+        ],
+        "Motorsport": [
+          {
+            "name": "IndyCar Series"
+          },
+          {
+            "name": "NASCAR Cup Series",
+            "popularity": {
+              "score": 61,
+              "tier": "B",
+              "sources": [
+                "wikipedia",
+                "google_trends"
+              ],
+              "wikipedia_monthly_views": 45122,
+              "wikipedia_score": 84,
+              "google_trends_index": 35,
+              "google_trends_score": 35
+            }
+          },
+          {
+            "name": "AMA Supercross Championship"
+          },
+          {
+            "name": "Pro Motocross"
+          },
+          {
+            "name": "IMSA SportsCar Championship"
+          },
+          {
+            "name": "NASCAR Xfinity Series",
+            "popularity": {
+              "score": 61,
+              "tier": "B",
+              "sources": [
+                "wikipedia",
+                "google_trends"
+              ],
+              "wikipedia_monthly_views": 45122,
+              "wikipedia_score": 84,
+              "google_trends_index": 35,
+              "google_trends_score": 35
+            }
+          },
+          {
+            "name": "IMSA Prototype Challenge Series"
+          },
+          {
+            "name": "IMSA Pilot Challenge"
+          },
+          {
+            "name": "Porsche GT3 Cup Challenge"
+          },
+          {
+            "name": "Lamborghini Super Trofeo North America",
+            "popularity": {
+              "score": 82,
+              "tier": "A",
+              "sources": [
+                "wikipedia",
+                "google_trends"
+              ],
+              "wikipedia_monthly_views": 132058,
+              "wikipedia_score": 92,
+              "google_trends_index": 70,
+              "google_trends_score": 70
+            }
+          },
+          {
+            "name": "Ferrari Challenge North America"
+          }
+        ]
+      },
+      "coverage": {
+        "matched": [
+          "American Football",
+          "Baseball",
+          "Basketball",
+          "Golf",
+          "Ice Hockey",
+          "MMA"
+        ],
+        "missing": [],
+        "extra_sports": [
+          "ESports",
+          "Football",
+          "Motorsport"
+        ]
+      },
+      "stats": {
+        "total_leagues": 50,
+        "matched_leagues": 33,
+        "coverage_percent": 100
+      },
+      "notes": "NFL, NBA, MLB, NHL - Big 4"
+    },
+    "Canada": {
+      "code": "CA",
+      "major_sports": [
+        "Ice Hockey",
+        "American Football",
+        "Basketball",
+        "Baseball",
+        "MMA",
+        "Lacrosse"
+      ],
+      "leagues_by_sport": {
+        "American Football": [
+          {
+            "name": "CFL",
+            "popularity": {
+              "score": 51,
+              "tier": "B",
+              "sources": [
+                "wikipedia",
+                "google_trends"
+              ],
+              "wikipedia_monthly_views": 46891,
+              "wikipedia_score": 84,
+              "google_trends_index": 12,
+              "google_trends_score": 12
+            }
+          },
+          {
+            "name": "U Sports Football League"
+          }
+        ],
+        "Baseball": [
+          {
+            "name": "Can-Am"
+          }
+        ],
+        "Basketball": [
+          {
+            "name": "Canadian Elite Basketball League"
+          }
+        ],
+        "Football": [
+          {
+            "name": "Canadian Premier League",
+            "popularity": {
+              "score": 100,
+              "tier": "A",
+              "sources": [
+                "wikipedia",
+                "google_trends"
+              ],
+              "wikipedia_monthly_views": 339659,
+              "wikipedia_score": 100,
+              "google_trends_index": 100,
+              "google_trends_score": 100
+            }
+          },
+          {
+            "name": "Canadian Northern Super League"
+          }
+        ],
+        "Golf": [
+          {
+            "name": "PGA Tour Canada",
+            "popularity": {
+              "score": 56,
+              "tier": "B",
+              "sources": [
+                "wikipedia",
+                "google_trends"
+              ],
+              "wikipedia_monthly_views": 25823,
+              "wikipedia_score": 79,
+              "google_trends_index": 30,
+              "google_trends_score": 30
+            }
+          },
+          {
+            "name": "PGA Tour Americas",
+            "popularity": {
+              "score": 56,
+              "tier": "B",
+              "sources": [
+                "wikipedia",
+                "google_trends"
+              ],
+              "wikipedia_monthly_views": 25823,
+              "wikipedia_score": 79,
+              "google_trends_index": 30,
+              "google_trends_score": 30
+            }
+          }
+        ],
+        "Ice Hockey": [
+          {
+            "name": "Canadian OHL"
+          },
+          {
+            "name": "Canadian WHL"
+          },
+          {
+            "name": "Canadian QMJHL"
+          },
+          {
+            "name": "Canada Cup"
+          },
+          {
+            "name": "Canadian Memorial Cup"
+          }
+        ],
+        "MMA": [
+          {
+            "name": "TKO MMA"
+          }
+        ],
+        "Wintersports": [
+          {
+            "name": "Scotties Tournament of Hearts"
+          }
+        ]
+      },
+      "coverage": {
+        "matched": [
+          "American Football",
+          "Baseball",
+          "Basketball",
+          "Ice Hockey",
+          "MMA"
+        ],
+        "missing": [
+          "Lacrosse"
+        ],
+        "extra_sports": [
+          "Football",
+          "Golf",
+          "Wintersports"
+        ]
+      },
+      "stats": {
+        "total_leagues": 15,
+        "matched_leagues": 10,
+        "coverage_percent": 83
+      },
+      "notes": "Hockey sport national, CFL"
+    },
+    "Brazil": {
+      "code": "BR",
+      "major_sports": [
+        "Football",
+        "MMA",
+        "Volleyball",
+        "Basketball",
+        "Motorsport"
+      ],
+      "leagues_by_sport": {
+        "Football": [
+          {
+            "name": "Brazilian Serie A",
+            "popularity": {
+              "score": 74,
+              "tier": "B",
+              "sources": [
+                "wikipedia",
+                "google_trends"
+              ],
+              "wikipedia_monthly_views": 110171,
+              "wikipedia_score": 91,
+              "google_trends_index": 55,
+              "google_trends_score": 55
+            },
+            "season": {
+              "current": "2026",
+              "start_date": "2026-04-11",
+              "end_date": "2026-12-06",
+              "events_count": 380
+            }
+          },
+          {
+            "name": "Brazilian Serie B"
+          },
+          {
+            "name": "Brazilian Serie C"
+          },
+          {
+            "name": "Copa do Brasil"
+          },
+          {
+            "name": "Brazil Serie D"
+          },
+          {
+            "name": "Brazil Brasileiro Women"
+          },
+          {
+            "name": "Copa Paulista"
+          },
+          {
+            "name": "Brazilian Copa do Nordeste"
+          },
+          {
+            "name": "Brazilian Copa Verde"
+          },
+          {
+            "name": "Brazilian Campeonato Acreano"
+          },
+          {
+            "name": "Brazilian Campeonato Alagoano",
+            "popularity": {
+              "score": 82,
+              "tier": "A",
+              "sources": [
+                "wikipedia",
+                "google_trends"
+              ],
+              "wikipedia_monthly_views": 132058,
+              "wikipedia_score": 92,
+              "google_trends_index": 70,
+              "google_trends_score": 70
+            }
+          },
+          {
+            "name": "Brazilian Campeonato Amapaense"
+          },
+          {
+            "name": "Brazilian Campeonato Amazonense"
+          },
+          {
+            "name": "Brazilian Campeonato Baiano"
+          },
+          {
+            "name": "Brazilian Campeonato Brasiliense"
+          },
+          {
+            "name": "Brazilian Campeonato Capixaba"
+          },
+          {
+            "name": "Brazilian Campeonato Catarinense"
+          },
+          {
+            "name": "Brazilian Campeonato Carioca"
+          },
+          {
+            "name": "Brazilian Campeonato Cearense"
+          },
+          {
+            "name": "Brazilian Campeonato Gaucho"
+          },
+          {
+            "name": "Brazilian Copa FGF"
+          },
+          {
+            "name": "Brazilian Campeonato Goiano"
+          },
+          {
+            "name": "Brazilian Campeonato Maranhense"
+          },
+          {
+            "name": "Brazilian Campeonato MatoGrossense"
+          },
+          {
+            "name": "Brazilian Campeonato Mineiro"
+          },
+          {
+            "name": "Brazilian Campeonato Paraense"
+          },
+          {
+            "name": "Brazilian Campeonato Paraibano"
+          },
+          {
+            "name": "Brazilian Campeonato Paranaense"
+          },
+          {
+            "name": "Brazilian Campeonato Paulista"
+          },
+          {
+            "name": "Brazilian Campeonato Pernambucano"
+          },
+          {
+            "name": "Brazilian Campeonato Piauiense"
+          },
+          {
+            "name": "Brazilian Campeonato Potiguar"
+          },
+          {
+            "name": "Brazilian Campeonato Rondoniense"
+          },
+          {
+            "name": "Brazilian Campeonato Roraimense"
+          },
+          {
+            "name": "Brazilian Campeonato Sergipano"
+          },
+          {
+            "name": "Brazilian Campeonato SulMatoGrossense"
+          },
+          {
+            "name": "Brazilian Campeonato Tocantinense"
+          },
+          {
+            "name": "Brazilian Supercopa Rei"
+          }
+        ],
+        "MMA": [
+          {
+            "name": "Jungle Fight"
+          }
+        ]
+      },
+      "coverage": {
+        "matched": [
+          "Football",
+          "MMA"
+        ],
+        "missing": [
+          "Basketball",
+          "Motorsport",
+          "Volleyball"
+        ],
+        "extra_sports": []
+      },
+      "stats": {
+        "total_leagues": 39,
+        "matched_leagues": 39,
+        "coverage_percent": 40
+      },
+      "notes": "Football religion nationale, MMA fort"
+    },
+    "Argentina": {
+      "code": "AR",
+      "major_sports": [
+        "Football",
+        "Basketball",
+        "Rugby",
+        "Tennis",
+        "Polo"
+      ],
+      "leagues_by_sport": {
+        "Basketball": [
+          {
+            "name": "Argentine LNB"
+          }
+        ],
+        "Football": [
+          {
+            "name": "Argentinian Primera Division"
+          },
+          {
+            "name": "Copa Argentina"
+          },
+          {
+            "name": "Argentinian Primera B Nacional"
+          },
+          {
+            "name": "Argentina Primera B Metropolitana"
+          },
+          {
+            "name": "Argentinian Copa de la Liga Profesional",
+            "popularity": {
+              "score": 82,
+              "tier": "A",
+              "sources": [
+                "wikipedia",
+                "google_trends"
+              ],
+              "wikipedia_monthly_views": 132058,
+              "wikipedia_score": 92,
+              "google_trends_index": 70,
+              "google_trends_score": 70
+            }
+          },
+          {
+            "name": "Argentina Torneo Federal A"
+          },
+          {
+            "name": "Argentinian Primera C"
+          },
+          {
+            "name": "Argentinian Supercopa Internacional"
+          },
+          {
+            "name": "Argentinian Trofeo de Campeones"
+          }
+        ],
+        "Rugby": [
+          {
+            "name": "URBA Top 13"
+          },
+          {
+            "name": "Super Liga Americana",
+            "popularity": {
+              "score": 56,
+              "tier": "B",
+              "sources": [
+                "wikipedia",
+                "google_trends"
+              ],
+              "wikipedia_monthly_views": 34685,
+              "wikipedia_score": 82,
+              "google_trends_index": 25,
+              "google_trends_score": 25
+            }
+          }
+        ]
+      },
+      "coverage": {
+        "matched": [
+          "Basketball",
+          "Football",
+          "Rugby"
+        ],
+        "missing": [
+          "Polo",
+          "Tennis"
+        ],
+        "extra_sports": []
+      },
+      "stats": {
+        "total_leagues": 12,
+        "matched_leagues": 12,
+        "coverage_percent": 60
+      },
+      "notes": "Passion foot, Maradona/Messi"
+    },
+    "Mexico": {
+      "code": "MX",
+      "major_sports": [
+        "Football",
+        "Boxing",
+        "Baseball",
+        "Lucha Libre",
+        "Basketball"
+      ],
+      "leagues_by_sport": {
+        "Baseball": [
+          {
+            "name": "Liga Mexicana de Béisbol"
+          },
+          {
+            "name": "Mexican Pacific League"
+          }
+        ],
+        "Basketball": [
+          {
+            "name": "Mexican LNBP"
+          }
+        ],
+        "Boxing": [
+          {
+            "name": "AAA"
+          },
+          {
+            "name": "CMLL"
+          },
+          {
+            "name": "Zona 23"
+          }
+        ],
+        "Football": [
+          {
+            "name": "Mexican Primera League"
+          },
+          {
+            "name": "Mexican Liga de Expansión MX"
+          },
+          {
+            "name": "Mexico Liga MX Femenil",
+            "popularity": {
+              "score": 66,
+              "tier": "B",
+              "sources": [
+                "wikipedia",
+                "google_trends"
+              ],
+              "wikipedia_monthly_views": 49847,
+              "wikipedia_score": 84,
+              "google_trends_index": 45,
+              "google_trends_score": 45
+            },
+            "season": {
+              "current": "2025-2026",
+              "start_date": "2025-07-11",
+              "end_date": "2026-05-17",
+              "events_count": 340
+            }
+          },
+          {
+            "name": "Mexican Campeon de Campeones"
+          }
+        ]
+      },
+      "coverage": {
+        "matched": [
+          "Baseball",
+          "Basketball",
+          "Boxing",
+          "Football"
+        ],
+        "missing": [
+          "Lucha Libre"
+        ],
+        "extra_sports": []
+      },
+      "stats": {
+        "total_leagues": 10,
+        "matched_leagues": 10,
+        "coverage_percent": 80
+      },
+      "notes": "Liga MX, boxe historique"
+    },
+    "Japan": {
+      "code": "JP",
+      "major_sports": [
+        "Baseball",
+        "Football",
+        "MMA",
+        "Wrestling",
+        "Basketball",
+        "Motorsport"
+      ],
+      "leagues_by_sport": {
+        "Baseball": [
+          {
+            "name": "Nippon Baseball League"
+          }
+        ],
+        "Football": [
+          {
+            "name": "Japanese J1 League",
+            "popularity": {
+              "score": 51,
+              "tier": "B",
+              "sources": [
+                "wikipedia",
+                "google_trends"
+              ],
+              "wikipedia_monthly_views": 24308,
+              "wikipedia_score": 79,
+              "google_trends_index": 18,
+              "google_trends_score": 18
+            },
+            "season": {
+              "current": "2026",
+              "start_date": "2026-02-21",
+              "end_date": "2026-12-05",
+              "events_count": 306
+            }
+          },
+          {
+            "name": "Japanese J2 League"
+          }
+        ],
+        "Golf": [
+          {
+            "name": "Japan Golf Tour"
+          },
+          {
+            "name": "Japan Challenge Tour"
+          }
+        ],
+        "MMA": [
+          {
+            "name": "NJPW"
+          },
+          {
+            "name": "Rizin FF"
+          },
+          {
+            "name": "AJPW"
+          },
+          {
+            "name": "NOAH"
+          },
+          {
+            "name": "UWF"
+          },
+          {
+            "name": "UWF-i"
+          },
+          {
+            "name": "Pancrase"
+          },
+          {
+            "name": "DREAM"
+          },
+          {
+            "name": "DEEP"
+          },
+          {
+            "name": "IGF"
+          },
+          {
+            "name": "Battlarts",
+            "popularity": {
+              "score": 82,
+              "tier": "A",
+              "sources": [
+                "wikipedia",
+                "google_trends"
+              ],
+              "wikipedia_monthly_views": 132058,
+              "wikipedia_score": 92,
+              "google_trends_index": 70,
+              "google_trends_score": 70
+            }
+          },
+          {
+            "name": "BJW"
+          },
+          {
+            "name": "BML"
+          },
+          {
+            "name": "HUSTLE"
+          },
+          {
+            "name": "PWFG"
+          },
+          {
+            "name": "ZERO-1"
+          },
+          {
+            "name": "FREEDOMS"
+          },
+          {
+            "name": "UFO"
+          },
+          {
+            "name": "VTJ"
+          },
+          {
+            "name": "World Japan"
+          },
+          {
+            "name": "U-STYLE"
+          },
+          {
+            "name": "WAR"
+          },
+          {
+            "name": "Michinoku Pro"
+          },
+          {
+            "name": "KINGDOM"
+          },
+          {
+            "name": "AJW"
+          },
+          {
+            "name": "W-1"
+          },
+          {
+            "name": "Sumo"
+          },
+          {
+            "name": "Diamond Ring"
+          },
+          {
+            "name": "SRC"
+          },
+          {
+            "name": "Shoot Boxing"
+          },
+          {
+            "name": "Shooto"
+          },
+          {
+            "name": "RISE"
+          },
+          {
+            "name": "Heros"
+          },
+          {
+            "name": "ILFJ"
+          },
+          {
+            "name": "GLEAT"
+          },
+          {
+            "name": "Quintet "
+          },
+          {
+            "name": "Strong Style Pro-Wrestling"
+          },
+          {
+            "name": "Riki Pro"
+          },
+          {
+            "name": "Dradition"
+          },
+          {
+            "name": "SWS"
+          },
+          {
+            "name": "ZST"
+          },
+          {
+            "name": "KO",
+            "popularity": {
+              "score": 39,
+              "tier": "C",
+              "sources": [
+                "wikipedia",
+                "google_trends"
+              ],
+              "wikipedia_monthly_views": 5277,
+              "wikipedia_score": 67,
+              "google_trends_index": 5,
+              "google_trends_score": 5
+            }
+          },
+          {
+            "name": "AJKF"
+          },
+          {
+            "name": "KJP"
+          }
+        ],
+        "Motorsport": [
+          {
+            "name": "Super GT series"
+          }
+        ]
+      },
+      "coverage": {
+        "matched": [
+          "Baseball",
+          "Football",
+          "MMA",
+          "Motorsport"
+        ],
+        "missing": [
+          "Basketball",
+          "Wrestling"
+        ],
+        "extra_sports": [
+          "Golf"
+        ]
+      },
+      "stats": {
+        "total_leagues": 50,
+        "matched_leagues": 48,
+        "coverage_percent": 67
+      },
+      "notes": "Baseball sport #1, J-League"
+    },
+    "South Korea": {
+      "code": "KR",
+      "major_sports": [
+        "Football",
+        "Baseball",
+        "Basketball",
+        "Golf",
+        "Esports"
+      ],
+      "leagues_by_sport": {
+        "Basketball": [
+          {
+            "name": "Korean Basketball League",
+            "popularity": {
+              "score": 39,
+              "tier": "C",
+              "sources": [
+                "wikipedia",
+                "google_trends"
+              ],
+              "wikipedia_monthly_views": 5277,
+              "wikipedia_score": 67,
+              "google_trends_index": 5,
+              "google_trends_score": 5
+            }
+          }
+        ],
+        "Football": [
+          {
+            "name": "K League 1",
+            "popularity": {
+              "score": 46,
+              "tier": "C",
+              "sources": [
+                "wikipedia",
+                "google_trends"
+              ],
+              "wikipedia_monthly_views": 12735,
+              "wikipedia_score": 74,
+              "google_trends_index": 12,
+              "google_trends_score": 12
+            },
+            "season": {
+              "current": "2026",
+              "start_date": "2026-02-28",
+              "end_date": "2026-12-05",
+              "events_count": 266
+            }
+          },
+          {
+            "name": "K League 2"
+          }
+        ]
+      },
+      "coverage": {
+        "matched": [
+          "Basketball",
+          "Football"
+        ],
+        "missing": [
+          "Baseball",
+          "Esports",
+          "Golf"
+        ],
+        "extra_sports": []
+      },
+      "stats": {
+        "total_leagues": 3,
+        "matched_leagues": 3,
+        "coverage_percent": 40
+      },
+      "notes": "K-League, baseball fort"
+    },
+    "China": {
+      "code": "CN",
+      "major_sports": [
+        "Basketball",
+        "Football",
+        "Table Tennis",
+        "Badminton",
+        "Volleyball"
+      ],
+      "leagues_by_sport": {
+        "Basketball": [
+          {
+            "name": "Chinese Basketball Association",
+            "popularity": {
+              "score": 46,
+              "tier": "C",
+              "sources": [
+                "wikipedia",
+                "google_trends"
+              ],
+              "wikipedia_monthly_views": 11977,
+              "wikipedia_score": 73,
+              "google_trends_index": 15,
+              "google_trends_score": 15
+            }
+          }
+        ],
+        "Football": [
+          {
+            "name": "Chinese Super League",
+            "popularity": {
+              "score": 49,
+              "tier": "C",
+              "sources": [
+                "wikipedia",
+                "google_trends"
+              ],
+              "wikipedia_monthly_views": 18446,
+              "wikipedia_score": 77,
+              "google_trends_index": 15,
+              "google_trends_score": 15
+            },
+            "season": {
+              "current": "2026",
+              "start_date": "2026-03-01",
+              "end_date": "2026-11-07",
+              "events_count": 240
+            }
+          },
+          {
+            "name": "Chinese League One"
+          }
+        ]
+      },
+      "coverage": {
+        "matched": [
+          "Basketball",
+          "Football"
+        ],
+        "missing": [
+          "Badminton",
+          "Table Tennis",
+          "Volleyball"
+        ],
+        "extra_sports": []
+      },
+      "stats": {
+        "total_leagues": 3,
+        "matched_leagues": 3,
+        "coverage_percent": 40
+      },
+      "notes": "CBA, Chinese Super League"
+    },
+    "Australia": {
+      "code": "AU",
+      "major_sports": [
+        "Australian Rules Football",
+        "Rugby",
+        "Cricket",
+        "Football",
+        "Basketball",
+        "Tennis"
+      ],
+      "leagues_by_sport": {
+        "Australian Football": [
+          {
+            "name": "Australian AFL",
+            "popularity": {
+              "score": 61,
+              "tier": "B",
+              "sources": [
+                "wikipedia",
+                "google_trends"
+              ],
+              "wikipedia_monthly_views": 44571,
+              "wikipedia_score": 84,
+              "google_trends_index": 35,
+              "google_trends_score": 35
+            },
+            "season": {
+              "current": "2026",
+              "start_date": "2026-03-12",
+              "end_date": "2026-09-26",
+              "events_count": 207
+            }
+          },
+          {
+            "name": "AFL Womens",
+            "popularity": {
+              "score": 61,
+              "tier": "B",
+              "sources": [
+                "wikipedia",
+                "google_trends"
+              ],
+              "wikipedia_monthly_views": 44571,
+              "wikipedia_score": 84,
+              "google_trends_index": 35,
+              "google_trends_score": 35
+            },
+            "season": {
+              "current": "2026",
+              "start_date": "2026-03-12",
+              "end_date": "2026-09-26",
+              "events_count": 207
+            }
+          }
+        ],
+        "Baseball": [
+          {
+            "name": "Australian Baseball League"
+          }
+        ],
+        "Basketball": [
+          {
+            "name": "Australian NBL"
+          },
+          {
+            "name": "Australian WNBL"
+          },
+          {
+            "name": "NBL1 West"
+          },
+          {
+            "name": "NBL1 Central"
+          },
+          {
+            "name": "NBL1 East"
+          },
+          {
+            "name": "NBL1 North"
+          },
+          {
+            "name": "NBL1 South"
+          }
+        ],
+        "Cricket": [
+          {
+            "name": "Australian Big Bash League",
+            "popularity": {
+              "score": 59,
+              "tier": "B",
+              "sources": [
+                "wikipedia",
+                "google_trends"
+              ],
+              "wikipedia_monthly_views": 65574,
+              "wikipedia_score": 87,
+              "google_trends_index": 25,
+              "google_trends_score": 25
+            }
+          },
+          {
+            "name": "Sheffield Shield"
+          }
+        ],
+        "Football": [
+          {
+            "name": "Australian A-League"
+          },
+          {
+            "name": "Australia ACT NPL"
+          },
+          {
+            "name": "Australian A-League Women"
+          },
+          {
+            "name": "Australia Northern NSW NPL"
+          },
+          {
+            "name": "Australia New South Wales NPL"
+          },
+          {
+            "name": "Australia Victoria NPL"
+          },
+          {
+            "name": "Australia Brisbane Premier League",
+            "popularity": {
+              "score": 100,
+              "tier": "A",
+              "sources": [
+                "wikipedia",
+                "google_trends"
+              ],
+              "wikipedia_monthly_views": 339659,
+              "wikipedia_score": 100,
+              "google_trends_index": 100,
+              "google_trends_score": 100
+            }
+          },
+          {
+            "name": "Australia Queensland NPL",
+            "popularity": {
+              "score": 82,
+              "tier": "A",
+              "sources": [
+                "wikipedia",
+                "google_trends"
+              ],
+              "wikipedia_monthly_views": 132058,
+              "wikipedia_score": 92,
+              "google_trends_index": 70,
+              "google_trends_score": 70
+            }
+          },
+          {
+            "name": "Australia Western Australia NPL"
+          },
+          {
+            "name": "Australia South Australia NPL"
+          },
+          {
+            "name": "Australia Northern Territory Premier League",
+            "popularity": {
+              "score": 100,
+              "tier": "A",
+              "sources": [
+                "wikipedia",
+                "google_trends"
+              ],
+              "wikipedia_monthly_views": 339659,
+              "wikipedia_score": 100,
+              "google_trends_index": 100,
+              "google_trends_score": 100
+            }
+          },
+          {
+            "name": "Australia Tasmania NPL"
+          },
+          {
+            "name": "Australia FFA Cup"
+          },
+          {
+            "name": "Australian Championship"
+          }
+        ],
+        "Golf": [
+          {
+            "name": "PGA Tour of Australasia",
+            "popularity": {
+              "score": 82,
+              "tier": "A",
+              "sources": [
+                "wikipedia",
+                "google_trends"
+              ],
+              "wikipedia_monthly_views": 132058,
+              "wikipedia_score": 92,
+              "google_trends_index": 70,
+              "google_trends_score": 70
+            }
+          }
+        ],
+        "Motorsport": [
+          {
+            "name": "V8 Supercars"
+          }
+        ],
+        "Netball": [
+          {
+            "name": "Australian Super Netball League"
+          }
+        ],
+        "Rugby": [
+          {
+            "name": "Australian National Rugby League"
+          },
+          {
+            "name": "Australian National Rugby Championship"
+          },
+          {
+            "name": "Australian Shute Shield"
+          },
+          {
+            "name": "Super Rugby Aus",
+            "popularity": {
+              "score": 47,
+              "tier": "C",
+              "sources": [
+                "wikipedia",
+                "google_trends"
+              ],
+              "wikipedia_monthly_views": 13876,
+              "wikipedia_score": 74,
+              "google_trends_index": 15,
+              "google_trends_score": 15
+            }
+          }
+        ]
+      },
+      "coverage": {
+        "matched": [
+          "Basketball",
+          "Cricket",
+          "Football",
+          "Rugby"
+        ],
+        "missing": [
+          "Australian Rules Football",
+          "Tennis"
+        ],
+        "extra_sports": [
+          "Australian Football",
+          "Baseball",
+          "Golf",
+          "Motorsport",
+          "Netball"
+        ]
+      },
+      "stats": {
+        "total_leagues": 33,
+        "matched_leagues": 27,
+        "coverage_percent": 67
+      },
+      "notes": "AFL sport #1, NRL"
+    },
+    "Netherlands": {
+      "code": "NL",
+      "major_sports": [
+        "Football",
+        "Ice Hockey",
+        "Cycling",
+        "Tennis",
+        "Motorsport"
+      ],
+      "leagues_by_sport": {
+        "Football": [
+          {
+            "name": "Eredivisie",
+            "popularity": {
+              "score": 54,
+              "tier": "B",
+              "sources": [
+                "wikipedia",
+                "google_trends"
+              ],
+              "wikipedia_monthly_views": 45043,
+              "wikipedia_score": 84,
+              "google_trends_index": 18,
+              "google_trends_score": 18
+            },
+            "season": {
+              "current": "2025-2026",
+              "start_date": "2025-08-09",
+              "end_date": "2026-05-17",
+              "events_count": 306
+            }
+          }
+        ]
+      },
+      "coverage": {
+        "matched": [
+          "Football"
+        ],
+        "missing": [
+          "Cycling",
+          "Ice Hockey",
+          "Motorsport",
+          "Tennis"
+        ],
+        "extra_sports": []
+      },
+      "stats": {
+        "total_leagues": 1,
+        "matched_leagues": 1,
+        "coverage_percent": 20
+      },
+      "notes": "Eredivisie, football total"
+    },
+    "Belgium": {
+      "code": "BE",
+      "major_sports": [
+        "Football",
+        "Cycling",
+        "Tennis",
+        "Basketball",
+        "Motorsport"
+      ],
+      "leagues_by_sport": {
+        "Basketball": [
+          {
+            "name": "Belgian PBL"
+          },
+          {
+            "name": "BNXT League"
+          }
+        ],
+        "Football": [
+          {
+            "name": "Belgian Pro League",
+            "popularity": {
+              "score": 36,
+              "tier": "C",
+              "sources": [
+                "wikipedia",
+                "google_trends"
+              ],
+              "wikipedia_monthly_views": 2122,
+              "wikipedia_score": 60,
+              "google_trends_index": 8,
+              "google_trends_score": 8
+            }
+          },
+          {
+            "name": "Belgian First Division B"
+          }
+        ],
+        "Ice Hockey": [
+          {
+            "name": "CEHL"
+          }
+        ],
+        "Volleyball": [
+          {
+            "name": "Volleyliga Belgium"
+          }
+        ]
+      },
+      "coverage": {
+        "matched": [
+          "Basketball",
+          "Football"
+        ],
+        "missing": [
+          "Cycling",
+          "Motorsport",
+          "Tennis"
+        ],
+        "extra_sports": [
+          "Ice Hockey",
+          "Volleyball"
+        ]
+      },
+      "stats": {
+        "total_leagues": 6,
+        "matched_leagues": 4,
+        "coverage_percent": 40
+      },
+      "notes": "Pro League, cyclisme tradition"
+    },
+    "Portugal": {
+      "code": "PT",
+      "major_sports": [
+        "Football",
+        "Basketball",
+        "Handball",
+        "Motorsport",
+        "Tennis"
+      ],
+      "leagues_by_sport": {
+        "Football": [
+          {
+            "name": "Portuguese Primeira Liga",
+            "popularity": {
+              "score": 52,
+              "tier": "B",
+              "sources": [
+                "wikipedia",
+                "google_trends"
+              ],
+              "wikipedia_monthly_views": 43241,
+              "wikipedia_score": 83,
+              "google_trends_index": 15,
+              "google_trends_score": 15
+            },
+            "season": {
+              "current": "2025-2026",
+              "start_date": "2025-08-09",
+              "end_date": "2026-05-17",
+              "events_count": 306
+            }
+          },
+          {
+            "name": "Taca de Liga"
+          },
+          {
+            "name": "Taca de Portugal"
+          },
+          {
+            "name": "Portuguese LigaPro"
+          },
+          {
+            "name": "Portugal Liga 3"
+          },
+          {
+            "name": "Campeonato Nacional Feminino"
+          },
+          {
+            "name": "Campeonato de Portugal Serie A",
+            "popularity": {
+              "score": 74,
+              "tier": "B",
+              "sources": [
+                "wikipedia",
+                "google_trends"
+              ],
+              "wikipedia_monthly_views": 110171,
+              "wikipedia_score": 91,
+              "google_trends_index": 55,
+              "google_trends_score": 55
+            }
+          },
+          {
+            "name": "Campeonato de Portugal Serie B"
+          },
+          {
+            "name": "Campeonato de Portugal Serie C"
+          },
+          {
+            "name": "Campeonato de Portugal Serie D"
+          }
+        ]
+      },
+      "coverage": {
+        "matched": [
+          "Football"
+        ],
+        "missing": [
+          "Basketball",
+          "Handball",
+          "Motorsport",
+          "Tennis"
+        ],
+        "extra_sports": []
+      },
+      "stats": {
+        "total_leagues": 10,
+        "matched_leagues": 10,
+        "coverage_percent": 20
+      },
+      "notes": "Primeira Liga, Ronaldo"
+    },
+    "Russia": {
+      "code": "RU",
+      "major_sports": [
+        "Football",
+        "Ice Hockey",
+        "Basketball",
+        "Volleyball",
+        "MMA"
+      ],
+      "leagues_by_sport": {
+        "Basketball": [
+          {
+            "name": "Russian VTB United League"
+          }
+        ],
+        "Football": [
+          {
+            "name": "Russian Football Premier League",
+            "popularity": {
+              "score": 100,
+              "tier": "A",
+              "sources": [
+                "wikipedia",
+                "google_trends"
+              ],
+              "wikipedia_monthly_views": 339659,
+              "wikipedia_score": 100,
+              "google_trends_index": 100,
+              "google_trends_score": 100
+            }
+          },
+          {
+            "name": "Russian Football National League"
+          },
+          {
+            "name": "Russia Cup"
+          },
+          {
+            "name": "Russia FNL 2 Group 1"
+          },
+          {
+            "name": "Russia FNL 2 Group 2"
+          },
+          {
+            "name": "Russia FNL 2 Group 3"
+          },
+          {
+            "name": "Russia FNL 2 Group 4"
+          },
+          {
+            "name": "Russia FNL 2 Division A Gold Group"
+          },
+          {
+            "name": "Russia FNL 2 Division A Silver Group"
+          }
+        ],
+        "Ice Hockey": [
+          {
+            "name": "Russian VHL"
+          },
+          {
+            "name": "Russian KHL",
+            "popularity": {
+              "score": 46,
+              "tier": "C",
+              "sources": [
+                "wikipedia",
+                "google_trends"
+              ],
+              "wikipedia_monthly_views": 19163,
+              "wikipedia_score": 77,
+              "google_trends_index": 10,
+              "google_trends_score": 10
+            }
+          }
+        ],
+        "MMA": [
+          {
+            "name": "ACA"
+          }
+        ],
+        "Volleyball": [
+          {
+            "name": "Russian Volleyball Super League"
+          }
+        ]
+      },
+      "coverage": {
+        "matched": [
+          "Basketball",
+          "Football",
+          "Ice Hockey",
+          "MMA",
+          "Volleyball"
+        ],
+        "missing": [],
+        "extra_sports": []
+      },
+      "stats": {
+        "total_leagues": 14,
+        "matched_leagues": 14,
+        "coverage_percent": 100
+      },
+      "notes": "KHL, RPL"
+    },
+    "Poland": {
+      "code": "PL",
+      "major_sports": [
+        "Football",
+        "Volleyball",
+        "Handball",
+        "Basketball",
+        "Motorsport"
+      ],
+      "leagues_by_sport": {
+        "Basketball": [
+          {
+            "name": "Polish Basketball League"
+          }
+        ],
+        "Football": [
+          {
+            "name": "Polish Ekstraklasa",
+            "popularity": {
+              "score": 82,
+              "tier": "A",
+              "sources": [
+                "wikipedia",
+                "google_trends"
+              ],
+              "wikipedia_monthly_views": 132058,
+              "wikipedia_score": 92,
+              "google_trends_index": 70,
+              "google_trends_score": 70
+            },
+            "season": {
+              "current": "2025-2026",
+              "start_date": "2025-07-18",
+              "end_date": "2026-05-24",
+              "events_count": 306
+            }
+          },
+          {
+            "name": "Polish I liga"
+          },
+          {
+            "name": "Polish II liga"
+          },
+          {
+            "name": "Polish III liga Group I"
+          },
+          {
+            "name": "Polish III liga Group II"
+          },
+          {
+            "name": "Polish III liga Group III"
+          },
+          {
+            "name": "Polish III liga Group IV"
+          }
+        ],
+        "Handball": [
+          {
+            "name": "Polish Handball Superliga"
+          }
+        ],
+        "Ice Hockey": [
+          {
+            "name": "Polish Hockey League"
+          }
+        ],
+        "MMA": [
+          {
+            "name": "KSW"
+          }
+        ],
+        "Volleyball": [
+          {
+            "name": "Polish PlusLiga"
+          }
+        ]
+      },
+      "coverage": {
+        "matched": [
+          "Basketball",
+          "Football",
+          "Handball",
+          "Volleyball"
+        ],
+        "missing": [
+          "Motorsport"
+        ],
+        "extra_sports": [
+          "Ice Hockey",
+          "MMA"
+        ]
+      },
+      "stats": {
+        "total_leagues": 12,
+        "matched_leagues": 10,
+        "coverage_percent": 80
+      },
+      "notes": "Ekstraklasa, volleyball fort"
+    },
+    "Turkey": {
+      "code": "TR",
+      "major_sports": [
+        "Football",
+        "Basketball",
+        "Volleyball",
+        "Wrestling",
+        "Motorsport"
+      ],
+      "leagues_by_sport": {
+        "Basketball": [
+          {
+            "name": "Turkish Basketbol Super Ligi",
+            "popularity": {
+              "score": 56,
+              "tier": "B",
+              "sources": [
+                "wikipedia",
+                "google_trends"
+              ],
+              "wikipedia_monthly_views": 34685,
+              "wikipedia_score": 82,
+              "google_trends_index": 25,
+              "google_trends_score": 25
+            }
+          },
+          {
+            "name": "Turkish Basketball Cup"
+          },
+          {
+            "name": "Turkish Basketball Presidential Cup"
+          },
+          {
+            "name": "Turkish Basketball First League"
+          }
+        ],
+        "Football": [
+          {
+            "name": "Turkish Super Lig",
+            "popularity": {
+              "score": 56,
+              "tier": "B",
+              "sources": [
+                "wikipedia",
+                "google_trends"
+              ],
+              "wikipedia_monthly_views": 34685,
+              "wikipedia_score": 82,
+              "google_trends_index": 25,
+              "google_trends_score": 25
+            },
+            "season": {
+              "current": "2025-2026",
+              "start_date": "2025-08-09",
+              "end_date": "2026-05-24",
+              "events_count": 306
+            }
+          },
+          {
+            "name": "Turkish 1 Lig"
+          },
+          {
+            "name": "Turkish 2 Lig"
+          },
+          {
+            "name": "Turkish Cup"
+          }
+        ],
+        "Volleyball": [
+          {
+            "name": "Turkish Volleyball League"
+          }
+        ]
+      },
+      "coverage": {
+        "matched": [
+          "Basketball",
+          "Football",
+          "Volleyball"
+        ],
+        "missing": [
+          "Motorsport",
+          "Wrestling"
+        ],
+        "extra_sports": []
+      },
+      "stats": {
+        "total_leagues": 9,
+        "matched_leagues": 9,
+        "coverage_percent": 60
+      },
+      "notes": "Super Lig, Istanbul derbies"
+    },
+    "Greece": {
+      "code": "GR",
+      "major_sports": [
+        "Football",
+        "Basketball",
+        "Volleyball",
+        "Water Polo"
+      ],
+      "leagues_by_sport": {
+        "Football": [
+          {
+            "name": "Super League Greece",
+            "popularity": {
+              "score": 46,
+              "tier": "C",
+              "sources": [
+                "wikipedia",
+                "google_trends"
+              ],
+              "wikipedia_monthly_views": 22768,
+              "wikipedia_score": 78,
+              "google_trends_index": 8,
+              "google_trends_score": 8
+            }
+          }
+        ]
+      },
+      "coverage": {
+        "matched": [
+          "Football"
+        ],
+        "missing": [
+          "Basketball",
+          "Volleyball",
+          "Water Polo"
+        ],
+        "extra_sports": []
+      },
+      "stats": {
+        "total_leagues": 1,
+        "matched_leagues": 1,
+        "coverage_percent": 25
+      },
+      "notes": "Super League, basket fort"
+    },
+    "Switzerland": {
+      "code": "CH",
+      "major_sports": [
+        "Football",
+        "Ice Hockey",
+        "Tennis",
+        "Skiing",
+        "Cycling"
+      ],
+      "leagues_by_sport": {
+        "Basketball": [
+          {
+            "name": "Swiss SB League"
+          }
+        ],
+        "Football": [
+          {
+            "name": "Swiss Super League",
+            "season": {
+              "current": "2025-2026",
+              "start_date": "2025-07-19",
+              "end_date": "2026-05-24",
+              "events_count": 198
+            }
+          },
+          {
+            "name": "Swiss Challenge League"
+          },
+          {
+            "name": "Swiss Promotion League"
+          },
+          {
+            "name": "Swiss Cup"
+          }
+        ],
+        "Ice Hockey": [
+          {
+            "name": "Swiss National League"
+          },
+          {
+            "name": "Swiss League"
+          }
+        ]
+      },
+      "coverage": {
+        "matched": [
+          "Football",
+          "Ice Hockey"
+        ],
+        "missing": [
+          "Cycling",
+          "Skiing",
+          "Tennis"
+        ],
+        "extra_sports": [
+          "Basketball"
+        ]
+      },
+      "stats": {
+        "total_leagues": 7,
+        "matched_leagues": 6,
+        "coverage_percent": 40
+      },
+      "notes": "Super League, Federer nation"
+    },
+    "Austria": {
+      "code": "AT",
+      "major_sports": [
+        "Football",
+        "Ice Hockey",
+        "Skiing",
+        "Motorsport",
+        "Tennis"
+      ],
+      "leagues_by_sport": {
+        "Football": [
+          {
+            "name": "Austrian Bundesliga",
+            "popularity": {
+              "score": 43,
+              "tier": "C",
+              "sources": [
+                "wikipedia",
+                "google_trends"
+              ],
+              "wikipedia_monthly_views": 13638,
+              "wikipedia_score": 74,
+              "google_trends_index": 7,
+              "google_trends_score": 7
+            }
+          }
+        ]
+      },
+      "coverage": {
+        "matched": [
+          "Football"
+        ],
+        "missing": [
+          "Ice Hockey",
+          "Motorsport",
+          "Skiing",
+          "Tennis"
+        ],
+        "extra_sports": []
+      },
+      "stats": {
+        "total_leagues": 1,
+        "matched_leagues": 1,
+        "coverage_percent": 20
+      },
+      "notes": "Bundesliga, Red Bull influence"
+    },
+    "Sweden": {
+      "code": "SE",
+      "major_sports": [
+        "Football",
+        "Ice Hockey",
+        "Handball",
+        "Golf",
+        "Motorsport"
+      ],
+      "leagues_by_sport": {
+        "Football": [
+          {
+            "name": "Swedish Allsvenskan",
+            "popularity": {
+              "score": 45,
+              "tier": "C",
+              "sources": [
+                "wikipedia",
+                "google_trends"
+              ],
+              "wikipedia_monthly_views": 23042,
+              "wikipedia_score": 78,
+              "google_trends_index": 6,
+              "google_trends_score": 6
+            },
+            "season": {
+              "current": "2026",
+              "start_date": "2026-04-05",
+              "end_date": "2026-11-08",
+              "events_count": 240
+            }
+          },
+          {
+            "name": "Swedish Superettan"
+          },
+          {
+            "name": "Swedish Division 1 North"
+          },
+          {
+            "name": "Svenska Cupen"
+          },
+          {
+            "name": "Swedish Division 1 South"
+          },
+          {
+            "name": "Sweden Damallsvenskan",
+            "popularity": {
+              "score": 45,
+              "tier": "C",
+              "sources": [
+                "wikipedia",
+                "google_trends"
+              ],
+              "wikipedia_monthly_views": 23042,
+              "wikipedia_score": 78,
+              "google_trends_index": 6,
+              "google_trends_score": 6
+            }
+          }
+        ],
+        "Golf": [
+          {
+            "name": "Nordic Golf League"
+          }
+        ],
+        "Handball": [
+          {
+            "name": "Swedish Handbollsligan"
+          }
+        ],
+        "Ice Hockey": [
+          {
+            "name": "Swedish Hockey League"
+          },
+          {
+            "name": "Swedish Womens Hockey League"
+          },
+          {
+            "name": "Swedish Hockey Allsvenskan",
+            "popularity": {
+              "score": 45,
+              "tier": "C",
+              "sources": [
+                "wikipedia",
+                "google_trends"
+              ],
+              "wikipedia_monthly_views": 23042,
+              "wikipedia_score": 78,
+              "google_trends_index": 6,
+              "google_trends_score": 6
+            }
+          }
+        ]
+      },
+      "coverage": {
+        "matched": [
+          "Football",
+          "Golf",
+          "Handball",
+          "Ice Hockey"
+        ],
+        "missing": [
+          "Motorsport"
+        ],
+        "extra_sports": []
+      },
+      "stats": {
+        "total_leagues": 11,
+        "matched_leagues": 11,
+        "coverage_percent": 80
+      },
+      "notes": "Allsvenskan, SHL"
+    },
+    "Norway": {
+      "code": "NO",
+      "major_sports": [
+        "Football",
+        "Ice Hockey",
+        "Skiing",
+        "Handball",
+        "Cycling"
+      ],
+      "leagues_by_sport": {
+        "Football": [
+          {
+            "name": "Eliteserien",
+            "popularity": {
+              "score": 44,
+              "tier": "C",
+              "sources": [
+                "wikipedia",
+                "google_trends"
+              ],
+              "wikipedia_monthly_views": 22294,
+              "wikipedia_score": 78,
+              "google_trends_index": 4,
+              "google_trends_score": 4
+            },
+            "season": {
+              "current": "2026",
+              "start_date": "2026-03-14",
+              "end_date": "2026-12-01",
+              "events_count": 240
+            }
+          },
+          {
+            "name": "Norwegian First Division"
+          }
+        ]
+      },
+      "coverage": {
+        "matched": [
+          "Football"
+        ],
+        "missing": [
+          "Cycling",
+          "Handball",
+          "Ice Hockey",
+          "Skiing"
+        ],
+        "extra_sports": []
+      },
+      "stats": {
+        "total_leagues": 2,
+        "matched_leagues": 2,
+        "coverage_percent": 20
+      },
+      "notes": "Eliteserien, sports d'hiver"
+    },
+    "Denmark": {
+      "code": "DK",
+      "major_sports": [
+        "Football",
+        "Handball",
+        "Cycling",
+        "Ice Hockey",
+        "Badminton"
+      ],
+      "leagues_by_sport": {
+        "Football": [
+          {
+            "name": "Superligaen",
+            "popularity": {
+              "score": 44,
+              "tier": "C",
+              "sources": [
+                "wikipedia",
+                "google_trends"
+              ],
+              "wikipedia_monthly_views": 17931,
+              "wikipedia_score": 76,
+              "google_trends_index": 5,
+              "google_trends_score": 5
+            }
+          }
+        ]
+      },
+      "coverage": {
+        "matched": [
+          "Football"
+        ],
+        "missing": [
+          "Badminton",
+          "Cycling",
+          "Handball",
+          "Ice Hockey"
+        ],
+        "extra_sports": []
+      },
+      "stats": {
+        "total_leagues": 1,
+        "matched_leagues": 1,
+        "coverage_percent": 20
+      },
+      "notes": "Superligaen, handball champions"
+    },
+    "Ireland": {
+      "code": "IE",
+      "major_sports": [
+        "Football",
+        "Rugby",
+        "Gaelic Football",
+        "Hurling",
+        "Golf"
+      ],
+      "leagues_by_sport": {
+        "Football": [
+          {
+            "name": "League of Ireland Premier Division",
+            "popularity": {
+              "score": 43,
+              "tier": "C",
+              "sources": [
+                "wikipedia",
+                "google_trends"
+              ],
+              "wikipedia_monthly_views": 19428,
+              "wikipedia_score": 77,
+              "google_trends_index": 3,
+              "google_trends_score": 3
+            }
+          },
+          {
+            "name": "League of Ireland First Division",
+            "popularity": {
+              "score": 82,
+              "tier": "A",
+              "sources": [
+                "wikipedia",
+                "google_trends"
+              ],
+              "wikipedia_monthly_views": 132058,
+              "wikipedia_score": 92,
+              "google_trends_index": 70,
+              "google_trends_score": 70
+            }
+          }
+        ]
+      },
+      "coverage": {
+        "matched": [
+          "Football"
+        ],
+        "missing": [
+          "Gaelic Football",
+          "Golf",
+          "Hurling",
+          "Rugby"
+        ],
+        "extra_sports": []
+      },
+      "stats": {
+        "total_leagues": 2,
+        "matched_leagues": 2,
+        "coverage_percent": 20
+      },
+      "notes": "GAA sports uniques"
+    },
+    "India": {
+      "code": "IN",
+      "major_sports": [
+        "Cricket",
+        "Football",
+        "Kabaddi",
+        "Hockey",
+        "Badminton"
+      ],
+      "leagues_by_sport": {
+        "Cricket": [
+          {
+            "name": "Indian Premier League",
+            "popularity": {
+              "score": 87,
+              "tier": "A",
+              "sources": [
+                "wikipedia",
+                "google_trends"
+              ],
+              "wikipedia_monthly_views": 89968,
+              "wikipedia_score": 89,
+              "google_trends_index": 85,
+              "google_trends_score": 85
+            },
+            "season": {
+              "current": "2026",
+              "start_date": "2026-03-20",
+              "end_date": "2026-05-25",
+              "events_count": 74
+            }
+          }
+        ],
+        "Football": [
+          {
+            "name": "Indian Super League",
+            "popularity": {
+              "score": 57,
+              "tier": "B",
+              "sources": [
+                "wikipedia",
+                "google_trends"
+              ],
+              "wikipedia_monthly_views": 44883,
+              "wikipedia_score": 84,
+              "google_trends_index": 25,
+              "google_trends_score": 25
+            }
+          },
+          {
+            "name": "Indian I-League"
+          },
+          {
+            "name": "Indian I-League 2nd Division"
+          }
+        ],
+        "Golf": [
+          {
+            "name": "Professional Golf Tour of India"
+          }
+        ]
+      },
+      "coverage": {
+        "matched": [
+          "Cricket",
+          "Football"
+        ],
+        "missing": [
+          "Badminton",
+          "Hockey",
+          "Kabaddi"
+        ],
+        "extra_sports": [
+          "Golf"
+        ]
+      },
+      "stats": {
+        "total_leagues": 5,
+        "matched_leagues": 4,
+        "coverage_percent": 40
+      },
+      "notes": "Cricket religion, IPL"
+    }
+  },
+  "sports_catalog": {
+    "Alpine Skiing": {
+      "id": 28,
+      "season": "Winter",
+      "emoji": "⛷"
+    },
+    "American Football": {
+      "id": 57,
+      "season": "Summer",
+      "emoji": "🏈"
+    },
+    "Archery": {
+      "id": 40,
+      "season": "Summer",
+      "emoji": "🎯"
+    },
+    "Artistic Gymnastics": {
+      "id": 19,
+      "season": "Summer",
+      "emoji": "🤸"
+    },
+    "Artistic Swimming": {
+      "id": 10,
+      "season": "Summer",
+      "emoji": "🏊"
+    },
+    "Athletics": {
+      "id": 21,
+      "season": "Summer",
+      "emoji": "🏃"
+    },
+    "Badminton": {
+      "id": 41,
+      "season": "Summer",
+      "emoji": "🏸"
+    },
+    "Bandy": {
+      "id": 53,
+      "season": "Winter",
+      "emoji": "🏒"
+    },
+    "Baseball": {
+      "id": 63,
+      "season": "Summer",
+      "emoji": "⚾"
+    },
+    "Basketball": {
+      "id": 2,
+      "season": "Summer",
+      "emoji": "🏀"
+    },
+    "Beach Soccer": {
+      "id": 56,
+      "season": "Summer",
+      "emoji": "⚽"
+    },
+    "Beach Volleyball": {
+      "id": 54,
+      "season": "Summer",
+      "emoji": "🏐"
+    },
+    "Biathlon": {
+      "id": 23,
+      "season": "Winter",
+      "emoji": "⛷⚫"
+    },
+    "Bobsleigh": {
+      "id": 33,
+      "season": "Winter",
+      "emoji": "🛷"
+    },
+    "Boxing": {
+      "id": 42,
+      "season": "Summer",
+      "emoji": "🥊"
+    },
+    "Canoeing": {
+      "id": 15,
+      "season": "Summer",
+      "emoji": "🛶"
+    },
+    "Chess": {
+      "id": 18,
+      "season": "Other",
+      "emoji": "♟"
+    },
+    "Cricket": {
+      "id": 36,
+      "season": "Summer",
+      "emoji": "🏏"
+    },
+    "Cross-Country Skiing": {
+      "id": 27,
+      "season": "Winter",
+      "emoji": "⛷"
+    },
+    "Curling": {
+      "id": 29,
+      "season": "Winter",
+      "emoji": "🥌"
+    },
+    "Cycling": {
+      "id": 3,
+      "season": "Summer",
+      "emoji": "🚴"
+    },
+    "Diving": {
+      "id": 9,
+      "season": "Summer",
+      "emoji": "🏊"
+    },
+    "Equestrian": {
+      "id": 43,
+      "season": "Summer",
+      "emoji": "🏇"
+    },
+    "Fencing": {
+      "id": 44,
+      "season": "Summer",
+      "emoji": "🤺"
+    },
+    "Field Hockey": {
+      "id": 16,
+      "season": "Summer",
+      "emoji": "🏑"
+    },
+    "Figure Skating": {
+      "id": 24,
+      "season": "Winter",
+      "emoji": "⛸"
+    },
+    "Football": {
+      "id": 1,
+      "season": "Summer",
+      "emoji": "⚽"
+    },
+    "Freestyle Skiing": {
+      "id": 39,
+      "season": "Winter",
+      "emoji": "⛷"
+    },
+    "Futsal": {
+      "id": 32,
+      "season": "Summer",
+      "emoji": "⚽"
+    },
+    "Golf": {
+      "id": 37,
+      "season": "Summer",
+      "emoji": "⛳"
+    },
+    "Handball": {
+      "id": 12,
+      "season": "Summer",
+      "emoji": "🤾"
+    },
+    "Ice Hockey": {
+      "id": 6,
+      "season": "Winter",
+      "emoji": "🏒"
+    },
+    "Judo": {
+      "id": 45,
+      "season": "Summer",
+      "emoji": "🥋"
+    },
+    "Karate": {
+      "id": 59,
+      "season": "Summer",
+      "emoji": "🥋"
+    },
+    "Lacrosse": {
+      "id": 64,
+      "season": "Summer",
+      "emoji": "🥍"
+    },
+    "Luge": {
+      "id": 34,
+      "season": "Winter",
+      "emoji": "🛷"
+    },
+    "Modern Pentathlon": {
+      "id": 46,
+      "season": "Summer",
+      "emoji": "🤻"
+    },
+    "Motor Sports": {
+      "id": 11,
+      "season": "Other",
+      "emoji": "🏎"
+    },
+    "Motorbike Racing": {
+      "id": 69,
+      "season": "Other",
+      "emoji": "🏍"
+    },
+    "Multi-Sport Events": {
+      "id": 67,
+      "season": "Other",
+      "emoji": "🔥"
+    },
+    "Nordic Combined": {
+      "id": 26,
+      "season": "Winter",
+      "emoji": "🎿⛷"
+    },
+    "Open Water Swimming": {
+      "id": 65,
+      "season": "Summer",
+      "emoji": "🏊"
+    },
+    "Rhythmic Gymnastics": {
+      "id": 20,
+      "season": "Summer",
+      "emoji": "🤸"
+    },
+    "Rowing": {
+      "id": 14,
+      "season": "Summer",
+      "emoji": "🚣"
+    },
+    "Rugby": {
+      "id": 22,
+      "season": "Summer",
+      "emoji": "🏉"
+    },
+    "Sailing": {
+      "id": 47,
+      "season": "Summer",
+      "emoji": "⛵"
+    },
+    "Sambo": {
+      "id": 66,
+      "season": "Summer",
+      "emoji": "🤼"
+    },
+    "Shooting": {
+      "id": 48,
+      "season": "Summer",
+      "emoji": "🔫"
+    },
+    "Short Track": {
+      "id": 30,
+      "season": "Winter",
+      "emoji": "⛸"
+    },
+    "Skateboarding": {
+      "id": 68,
+      "season": "Summer",
+      "emoji": "🛹"
+    },
+    "Skeleton": {
+      "id": 35,
+      "season": "Winter",
+      "emoji": "🛷"
+    },
+    "Ski Jumping": {
+      "id": 25,
+      "season": "Winter",
+      "emoji": "🎿"
+    },
+    "Snooker": {
+      "id": 5,
+      "season": "Other",
+      "emoji": "🎱"
+    },
+    "Snowboarding": {
+      "id": 38,
+      "season": "Winter",
+      "emoji": "🏂"
+    },
+    "Softball": {
+      "id": 62,
+      "season": "Summer",
+      "emoji": "🥎"
+    },
+    "Speed Skating": {
+      "id": 31,
+      "season": "Winter",
+      "emoji": "⛸"
+    },
+    "Speedboat Racing": {
+      "id": 70,
+      "season": "Other",
+      "emoji": "🚤"
+    },
+    "Sport Climbing": {
+      "id": 61,
+      "season": "Summer",
+      "emoji": "🧗"
+    },
+    "Surfing": {
+      "id": 60,
+      "season": "Summer",
+      "emoji": "🏄"
+    },
+    "Swimming": {
+      "id": 7,
+      "season": "Summer",
+      "emoji": "🏊"
+    },
+    "Table Tennis": {
+      "id": 49,
+      "season": "Summer",
+      "emoji": "🏓"
+    },
+    "Taekwondo": {
+      "id": 50,
+      "season": "Summer",
+      "emoji": "🥋"
+    },
+    "Tennis": {
+      "id": 17,
+      "season": "Summer",
+      "emoji": "🎾"
+    },
+    "Trampoline": {
+      "id": 58,
+      "season": "Summer",
+      "emoji": "🤸"
+    },
+    "Triathlon": {
+      "id": 51,
+      "season": "Summer",
+      "emoji": "🏊🚴🏃"
+    },
+    "Volleyball": {
+      "id": 13,
+      "season": "Summer",
+      "emoji": "🏐"
+    },
+    "Water Polo": {
+      "id": 8,
+      "season": "Summer",
+      "emoji": "🤽"
+    },
+    "Weightlifting": {
+      "id": 4,
+      "season": "Summer",
+      "emoji": "🏋"
+    },
+    "Wrestling": {
+      "id": 52,
+      "season": "Summer",
+      "emoji": "🤼"
+    }
+  },
+  "international_competitions": {
+    "Football": [
+      {
+        "id": 179,
+        "name": "AFC Football Asian Cup",
+        "continent": "Asia",
+        "gender": "Men",
+        "age_group": "Senior",
+        "logo_url": "https://storage.allsportdb.com/thumb/comp/ca1748d0-837c-4a33-9ec1-0ada8081c8dc",
+        "url": "https://allsportdb.com/Competitions/AFC-Football-Asian-Cup-179"
+      },
+      {
+        "id": 442,
+        "name": "AFC Football Women's Asian Cup",
+        "continent": "Asia",
+        "gender": "Women",
+        "age_group": "Senior",
+        "logo_url": "https://storage.allsportdb.com/thumb/comp/1699108f-bf4c-4817-bfb0-5723f6a8b756",
+        "url": "https://allsportdb.com/Competitions/AFC-Football-Womens-Asian-Cup-442"
+      },
+      {
+        "id": 178,
+        "name": "Africa Cup of Nations",
+        "continent": "Africa",
+        "gender": "Men",
+        "age_group": "Senior",
+        "logo_url": "https://storage.allsportdb.com/thumb/comp/6d0900b3-a397-428b-8698-a16a6f6b3468",
+        "url": "https://allsportdb.com/Competitions/Africa-Cup-of-Nations-178"
+      },
+      {
+        "id": 443,
+        "name": "Africa Women Football Cup Of Nations",
+        "continent": "Africa",
+        "gender": "Women",
+        "age_group": "Senior",
+        "logo_url": "https://storage.allsportdb.com/thumb/comp/fbebf57e-ec4e-4039-ac6a-5a40badc150e",
+        "url": "https://allsportdb.com/Competitions/Africa-Women-Football-Cup-Of-Nations-443"
+      },
+      {
+        "id": 181,
+        "name": "CONCACAF Gold Cup",
+        "continent": "North America",
+        "gender": "Men",
+        "age_group": "Senior",
+        "logo_url": "https://storage.allsportdb.com/thumb/comp/f41916e5-3b7c-4488-b0ba-e31bf8185cff",
+        "url": "https://allsportdb.com/Competitions/CONCACAF-Gold-Cup-181"
+      },
+      {
+        "id": 432,
+        "name": "CONCACAF Nations League",
+        "continent": "North America",
+        "gender": "Men",
+        "age_group": "Senior",
+        "logo_url": "https://storage.allsportdb.com/thumb/comp/b56b4c14-5a8a-4598-9ea2-96bc4a646d22",
+        "url": "https://allsportdb.com/Competitions/CONCACAF-Nations-League-432"
+      },
+      {
+        "id": 444,
+        "name": "CONCACAF Women's Championship",
+        "continent": "North America",
+        "gender": "Women",
+        "age_group": "Senior",
+        "logo_url": "https://storage.allsportdb.com/thumb/comp/c5174825-57d6-40d7-bc2d-4dfda5f7e71e",
+        "url": "https://allsportdb.com/Competitions/CONCACAF-Womens-Championship-444"
+      },
+      {
+        "id": 445,
+        "name": "Copa America Femenina",
+        "continent": "South America",
+        "gender": "Women",
+        "age_group": "Senior",
+        "logo_url": "https://storage.allsportdb.com/thumb/comp/b1f688ab-dd06-4488-8e89-191e62be9ae6",
+        "url": "https://allsportdb.com/Competitions/Copa-America-Femenina-445"
+      },
+      {
+        "id": 180,
+        "name": "Copa América",
+        "continent": "South America",
+        "gender": "Men",
+        "age_group": "Senior",
+        "logo_url": "https://storage.allsportdb.com/thumb/comp/26e130d2-a37f-40bc-b75b-9709a2dd9a63",
+        "url": "https://allsportdb.com/Competitions/Copa-América-180"
+      },
+      {
+        "id": 167,
+        "name": "FIFA Club World Cup",
+        "continent": "World",
+        "gender": "Men",
+        "age_group": "Senior",
+        "logo_url": "https://storage.allsportdb.com/thumb/comp/a8e64cf4-c9f9-4960-b109-c3fdd3646d69",
+        "url": "https://allsportdb.com/Competitions/FIFA-Club-World-Cup-167"
+      },
+      {
+        "id": 176,
+        "name": "FIFA Confederations Cup",
+        "continent": "World",
+        "gender": "Men",
+        "age_group": "Senior",
+        "logo_url": "https://storage.allsportdb.com/thumb/comp/48357ac1-6c44-4385-8e9f-f78de444b25f",
+        "url": "https://allsportdb.com/Competitions/FIFA-Confederations-Cup-176"
+      },
+      {
+        "id": 751,
+        "name": "FIFA Intercontinental Cup",
+        "continent": "World",
+        "gender": "Men",
+        "age_group": "Senior",
+        "logo_url": "https://storage.allsportdb.com/thumb/comp/cfebe401-72ce-46e7-a0f8-0ef25b1b9f94",
+        "url": "https://allsportdb.com/Competitions/FIFA-Intercontinental-Cup-751"
+      },
+      {
+        "id": 21,
+        "name": "FIFA U17 World Cup",
+        "continent": "World",
+        "gender": "Men",
+        "age_group": "U17",
+        "logo_url": "https://storage.allsportdb.com/thumb/comp/c3a9604b-66ab-4c58-be6a-68a6f3afae51",
+        "url": "https://allsportdb.com/Competitions/FIFA-U17-World-Cup-21"
+      },
+      {
+        "id": 24,
+        "name": "FIFA U20 World Cup",
+        "continent": "World",
+        "gender": "Men",
+        "age_group": "U20",
+        "logo_url": "https://storage.allsportdb.com/thumb/comp/c937eb14-a230-4243-8fcc-24bc4fd8d581",
+        "url": "https://allsportdb.com/Competitions/FIFA-U20-World-Cup-24"
+      },
+      {
+        "id": 29,
+        "name": "FIFA Women's U17 World Cup",
+        "continent": "World",
+        "gender": "Women",
+        "age_group": "U17",
+        "logo_url": "https://storage.allsportdb.com/thumb/comp/9ab2a9ea-a5de-49b2-ad5c-4f8df275c2e0",
+        "url": "https://allsportdb.com/Competitions/FIFA-Womens-U17-World-Cup-29"
+      },
+      {
+        "id": 31,
+        "name": "FIFA Women's U20 World Cup",
+        "continent": "World",
+        "gender": "Women",
+        "age_group": "U20",
+        "logo_url": "https://storage.allsportdb.com/thumb/comp/39f7c402-0fda-4c6e-a01d-593c645cf2be",
+        "url": "https://allsportdb.com/Competitions/FIFA-Womens-U20-World-Cup-31"
+      },
+      {
+        "id": 27,
+        "name": "FIFA Women's World Cup",
+        "continent": "World",
+        "gender": "Women",
+        "age_group": "Senior",
+        "logo_url": "https://storage.allsportdb.com/thumb/comp/4e15e9e3-1ac5-4591-8a42-250fb69db71b",
+        "url": "https://allsportdb.com/Competitions/FIFA-Womens-World-Cup-27"
+      },
+      {
+        "id": 19,
+        "name": "FIFA World Cup",
+        "continent": "World",
+        "gender": "Men",
+        "age_group": "Senior",
+        "logo_url": "https://storage.allsportdb.com/thumb/comp/9e4427ed-349e-412b-a465-7a1b8dc49ffb",
+        "url": "https://allsportdb.com/Competitions/FIFA-World-Cup-19"
+      },
+      {
+        "id": 177,
+        "name": "OFC Football Nations Cup",
+        "continent": "Oceania",
+        "gender": "Men",
+        "age_group": "Senior",
+        "logo_url": "https://storage.allsportdb.com/thumb/comp/5eb8ca33-9d4b-4cab-a746-8ecacc988dcf",
+        "url": "https://allsportdb.com/Competitions/OFC-Football-Nations-Cup-177"
+      },
+      {
+        "id": 441,
+        "name": "OFC Football Women's Nations Cup",
+        "continent": "Oceania",
+        "gender": "Women",
+        "age_group": "Senior",
+        "logo_url": "https://storage.allsportdb.com/thumb/comp/e205607a-c0a6-4152-ba01-e5594d10a7f2",
+        "url": "https://allsportdb.com/Competitions/OFC-Football-Womens-Nations-Cup-441"
+      },
+      {
+        "id": 18,
+        "name": "Summer Olympic Games",
+        "continent": "Olympic",
+        "gender": "Mixed",
+        "age_group": "Senior",
+        "logo_url": "https://storage.allsportdb.com/thumb/comp/24415314-99f1-4f3c-b0af-0acc8ab53229",
+        "url": "https://allsportdb.com/Competitions/Summer-Olympic-Games-18"
+      },
+      {
+        "id": 43,
+        "name": "UEFA Champions League",
+        "continent": "Europe",
+        "gender": "Men",
+        "age_group": "Senior",
+        "logo_url": "https://storage.allsportdb.com/thumb/comp/fdc8814f-1ea5-443c-9e49-93509556a448",
+        "url": "https://allsportdb.com/Competitions/UEFA-Champions-League-43"
+      },
+      {
+        "id": 17,
+        "name": "UEFA Euro",
+        "continent": "Europe",
+        "gender": "Men",
+        "age_group": "Senior",
+        "logo_url": "https://storage.allsportdb.com/thumb/comp/b32e0185-0bd5-4b69-ace9-2e36f59a4f7b",
+        "url": "https://allsportdb.com/Competitions/UEFA-Euro-17"
+      },
+      {
+        "id": 721,
+        "name": "UEFA Europa Conference League",
+        "continent": "Europe",
+        "gender": "Men",
+        "age_group": "Senior",
+        "logo_url": "https://storage.allsportdb.com/thumb/comp/9b08756f-3b7a-4926-9a7f-7fc2660d17f1",
+        "url": "https://allsportdb.com/Competitions/UEFA-Europa-Conference-League-721"
+      },
+      {
+        "id": 695,
+        "name": "UEFA Europa League",
+        "continent": "Europe",
+        "gender": "Men",
+        "age_group": "Senior",
+        "logo_url": "https://storage.allsportdb.com/thumb/comp/4c2df32c-f3d1-4188-8872-be657d481cfe",
+        "url": "https://allsportdb.com/Competitions/UEFA-Europa-League-695"
+      },
+      {
+        "id": 640,
+        "name": "UEFA Nations League",
+        "continent": "Europe",
+        "gender": "Men",
+        "age_group": "Senior",
+        "logo_url": "https://storage.allsportdb.com/thumb/comp/efebadc6-a438-476b-bffa-ee4b013d4a9a",
+        "url": "https://allsportdb.com/Competitions/UEFA-Nations-League-640"
+      },
+      {
+        "id": 20,
+        "name": "UEFA U17 Championship",
+        "continent": "Europe",
+        "gender": "Men",
+        "age_group": "U17",
+        "logo_url": "https://storage.allsportdb.com/thumb/comp/0b7fa528-85f9-45e0-a8a4-75015ed9f835",
+        "url": "https://allsportdb.com/Competitions/UEFA-U17-Championship-20"
+      },
+      {
+        "id": 22,
+        "name": "UEFA U19 Championship",
+        "continent": "Europe",
+        "gender": "Men",
+        "age_group": "U19",
+        "logo_url": "https://storage.allsportdb.com/thumb/comp/cfa471c1-fbe8-40d7-bd7d-9bcebe4f79df",
+        "url": "https://allsportdb.com/Competitions/UEFA-U19-Championship-22"
+      },
+      {
+        "id": 23,
+        "name": "UEFA U21 Championship",
+        "continent": "Europe",
+        "gender": "Men",
+        "age_group": "U21",
+        "logo_url": "https://storage.allsportdb.com/thumb/comp/f596efb0-b60e-42f5-adaf-a8a0816cd6d0",
+        "url": "https://allsportdb.com/Competitions/UEFA-U21-Championship-23"
+      },
+      {
+        "id": 25,
+        "name": "UEFA Women's Euro",
+        "continent": "Europe",
+        "gender": "Women",
+        "age_group": "Senior",
+        "logo_url": "https://storage.allsportdb.com/thumb/comp/84c24815-30ab-424c-8056-929765f9f902",
+        "url": "https://allsportdb.com/Competitions/UEFA-Womens-Euro-25"
+      },
+      {
+        "id": 28,
+        "name": "UEFA Women's U17 Championship",
+        "continent": "Europe",
+        "gender": "Women",
+        "age_group": "U17",
+        "logo_url": "https://storage.allsportdb.com/thumb/comp/de60b265-4705-4916-8078-7876701b2ddc",
+        "url": "https://allsportdb.com/Competitions/UEFA-Womens-U17-Championship-28"
+      },
+      {
+        "id": 30,
+        "name": "UEFA Women's U19 Championship",
+        "continent": "Europe",
+        "gender": "Women",
+        "age_group": "U19",
+        "logo_url": "https://storage.allsportdb.com/thumb/comp/31a49c05-9c5a-4ca9-9d22-452ad6ca135b",
+        "url": "https://allsportdb.com/Competitions/UEFA-Womens-U19-Championship-30"
+      }
+    ],
+    "Basketball": [
+      {
+        "id": 769,
+        "name": "EuroCup Basketball",
+        "continent": "Europe",
+        "gender": "Men",
+        "age_group": "Senior",
+        "logo_url": "https://storage.allsportdb.com/thumb/comp/5237f754-dd7a-4e4a-b01f-9dc4683c45be",
+        "url": "https://allsportdb.com/Competitions/EuroCup-Basketball-769"
+      },
+      {
+        "id": 44,
+        "name": "Euroleague Basketball",
+        "continent": "Europe",
+        "gender": "Men",
+        "age_group": "Senior",
+        "logo_url": "https://storage.allsportdb.com/thumb/comp/c36d9fdb-bbfc-4745-a626-74be074ac27f",
+        "url": "https://allsportdb.com/Competitions/Euroleague-Basketball-44"
+      },
+      {
+        "id": 600,
+        "name": "FIBA 3X3 U18 World Cup",
+        "continent": "World",
+        "gender": "Mixed",
+        "age_group": "U18",
+        "logo_url": "https://storage.allsportdb.com/thumb/comp/c2f97bf3-f7ea-4341-bb28-7737eaf38c98",
+        "url": "https://allsportdb.com/Competitions/FIBA-3X3-U18-World-Cup-600"
+      },
+      {
+        "id": 2,
+        "name": "FIBA 3x3 Champions Cup",
+        "continent": "World",
+        "gender": "Mixed",
+        "age_group": "Senior",
+        "logo_url": "https://storage.allsportdb.com/thumb/comp/99b4351f-d631-4b6d-882a-e1cd5af89bc1",
+        "url": "https://allsportdb.com/Competitions/FIBA-3x3-Champions-Cup-2"
+      },
+      {
+        "id": 598,
+        "name": "FIBA 3x3 Europe Cup",
+        "continent": "Europe",
+        "gender": "Mixed",
+        "age_group": "Senior",
+        "logo_url": "https://storage.allsportdb.com/thumb/comp/692ec095-cfed-4544-a769-1e0de9cc75e6",
+        "url": "https://allsportdb.com/Competitions/FIBA-3x3-Europe-Cup-598"
+      },
+      {
+        "id": 599,
+        "name": "FIBA 3x3 U17 Europe Cup",
+        "continent": "Europe",
+        "gender": "Mixed",
+        "age_group": "U17",
+        "logo_url": "https://storage.allsportdb.com/thumb/comp/175b4848-32ff-4659-a3dd-0e27be190413",
+        "url": "https://allsportdb.com/Competitions/FIBA-3x3-U17-Europe-Cup-599"
+      },
+      {
+        "id": 629,
+        "name": "FIBA 3x3 U23 World Cup",
+        "continent": "World",
+        "gender": "Mixed",
+        "age_group": "U23",
+        "logo_url": "https://storage.allsportdb.com/thumb/comp/201c3663-12b3-4859-a11a-c75bed7cd03e",
+        "url": "https://allsportdb.com/Competitions/FIBA-3x3-U23-World-Cup-629"
+      },
+      {
+        "id": 714,
+        "name": "FIBA 3x3 Women's Series",
+        "continent": "World",
+        "gender": "Women",
+        "age_group": "Senior",
+        "logo_url": "https://storage.allsportdb.com/thumb/comp/cc699da5-cf62-4179-b6c6-c36f91dc0a72",
+        "url": "https://allsportdb.com/Competitions/FIBA-3x3-Womens-Series-714"
+      },
+      {
+        "id": 597,
+        "name": "FIBA 3x3 World Cup",
+        "continent": "World",
+        "gender": "Mixed",
+        "age_group": "Senior",
+        "logo_url": "https://storage.allsportdb.com/thumb/comp/e54c8969-450e-4702-b215-243d8efc9a8f",
+        "url": "https://allsportdb.com/Competitions/FIBA-3x3-World-Cup-597"
+      },
+      {
+        "id": 715,
+        "name": "FIBA 3x3 World Tour",
+        "continent": "World",
+        "gender": "Men",
+        "age_group": "Senior",
+        "logo_url": "https://storage.allsportdb.com/thumb/comp/ec5b2e01-e08f-460f-8e4a-e81a50086db5",
+        "url": "https://allsportdb.com/Competitions/FIBA-3x3-World-Tour-715"
+      },
+      {
+        "id": 184,
+        "name": "FIBA AfroBasket",
+        "continent": "Africa",
+        "gender": "Men",
+        "age_group": "Senior",
+        "logo_url": "https://storage.allsportdb.com/thumb/comp/27a627c7-2863-488b-bfe9-8e543cdd9319",
+        "url": "https://allsportdb.com/Competitions/FIBA-AfroBasket-184"
+      },
+      {
+        "id": 185,
+        "name": "FIBA AfroBasket Women",
+        "continent": "Africa",
+        "gender": "Women",
+        "age_group": "Senior",
+        "logo_url": "https://storage.allsportdb.com/thumb/comp/8d75c177-1067-4b7e-84f7-78c49e2449b5",
+        "url": "https://allsportdb.com/Competitions/FIBA-AfroBasket-Women-185"
+      },
+      {
+        "id": 182,
+        "name": "FIBA Basketball AmeriCup",
+        "continent": "America",
+        "gender": "Men",
+        "age_group": "Senior",
+        "logo_url": "https://storage.allsportdb.com/thumb/comp/c1799bd6-5fd1-487a-86c0-28b321981c10",
+        "url": "https://allsportdb.com/Competitions/FIBA-Basketball-AmeriCup-182"
+      },
+      {
+        "id": 186,
+        "name": "FIBA Basketball Asia Cup",
+        "continent": "Asia",
+        "gender": "Men",
+        "age_group": "Senior",
+        "logo_url": "https://storage.allsportdb.com/thumb/comp/0316152c-644b-439e-a120-a1f41a344d7c",
+        "url": "https://allsportdb.com/Competitions/FIBA-Basketball-Asia-Cup-186"
+      },
+      {
+        "id": 602,
+        "name": "FIBA Basketball European Championship for Small Countries",
+        "continent": "Europe",
+        "gender": "Men",
+        "age_group": "Senior",
+        "logo_url": "https://storage.allsportdb.com/thumb/comp/5753ba07-b558-4e5b-a431-186e62ce3abe",
+        "url": "https://allsportdb.com/Competitions/FIBA-Basketball-European-Championship-for-Small-Countries-602"
+      },
+      {
+        "id": 183,
+        "name": "FIBA Basketball Women's AmeriCup",
+        "continent": "America",
+        "gender": "Women",
+        "age_group": "Senior",
+        "logo_url": "https://storage.allsportdb.com/thumb/comp/46e6a5f6-e5e6-45b1-849c-05704052fce8",
+        "url": "https://allsportdb.com/Competitions/FIBA-Basketball-Womens-AmeriCup-183"
+      },
+      {
+        "id": 187,
+        "name": "FIBA Basketball Women's Asia Cup",
+        "continent": "Asia",
+        "gender": "Women",
+        "age_group": "Senior",
+        "logo_url": "https://storage.allsportdb.com/thumb/comp/60b3939a-f64c-4411-b355-aee98d867ce7",
+        "url": "https://allsportdb.com/Competitions/FIBA-Basketball-Womens-Asia-Cup-187"
+      },
+      {
+        "id": 603,
+        "name": "FIBA Basketball Women's European Championship for Small Countries",
+        "continent": "Europe",
+        "gender": "Women",
+        "age_group": "Senior",
+        "logo_url": "https://storage.allsportdb.com/thumb/comp/18b40239-ee0b-4e01-bab7-959ccfb68a60",
+        "url": "https://allsportdb.com/Competitions/FIBA-Basketball-Womens-European-Championship-for-Small-Countries-603"
+      },
+      {
+        "id": 12,
+        "name": "FIBA Basketball Women's World Cup",
+        "continent": "World",
+        "gender": "Women",
+        "age_group": "Senior",
+        "logo_url": "https://storage.allsportdb.com/thumb/comp/aa767f64-85fe-4fdb-9c83-e31eb723c2e3",
+        "url": "https://allsportdb.com/Competitions/FIBA-Basketball-Womens-World-Cup-12"
+      },
+      {
+        "id": 4,
+        "name": "FIBA Basketball World Cup",
+        "continent": "World",
+        "gender": "Men",
+        "age_group": "Senior",
+        "logo_url": "https://storage.allsportdb.com/thumb/comp/1f6466cd-d465-453b-a9ce-38eb3d91acbb",
+        "url": "https://allsportdb.com/Competitions/FIBA-Basketball-World-Cup-4"
+      },
+      {
+        "id": 1,
+        "name": "FIBA EuroBasket",
+        "continent": "Europe",
+        "gender": "Men",
+        "age_group": "Senior",
+        "logo_url": "https://storage.allsportdb.com/thumb/comp/13511659-59ca-45b9-aed6-090065169b9b",
+        "url": "https://allsportdb.com/Competitions/FIBA-EuroBasket-1"
+      },
+      {
+        "id": 9,
+        "name": "FIBA EuroBasket Women",
+        "continent": "Europe",
+        "gender": "Women",
+        "age_group": "Senior",
+        "logo_url": "https://storage.allsportdb.com/thumb/comp/8435bd0e-b00b-4759-a3e5-fb63c9dff5e9",
+        "url": "https://allsportdb.com/Competitions/FIBA-EuroBasket-Women-9"
+      },
+      {
+        "id": 188,
+        "name": "FIBA Oceania Basketball Championship",
+        "continent": "Oceania",
+        "gender": "Men",
+        "age_group": "Senior",
+        "logo_url": "https://storage.allsportdb.com/thumb/comp/2c8f3fd5-6d16-41bc-838d-503befbbbff4",
+        "url": "https://allsportdb.com/Competitions/FIBA-Oceania-Basketball-Championship-188"
+      },
+      {
+        "id": 189,
+        "name": "FIBA Oceania Women's Basketball Championship",
+        "continent": "Oceania",
+        "gender": "Women",
+        "age_group": "Senior",
+        "logo_url": "https://storage.allsportdb.com/thumb/comp/faaf07ab-08b3-440e-a4d0-618cf976b9ff",
+        "url": "https://allsportdb.com/Competitions/FIBA-Oceania-Womens-Basketball-Championship-189"
+      },
+      {
+        "id": 5,
+        "name": "FIBA U16 EuroBasket",
+        "continent": "Europe",
+        "gender": "Men",
+        "age_group": "U16",
+        "logo_url": "https://storage.allsportdb.com/thumb/comp/91dd11bb-bee4-4bb0-b05f-f1e9226b59ac",
+        "url": "https://allsportdb.com/Competitions/FIBA-U16-EuroBasket-5"
+      },
+      {
+        "id": 13,
+        "name": "FIBA U16 Women's EuroBasket",
+        "continent": "Europe",
+        "gender": "Women",
+        "age_group": "U16",
+        "logo_url": "https://storage.allsportdb.com/thumb/comp/0d6a7cdf-7771-499c-b9c0-e40ac8b57ffd",
+        "url": "https://allsportdb.com/Competitions/FIBA-U16-Womens-EuroBasket-13"
+      },
+      {
+        "id": 6,
+        "name": "FIBA U17 Basketball World Cup",
+        "continent": "World",
+        "gender": "Men",
+        "age_group": "U17",
+        "logo_url": "https://storage.allsportdb.com/thumb/comp/35b730a6-f745-4710-95df-d4080f02ef94",
+        "url": "https://allsportdb.com/Competitions/FIBA-U17-Basketball-World-Cup-6"
+      },
+      {
+        "id": 14,
+        "name": "FIBA U17 Women's Basketball World Cup",
+        "continent": "World",
+        "gender": "Women",
+        "age_group": "U17",
+        "logo_url": "https://storage.allsportdb.com/thumb/comp/a10f6493-49db-47f6-88e6-ab27f8707a38",
+        "url": "https://allsportdb.com/Competitions/FIBA-U17-Womens-Basketball-World-Cup-14"
+      },
+      {
+        "id": 7,
+        "name": "FIBA U18 EuroBasket",
+        "continent": "Europe",
+        "gender": "Men",
+        "age_group": "U18",
+        "logo_url": "https://storage.allsportdb.com/thumb/comp/5c393d46-13d1-49bf-81c0-b392a2b3aff3",
+        "url": "https://allsportdb.com/Competitions/FIBA-U18-EuroBasket-7"
+      },
+      {
+        "id": 15,
+        "name": "FIBA U18 Women's EuroBasket",
+        "continent": "Europe",
+        "gender": "Women",
+        "age_group": "U18",
+        "logo_url": "https://storage.allsportdb.com/thumb/comp/3d1ad196-0597-4601-892c-636c9e2e5010",
+        "url": "https://allsportdb.com/Competitions/FIBA-U18-Womens-EuroBasket-15"
+      },
+      {
+        "id": 172,
+        "name": "FIBA U19 Basketball World Cup",
+        "continent": "World",
+        "gender": "Men",
+        "age_group": "U19",
+        "logo_url": "https://storage.allsportdb.com/thumb/comp/46d47aa7-3b0b-4ca4-a19e-2d6c9c8986e3",
+        "url": "https://allsportdb.com/Competitions/FIBA-U19-Basketball-World-Cup-172"
+      },
+      {
+        "id": 173,
+        "name": "FIBA U19 Women's Basketball World Cup",
+        "continent": "World",
+        "gender": "Women",
+        "age_group": "U19",
+        "logo_url": "https://storage.allsportdb.com/thumb/comp/afb5753a-c07a-474b-9635-f08e654201bb",
+        "url": "https://allsportdb.com/Competitions/FIBA-U19-Womens-Basketball-World-Cup-173"
+      },
+      {
+        "id": 8,
+        "name": "FIBA U20 EuroBasket",
+        "continent": "Europe",
+        "gender": "Men",
+        "age_group": "U20",
+        "logo_url": "https://storage.allsportdb.com/thumb/comp/d472f79a-b0e4-4eaf-9c05-848818f6f814",
+        "url": "https://allsportdb.com/Competitions/FIBA-U20-EuroBasket-8"
+      },
+      {
+        "id": 16,
+        "name": "FIBA U20 Women's EuroBasket",
+        "continent": "Europe",
+        "gender": "Women",
+        "age_group": "U20",
+        "logo_url": "https://storage.allsportdb.com/thumb/comp/f6dccb46-bab7-4e25-a2de-e0ecac0009af",
+        "url": "https://allsportdb.com/Competitions/FIBA-U20-Womens-EuroBasket-16"
+      },
+      {
+        "id": 11,
+        "name": "Summer Olympic Games",
+        "continent": "Olympic",
+        "gender": "Mixed",
+        "age_group": "Senior",
+        "logo_url": "https://storage.allsportdb.com/thumb/comp/29672cc0-b490-443f-aa1a-d66510935cb6",
+        "url": "https://allsportdb.com/Competitions/Summer-Olympic-Games-11"
+      }
+    ],
+    "Ice Hockey": [
+      {
+        "id": 507,
+        "name": "Euro Hockey Tour",
+        "continent": "Europe",
+        "gender": "Men",
+        "age_group": "Senior",
+        "logo_url": "https://storage.allsportdb.com/thumb/comp/b8ca0ad1-bfdf-4f7c-b7b7-a76023bde100",
+        "url": "https://allsportdb.com/Competitions/Euro-Hockey-Tour-507"
+      },
+      {
+        "id": 216,
+        "name": "Ice Hockey U18 Women's World Championship",
+        "continent": "World",
+        "gender": "Women",
+        "age_group": "U18",
+        "logo_url": "https://storage.allsportdb.com/thumb/comp/a1f069b1-afd3-4109-b004-1eaf765d9093",
+        "url": "https://allsportdb.com/Competitions/Ice-Hockey-U18-Womens-World-Championship-216"
+      },
+      {
+        "id": 92,
+        "name": "Ice Hockey U18 World Championship",
+        "continent": "World",
+        "gender": "Men",
+        "age_group": "U18",
+        "logo_url": "https://storage.allsportdb.com/thumb/comp/e4236ea2-9369-4458-8af3-21757723c924",
+        "url": "https://allsportdb.com/Competitions/Ice-Hockey-U18-World-Championship-92"
+      },
+      {
+        "id": 91,
+        "name": "Ice Hockey U20 World Championship",
+        "continent": "World",
+        "gender": "Men",
+        "age_group": "U20",
+        "logo_url": "https://storage.allsportdb.com/thumb/comp/226f02e5-ac33-4eb1-a211-41cc47e9323d",
+        "url": "https://allsportdb.com/Competitions/Ice-Hockey-U20-World-Championship-91"
+      },
+      {
+        "id": 217,
+        "name": "Ice Hockey Women's World Championship",
+        "continent": "World",
+        "gender": "Women",
+        "age_group": "Senior",
+        "logo_url": "https://storage.allsportdb.com/thumb/comp/981482b8-fc7e-4641-ace7-7017f6506243",
+        "url": "https://allsportdb.com/Competitions/Ice-Hockey-Womens-World-Championship-217"
+      },
+      {
+        "id": 42,
+        "name": "Ice Hockey World Championship",
+        "continent": "World",
+        "gender": "Men",
+        "age_group": "Senior",
+        "logo_url": "https://storage.allsportdb.com/thumb/comp/8fb2dc5d-d83c-44ad-b702-557254d60ce1",
+        "url": "https://allsportdb.com/Competitions/Ice-Hockey-World-Championship-42"
+      },
+      {
+        "id": 213,
+        "name": "Winter Olympic Games",
+        "continent": "Olympic",
+        "gender": "Mixed",
+        "age_group": "Senior",
+        "logo_url": "https://storage.allsportdb.com/thumb/comp/ec3752ab-41d5-4212-8268-201faee68178",
+        "url": "https://allsportdb.com/Competitions/Winter-Olympic-Games-213"
+      },
+      {
+        "id": 514,
+        "name": "World Cup of Hockey",
+        "continent": "World",
+        "gender": "Men",
+        "age_group": "Senior",
+        "logo_url": "https://storage.allsportdb.com/thumb/comp/620ce417-3dda-4a57-8780-c38491655753",
+        "url": "https://allsportdb.com/Competitions/World-Cup-of-Hockey-514"
+      }
+    ],
+    "Baseball": [
+      {
+        "id": 604,
+        "name": "Baseball Europe Super 6",
+        "continent": "Europe",
+        "gender": "Men",
+        "age_group": "Senior",
+        "logo_url": "https://storage.allsportdb.com/thumb/comp/477f62dc-2d35-464b-8c3e-f849f2b0d0c3",
+        "url": "https://allsportdb.com/Competitions/Baseball-Europe-Super-6-604"
+      },
+      {
+        "id": 562,
+        "name": "Baseball Premier12",
+        "continent": "World",
+        "gender": "Men",
+        "age_group": "Senior",
+        "logo_url": "https://storage.allsportdb.com/thumb/comp/bc446660-24c0-42d5-a0b7-4d98e84354c0",
+        "url": "https://allsportdb.com/Competitions/Baseball-Premier12-562"
+      },
+      {
+        "id": 554,
+        "name": "European Baseball Championship",
+        "continent": "Europe",
+        "gender": "Men",
+        "age_group": "Senior",
+        "logo_url": "https://storage.allsportdb.com/thumb/comp/ccb81279-f0f6-4028-a6d7-9ecfe736121c",
+        "url": "https://allsportdb.com/Competitions/European-Baseball-Championship-554"
+      },
+      {
+        "id": 630,
+        "name": "European Baseball Championship Women",
+        "continent": "Europe",
+        "gender": "Women",
+        "age_group": "Senior",
+        "logo_url": "https://storage.allsportdb.com/thumb/comp/7817d694-dbbf-4fd1-8f3d-3a9d6d1b6606",
+        "url": "https://allsportdb.com/Competitions/European-Baseball-Championship-Women-630"
+      },
+      {
+        "id": 772,
+        "name": "European U-15 Baseball Championship",
+        "continent": "Europe",
+        "gender": "Men",
+        "age_group": "U15",
+        "logo_url": "https://storage.allsportdb.com/thumb/comp/ec4e653e-da39-40cf-9658-1f23d025717e",
+        "url": "https://allsportdb.com/Competitions/European-U-15-Baseball-Championship-772"
+      },
+      {
+        "id": 771,
+        "name": "European U-18 Baseball Championship",
+        "continent": "Europe",
+        "gender": "Men",
+        "age_group": "U18",
+        "logo_url": "https://storage.allsportdb.com/thumb/comp/bb9e5dd6-2de5-4e90-8e8d-eb5d9aa625be",
+        "url": "https://allsportdb.com/Competitions/European-U-18-Baseball-Championship-771"
+      },
+      {
+        "id": 770,
+        "name": "European U-23 Baseball Championship",
+        "continent": "Europe",
+        "gender": "Men",
+        "age_group": "U23",
+        "logo_url": "https://storage.allsportdb.com/thumb/comp/f2cab1e6-fbb4-4659-bb34-15575ef7106f",
+        "url": "https://allsportdb.com/Competitions/European-U-23-Baseball-Championship-770"
+      },
+      {
+        "id": 553,
+        "name": "Summer Olympic Games",
+        "continent": "Olympic",
+        "gender": "Mixed",
+        "age_group": "Senior",
+        "logo_url": "https://storage.allsportdb.com/thumb/comp/26a8637e-d823-4532-a935-f560b0ff1779",
+        "url": "https://allsportdb.com/Competitions/Summer-Olympic-Games-553"
+      },
+      {
+        "id": 561,
+        "name": "U-15 Baseball World Cup",
+        "continent": "World",
+        "gender": "Men",
+        "age_group": "U15",
+        "logo_url": "https://storage.allsportdb.com/thumb/comp/0e576d23-f061-489b-893e-37ff0d3975e2",
+        "url": "https://allsportdb.com/Competitions/U-15-Baseball-World-Cup-561"
+      },
+      {
+        "id": 559,
+        "name": "U-18 Baseball World Cup",
+        "continent": "World",
+        "gender": "Men",
+        "age_group": "U18",
+        "logo_url": "https://storage.allsportdb.com/thumb/comp/67acf72d-97f4-45ee-a729-9c20c88f09a5",
+        "url": "https://allsportdb.com/Competitions/U-18-Baseball-World-Cup-559"
+      },
+      {
+        "id": 560,
+        "name": "U-23 Baseball World Cup",
+        "continent": "World",
+        "gender": "Men",
+        "age_group": "U23",
+        "logo_url": "https://storage.allsportdb.com/thumb/comp/49c91ddf-6cf8-4fa1-89bf-2cb5361c919b",
+        "url": "https://allsportdb.com/Competitions/U-23-Baseball-World-Cup-560"
+      },
+      {
+        "id": 558,
+        "name": "Women's Baseball World Cup",
+        "continent": "World",
+        "gender": "Women",
+        "age_group": "Senior",
+        "logo_url": "https://storage.allsportdb.com/thumb/comp/255113d2-9f10-40d7-a6ba-e60e0ac01683",
+        "url": "https://allsportdb.com/Competitions/Womens-Baseball-World-Cup-558"
+      },
+      {
+        "id": 557,
+        "name": "World Baseball Classic",
+        "continent": "World",
+        "gender": "Men",
+        "age_group": "Senior",
+        "logo_url": "https://storage.allsportdb.com/thumb/comp/71a1c0cd-ec81-45d1-9b73-219d82ec5b33",
+        "url": "https://allsportdb.com/Competitions/World-Baseball-Classic-557"
+      }
+    ],
+    "Tennis": [
+      {
+        "id": 261,
+        "name": "ATP Finals",
+        "continent": "World",
+        "gender": "Men",
+        "age_group": "Senior",
+        "logo_url": "https://storage.allsportdb.com/thumb/comp/3a042fa6-891b-4fef-afc3-f19f95840682",
+        "url": "https://allsportdb.com/Competitions/ATP-Finals-261"
+      },
+      {
+        "id": 260,
+        "name": "ATP Tour",
+        "continent": "World",
+        "gender": "Men",
+        "age_group": "Senior",
+        "logo_url": "https://storage.allsportdb.com/thumb/comp/1279ec14-92b2-4aac-b4e2-a84e2e17b0c3",
+        "url": "https://allsportdb.com/Competitions/ATP-Tour-260"
+      },
+      {
+        "id": 294,
+        "name": "Billie Jean King Cup",
+        "continent": "World",
+        "gender": "Women",
+        "age_group": "Senior",
+        "logo_url": "https://storage.allsportdb.com/thumb/comp/6dbb8ccb-f99b-4d4d-81c5-d0f52f737f27",
+        "url": "https://allsportdb.com/Competitions/Billie-Jean-King-Cup-294"
+      },
+      {
+        "id": 262,
+        "name": "Davis Cup Finals",
+        "continent": "World",
+        "gender": "Men",
+        "age_group": "Senior",
+        "logo_url": "https://storage.allsportdb.com/thumb/comp/2f9d46ca-b145-44da-acf2-32d7dfd759eb",
+        "url": "https://allsportdb.com/Competitions/Davis-Cup-Finals-262"
+      },
+      {
+        "id": 316,
+        "name": "Grand Slam",
+        "continent": "World",
+        "gender": "Mixed",
+        "age_group": "Senior",
+        "logo_url": "https://storage.allsportdb.com/thumb/comp/941a1eb3-4277-473f-aba8-c1100b7d3ae2",
+        "url": "https://allsportdb.com/Competitions/Grand-Slam-316"
+      },
+      {
+        "id": 626,
+        "name": "Hopman Cup",
+        "continent": "World",
+        "gender": "Mixed",
+        "age_group": "Senior",
+        "logo_url": "https://storage.allsportdb.com/thumb/comp/a61d7a18-4f4f-49b5-b900-211578c117cc",
+        "url": "https://allsportdb.com/Competitions/Hopman-Cup-626"
+      },
+      {
+        "id": 687,
+        "name": "Laver Cup",
+        "continent": "World",
+        "gender": "Men",
+        "age_group": "Senior",
+        "logo_url": "https://storage.allsportdb.com/thumb/comp/b02370fe-8e21-40db-b9c7-261c08cb466e",
+        "url": "https://allsportdb.com/Competitions/Laver-Cup-687"
+      },
+      {
+        "id": 743,
+        "name": "Next Gen ATP Finals",
+        "continent": "World",
+        "gender": "Men",
+        "age_group": "U21",
+        "logo_url": "https://storage.allsportdb.com/thumb/comp/791cbff5-d37a-46f5-a549-957d72365356",
+        "url": "https://allsportdb.com/Competitions/Next-Gen-ATP-Finals-743"
+      },
+      {
+        "id": 93,
+        "name": "Summer Olympic Games",
+        "continent": "Olympic",
+        "gender": "Mixed",
+        "age_group": "Senior",
+        "logo_url": "https://storage.allsportdb.com/thumb/comp/ca3481e5-f710-4fd2-8816-911759bbabd6",
+        "url": "https://allsportdb.com/Competitions/Summer-Olympic-Games-93"
+      },
+      {
+        "id": 461,
+        "name": "Tennis United Cup",
+        "continent": "World",
+        "gender": "Mixed",
+        "age_group": "Senior",
+        "logo_url": "https://storage.allsportdb.com/thumb/comp/156799bb-2692-47e0-81b3-67b3595529d0",
+        "url": "https://allsportdb.com/Competitions/Tennis-United-Cup-461"
+      },
+      {
+        "id": 293,
+        "name": "WTA Finals",
+        "continent": "World",
+        "gender": "Women",
+        "age_group": "Senior",
+        "logo_url": "https://storage.allsportdb.com/thumb/comp/d4cf2aef-262b-4e72-9be1-b47f9ddde811",
+        "url": "https://allsportdb.com/Competitions/WTA-Finals-293"
+      },
+      {
+        "id": 295,
+        "name": "WTA Tour",
+        "continent": "World",
+        "gender": "Women",
+        "age_group": "Senior",
+        "logo_url": "https://storage.allsportdb.com/thumb/comp/7136d748-b959-47be-b604-cab645e1013a",
+        "url": "https://allsportdb.com/Competitions/WTA-Tour-295"
+      }
+    ],
+    "Rugby": [
+      {
+        "id": 608,
+        "name": "Rugby Championship",
+        "continent": "World",
+        "gender": "Men",
+        "age_group": "Senior",
+        "logo_url": "https://storage.allsportdb.com/thumb/comp/22e1c7e6-5b7d-444d-8b5e-fa05b3528014",
+        "url": "https://allsportdb.com/Competitions/Rugby-Championship-608"
+      },
+      {
+        "id": 744,
+        "name": "Rugby Europe Championship",
+        "continent": "Europe",
+        "gender": "Men",
+        "age_group": "Senior",
+        "logo_url": "https://storage.allsportdb.com/thumb/comp/b90d3a23-9479-46ea-9838-5b8bb839f381",
+        "url": "https://allsportdb.com/Competitions/Rugby-Europe-Championship-744"
+      },
+      {
+        "id": 208,
+        "name": "Rugby Europe Sevens",
+        "continent": "Europe",
+        "gender": "Men",
+        "age_group": "Senior",
+        "logo_url": "https://storage.allsportdb.com/thumb/comp/7cabeb62-9722-438b-b948-b5014d58fc82",
+        "url": "https://allsportdb.com/Competitions/Rugby-Europe-Sevens-208"
+      },
+      {
+        "id": 372,
+        "name": "Rugby Europe Sevens U18",
+        "continent": "Europe",
+        "gender": "Men",
+        "age_group": "U18",
+        "logo_url": "https://storage.allsportdb.com/thumb/comp/4bc8012d-0f26-4b58-8993-de9e692fb457",
+        "url": "https://allsportdb.com/Competitions/Rugby-Europe-Sevens-U18-372"
+      },
+      {
+        "id": 207,
+        "name": "Rugby Europe U18 Championship",
+        "continent": "Europe",
+        "gender": "Men",
+        "age_group": "U18",
+        "logo_url": "https://storage.allsportdb.com/thumb/comp/2221430e-8fb0-4cbb-bd8b-2a7eaa248387",
+        "url": "https://allsportdb.com/Competitions/Rugby-Europe-U18-Championship-207"
+      },
+      {
+        "id": 124,
+        "name": "Rugby Europe U20 Championship",
+        "continent": "Europe",
+        "gender": "Men",
+        "age_group": "U20",
+        "logo_url": "https://storage.allsportdb.com/thumb/comp/fe0c3994-c9a4-4aeb-8abd-7aba66a75d3a",
+        "url": "https://allsportdb.com/Competitions/Rugby-Europe-U20-Championship-124"
+      },
+      {
+        "id": 212,
+        "name": "Rugby Europe Women Sevens",
+        "continent": "Europe",
+        "gender": "Women",
+        "age_group": "Senior",
+        "logo_url": "https://storage.allsportdb.com/thumb/comp/b333223f-8a3f-4b35-9432-5d6e6673c042",
+        "url": "https://allsportdb.com/Competitions/Rugby-Europe-Women-Sevens-212"
+      },
+      {
+        "id": 373,
+        "name": "Rugby Europe Women Sevens U18",
+        "continent": "Europe",
+        "gender": "Women",
+        "age_group": "U18",
+        "logo_url": "https://storage.allsportdb.com/thumb/comp/1bbd8385-8c7a-41ea-bb02-43870a2f63e2",
+        "url": "https://allsportdb.com/Competitions/Rugby-Europe-Women-Sevens-U18-373"
+      },
+      {
+        "id": 228,
+        "name": "Rugby League World Cup",
+        "continent": "World",
+        "gender": "Men",
+        "age_group": "Senior",
+        "logo_url": "https://storage.allsportdb.com/thumb/comp/3c21f1ad-16e5-4621-b85c-135bee6e6f41",
+        "url": "https://allsportdb.com/Competitions/Rugby-League-World-Cup-228"
+      },
+      {
+        "id": 229,
+        "name": "Rugby Six Nations Championship",
+        "continent": "World",
+        "gender": "Men",
+        "age_group": "Senior",
+        "logo_url": "https://storage.allsportdb.com/thumb/comp/b4837f16-0ae0-4052-a64b-809e639eb528",
+        "url": "https://allsportdb.com/Competitions/Rugby-Six-Nations-Championship-229"
+      },
+      {
+        "id": 121,
+        "name": "Rugby World Cup",
+        "continent": "World",
+        "gender": "Men",
+        "age_group": "Senior",
+        "logo_url": "https://storage.allsportdb.com/thumb/comp/f718fe93-92bf-4a5a-b50b-5b9bed88cf7b",
+        "url": "https://allsportdb.com/Competitions/Rugby-World-Cup-121"
+      },
+      {
+        "id": 122,
+        "name": "Rugby World Cup Sevens",
+        "continent": "World",
+        "gender": "Mixed",
+        "age_group": "Senior",
+        "logo_url": "https://storage.allsportdb.com/thumb/comp/7e08fdd8-cfdf-4769-8344-4b0daee72424",
+        "url": "https://allsportdb.com/Competitions/Rugby-World-Cup-Sevens-122"
+      },
+      {
+        "id": 375,
+        "name": "Summer Olympic Games",
+        "continent": "Olympic",
+        "gender": "Mixed",
+        "age_group": "Senior",
+        "logo_url": "https://storage.allsportdb.com/thumb/comp/b202c39f-cb82-4ae0-ba8d-39f88bfe833d",
+        "url": "https://allsportdb.com/Competitions/Summer-Olympic-Games-375"
+      },
+      {
+        "id": 506,
+        "name": "Women's Rugby League World Cup",
+        "continent": "World",
+        "gender": "Women",
+        "age_group": "Senior",
+        "logo_url": "https://storage.allsportdb.com/thumb/comp/a5898bb2-8b6c-4643-95d6-91be50c3e0c8",
+        "url": "https://allsportdb.com/Competitions/Womens-Rugby-League-World-Cup-506"
+      },
+      {
+        "id": 123,
+        "name": "Women's Rugby World Cup",
+        "continent": "World",
+        "gender": "Women",
+        "age_group": "Senior",
+        "logo_url": "https://storage.allsportdb.com/thumb/comp/3d9aed02-5fce-4ee5-b4c7-5562c9e0f29d",
+        "url": "https://allsportdb.com/Competitions/Womens-Rugby-World-Cup-123"
+      },
+      {
+        "id": 206,
+        "name": "World Rugby SVNS",
+        "continent": "World",
+        "gender": "Mixed",
+        "age_group": "Senior",
+        "logo_url": "https://storage.allsportdb.com/thumb/comp/73e506c6-8b4c-4ca7-bfcb-cde886124bc8",
+        "url": "https://allsportdb.com/Competitions/World-Rugby-SVNS-206"
+      },
+      {
+        "id": 120,
+        "name": "World Rugby Under 20 Championship",
+        "continent": "World",
+        "gender": "Men",
+        "age_group": "U20",
+        "logo_url": "https://storage.allsportdb.com/thumb/comp/abd29027-35f5-4b94-ac54-1cdbd0f9ea5e",
+        "url": "https://allsportdb.com/Competitions/World-Rugby-Under-20-Championship-120"
+      },
+      {
+        "id": 205,
+        "name": "World Rugby Under 20 Trophy",
+        "continent": "World",
+        "gender": "Men",
+        "age_group": "U20",
+        "logo_url": "https://storage.allsportdb.com/thumb/comp/52e582d1-43d2-4275-a1b8-8b9dcfee0717",
+        "url": "https://allsportdb.com/Competitions/World-Rugby-Under-20-Trophy-205"
+      },
+      {
+        "id": 748,
+        "name": "World Rugby Women WXV",
+        "continent": "World",
+        "gender": "Women",
+        "age_group": "Senior",
+        "logo_url": "https://storage.allsportdb.com/thumb/comp/41cbbf52-da19-4019-95a6-9632e408de86",
+        "url": "https://allsportdb.com/Competitions/World-Rugby-Women-WXV-748"
+      }
+    ],
+    "Cricket": [
+      {
+        "id": 736,
+        "name": "Cricket Asia Cup",
+        "continent": "Asia",
+        "gender": "Men",
+        "age_group": "Senior",
+        "logo_url": "https://storage.allsportdb.com/thumb/comp/faed08c1-fce3-48c3-a291-bd16bf30e2f8",
+        "url": "https://allsportdb.com/Competitions/Cricket-Asia-Cup-736"
+      },
+      {
+        "id": 201,
+        "name": "Cricket World Cup",
+        "continent": "World",
+        "gender": "Men",
+        "age_group": "Senior",
+        "logo_url": "https://storage.allsportdb.com/thumb/comp/7775be2d-a030-4ed2-a015-90cb0db98f9e",
+        "url": "https://allsportdb.com/Competitions/Cricket-World-Cup-201"
+      },
+      {
+        "id": 759,
+        "name": "ICC Cricket Champions Trophy",
+        "continent": "World",
+        "gender": "Men",
+        "age_group": "Senior",
+        "logo_url": "https://storage.allsportdb.com/thumb/comp/c3697088-5949-4881-a280-d63034f19d30",
+        "url": "https://allsportdb.com/Competitions/ICC-Cricket-Champions-Trophy-759"
+      },
+      {
+        "id": 203,
+        "name": "ICC Cricket Men's T20 World Cup",
+        "continent": "World",
+        "gender": "Men",
+        "age_group": "Senior",
+        "logo_url": "https://storage.allsportdb.com/thumb/comp/d9811e2b-c228-44ae-976c-f1865cb198d5",
+        "url": "https://allsportdb.com/Competitions/ICC-Cricket-Mens-T20-World-Cup-203"
+      },
+      {
+        "id": 204,
+        "name": "ICC Cricket Women's T20 World Cup",
+        "continent": "World",
+        "gender": "Women",
+        "age_group": "Senior",
+        "logo_url": "https://storage.allsportdb.com/thumb/comp/e1b530bc-72ca-4c62-9a7a-46eb27f6fcda",
+        "url": "https://allsportdb.com/Competitions/ICC-Cricket-Womens-T20-World-Cup-204"
+      },
+      {
+        "id": 710,
+        "name": "ICC Under-19 Cricket World Cup",
+        "continent": "World",
+        "gender": "Men",
+        "age_group": "U19",
+        "logo_url": "https://storage.allsportdb.com/thumb/comp/a6c76a35-4263-43f8-819c-bf0ed4860892",
+        "url": "https://allsportdb.com/Competitions/ICC-Under-19-Cricket-World-Cup-710"
+      },
+      {
+        "id": 728,
+        "name": "ICC Under-19 Women's T20 World Cup",
+        "continent": "World",
+        "gender": "Women",
+        "age_group": "U19",
+        "logo_url": "https://storage.allsportdb.com/thumb/comp/2e93cae1-e4b7-4553-bea7-681c1d9bfb28",
+        "url": "https://allsportdb.com/Competitions/ICC-Under-19-Womens-T20-World-Cup-728"
+      },
+      {
+        "id": 462,
+        "name": "The Ashes Cricket Series",
+        "continent": "World",
+        "gender": "Men",
+        "age_group": "Senior",
+        "logo_url": "https://storage.allsportdb.com/thumb/comp/0868d839-51a0-4da0-a0fc-f1d50bc85b1d",
+        "url": "https://allsportdb.com/Competitions/The-Ashes-Cricket-Series-462"
+      },
+      {
+        "id": 202,
+        "name": "Women's Cricket World Cup",
+        "continent": "World",
+        "gender": "Women",
+        "age_group": "Senior",
+        "logo_url": "https://storage.allsportdb.com/thumb/comp/ca11153f-cf9f-44f7-8e90-c324f3e23005",
+        "url": "https://allsportdb.com/Competitions/Womens-Cricket-World-Cup-202"
+      }
+    ],
+    "Cycling": [
+      {
+        "id": 584,
+        "name": "European Cycling BMX Championships",
+        "continent": "Europe",
+        "gender": "Mixed",
+        "age_group": "Senior",
+        "logo_url": "https://storage.allsportdb.com/thumb/comp/132216a1-d2f6-45ac-bd11-3c408603d9a3",
+        "url": "https://allsportdb.com/Competitions/European-Cycling-BMX-Championships-584"
+      },
+      {
+        "id": 699,
+        "name": "European Cyclo-Cross Championships",
+        "continent": "Europe",
+        "gender": "Mixed",
+        "age_group": "Senior",
+        "logo_url": "https://storage.allsportdb.com/thumb/comp/5e04ff4f-d57f-4fa7-b49e-de43c7801dae",
+        "url": "https://allsportdb.com/Competitions/European-Cyclo-Cross-Championships-699"
+      },
+      {
+        "id": 583,
+        "name": "European Mountain Bike Championships",
+        "continent": "Europe",
+        "gender": "Mixed",
+        "age_group": "Senior",
+        "logo_url": "https://storage.allsportdb.com/thumb/comp/0383172d-2f34-46c8-89c6-b4b19b3c4dd6",
+        "url": "https://allsportdb.com/Competitions/European-Mountain-Bike-Championships-583"
+      },
+      {
+        "id": 320,
+        "name": "European Road Cycling Championships",
+        "continent": "Europe",
+        "gender": "Mixed",
+        "age_group": "Senior",
+        "logo_url": "https://storage.allsportdb.com/thumb/comp/ce63c63f-c3bc-476f-97cc-a0b4d0abe94e",
+        "url": "https://allsportdb.com/Competitions/European-Road-Cycling-Championships-320"
+      },
+      {
+        "id": 107,
+        "name": "European Track Cycling Championships",
+        "continent": "Europe",
+        "gender": "Mixed",
+        "age_group": "Senior",
+        "logo_url": "https://storage.allsportdb.com/thumb/comp/8307430d-cf8d-45ce-a6a1-b6e9cef05f4a",
+        "url": "https://allsportdb.com/Competitions/European-Track-Cycling-Championships-107"
+      },
+      {
+        "id": 319,
+        "name": "European Track Cycling Junior Championships",
+        "continent": "Europe",
+        "gender": "Mixed",
+        "age_group": "U23",
+        "logo_url": "https://storage.allsportdb.com/thumb/comp/6cca6a4d-1cd9-4804-bbd4-0d7bfd723182",
+        "url": "https://allsportdb.com/Competitions/European-Track-Cycling-Junior-Championships-319"
+      },
+      {
+        "id": 39,
+        "name": "Giro d'Italia",
+        "continent": "World",
+        "gender": "Men",
+        "age_group": "Senior",
+        "logo_url": "https://storage.allsportdb.com/thumb/comp/7a4e8070-dad2-4f0a-a9eb-1e9026bc8e5f",
+        "url": "https://allsportdb.com/Competitions/Giro-dItalia-39"
+      },
+      {
+        "id": 106,
+        "name": "Summer Olympic Games",
+        "continent": "Olympic",
+        "gender": "Mixed",
+        "age_group": "Senior",
+        "logo_url": "https://storage.allsportdb.com/thumb/comp/ed99a4ed-aa46-4c6b-91da-f9d9abf7130b",
+        "url": "https://allsportdb.com/Competitions/Summer-Olympic-Games-106"
+      },
+      {
+        "id": 35,
+        "name": "Tour de France",
+        "continent": "World",
+        "gender": "Men",
+        "age_group": "Senior",
+        "logo_url": "https://storage.allsportdb.com/thumb/comp/eb809217-97e3-40dd-8e7c-000aeef965ef",
+        "url": "https://allsportdb.com/Competitions/Tour-de-France-35"
+      },
+      {
+        "id": 369,
+        "name": "UCI BMX Racing World Cup",
+        "continent": "World",
+        "gender": "Mixed",
+        "age_group": "Senior",
+        "logo_url": "https://storage.allsportdb.com/thumb/comp/52e33e2c-c90d-4182-8a82-8a36563ef431",
+        "url": "https://allsportdb.com/Competitions/UCI-BMX-Racing-World-Cup-369"
+      },
+      {
+        "id": 368,
+        "name": "UCI BMX World Championships",
+        "continent": "World",
+        "gender": "Mixed",
+        "age_group": "Senior",
+        "logo_url": "https://storage.allsportdb.com/thumb/comp/26c5fdfa-6bcf-4bc0-88e2-bb12f39e0b08",
+        "url": "https://allsportdb.com/Competitions/UCI-BMX-World-Championships-368"
+      },
+      {
+        "id": 41,
+        "name": "UCI Cycling Road World Championships",
+        "continent": "World",
+        "gender": "Mixed",
+        "age_group": "Senior",
+        "logo_url": "https://storage.allsportdb.com/thumb/comp/16f23847-f8ab-4b31-bd08-5608400a6a6c",
+        "url": "https://allsportdb.com/Competitions/UCI-Cycling-Road-World-Championships-41"
+      },
+      {
+        "id": 359,
+        "name": "UCI Cycling Women's World Tour",
+        "continent": "World",
+        "gender": "Women",
+        "age_group": "Senior",
+        "logo_url": "https://storage.allsportdb.com/thumb/comp/62e72a1c-dbac-4db8-a9af-4daee9b5b66c",
+        "url": "https://allsportdb.com/Competitions/UCI-Cycling-Womens-World-Tour-359"
+      },
+      {
+        "id": 234,
+        "name": "UCI Cycling World Tour",
+        "continent": "World",
+        "gender": "Men",
+        "age_group": "Senior",
+        "logo_url": "https://storage.allsportdb.com/thumb/comp/48d64707-c521-4609-b608-fc6bec242e7c",
+        "url": "https://allsportdb.com/Competitions/UCI-Cycling-World-Tour-234"
+      },
+      {
+        "id": 481,
+        "name": "UCI Cyclo-Cross World Championships",
+        "continent": "World",
+        "gender": "Mixed",
+        "age_group": "Senior",
+        "logo_url": "https://storage.allsportdb.com/thumb/comp/9acdd713-44b1-4cb2-8609-ba5103a21efb",
+        "url": "https://allsportdb.com/Competitions/UCI-Cyclo-Cross-World-Championships-481"
+      },
+      {
+        "id": 482,
+        "name": "UCI Cyclo-Cross World Cup",
+        "continent": "World",
+        "gender": "Mixed",
+        "age_group": "Senior",
+        "logo_url": "https://storage.allsportdb.com/thumb/comp/a4f86297-0ecb-461a-aefc-6decb6fde556",
+        "url": "https://allsportdb.com/Competitions/UCI-Cyclo-Cross-World-Cup-482"
+      },
+      {
+        "id": 366,
+        "name": "UCI Mountain Bike World Championships",
+        "continent": "World",
+        "gender": "Mixed",
+        "age_group": "Senior",
+        "logo_url": "https://storage.allsportdb.com/thumb/comp/89a47fd6-a5e6-4d9b-b59a-e9ac800adfac",
+        "url": "https://allsportdb.com/Competitions/UCI-Mountain-Bike-World-Championships-366"
+      },
+      {
+        "id": 367,
+        "name": "UCI Mountain Bike World Series",
+        "continent": "World",
+        "gender": "Mixed",
+        "age_group": "Senior",
+        "logo_url": "https://storage.allsportdb.com/thumb/comp/fe18fc66-08e4-45eb-87c7-9f0fcc6da9c2",
+        "url": "https://allsportdb.com/Competitions/UCI-Mountain-Bike-World-Series-367"
+      },
+      {
+        "id": 627,
+        "name": "UCI Track Cycling Champions League",
+        "continent": "World",
+        "gender": "Mixed",
+        "age_group": "Senior",
+        "logo_url": "https://storage.allsportdb.com/thumb/comp/80a05504-9c49-48a8-ab98-b87f124e54db",
+        "url": "https://allsportdb.com/Competitions/UCI-Track-Cycling-Champions-League-627"
+      },
+      {
+        "id": 321,
+        "name": "UCI Track Cycling Junior World Championships",
+        "continent": "World",
+        "gender": "Mixed",
+        "age_group": "U23",
+        "logo_url": "https://storage.allsportdb.com/thumb/comp/b71ec6fb-ffa4-4b4c-b3eb-780131a35489",
+        "url": "https://allsportdb.com/Competitions/UCI-Track-Cycling-Junior-World-Championships-321"
+      },
+      {
+        "id": 38,
+        "name": "UCI Track Cycling World Championships",
+        "continent": "World",
+        "gender": "Mixed",
+        "age_group": "Senior",
+        "logo_url": "https://storage.allsportdb.com/thumb/comp/64e4c08f-673a-4899-a5cb-fc0d7fa41bc0",
+        "url": "https://allsportdb.com/Competitions/UCI-Track-Cycling-World-Championships-38"
+      },
+      {
+        "id": 322,
+        "name": "UCI Track Cycling World Cup",
+        "continent": "World",
+        "gender": "Mixed",
+        "age_group": "Senior",
+        "logo_url": "https://storage.allsportdb.com/thumb/comp/317c3b32-d86e-4012-a746-9462498f9436",
+        "url": "https://allsportdb.com/Competitions/UCI-Track-Cycling-World-Cup-322"
+      },
+      {
+        "id": 40,
+        "name": "Vuelta a España",
+        "continent": "World",
+        "gender": "Men",
+        "age_group": "Senior",
+        "logo_url": "https://storage.allsportdb.com/thumb/comp/5a2c6ed3-2949-4b58-9a6f-7d8863411105",
+        "url": "https://allsportdb.com/Competitions/Vuelta-a-España-40"
+      }
+    ]
+  },
+  "countries_catalog": {
+    "Albania": {
+      "code": "AL",
+      "emoji": "🇦🇱",
+      "continent": "Europe",
+      "flag_url": "https://storage.allsportdb.com/flags/flag-al.png"
+    },
+    "Algeria": {
+      "code": "DZ",
+      "emoji": "🇩🇿",
+      "continent": "Africa",
+      "flag_url": "https://storage.allsportdb.com/flags/flag-dz.png"
+    },
+    "Andorra": {
+      "code": "AD",
+      "emoji": "🇦🇩",
+      "continent": "Europe",
+      "flag_url": "https://storage.allsportdb.com/flags/flag-ad.png"
+    },
+    "Angola": {
+      "code": "AO",
+      "emoji": "🇦🇴",
+      "continent": "Africa",
+      "flag_url": "https://storage.allsportdb.com/flags/flag-ao.png"
+    },
+    "Antigua and Barbuda": {
+      "code": "AG",
+      "emoji": "🇦🇬",
+      "continent": "North America",
+      "flag_url": "https://storage.allsportdb.com/flags/flag-ag.png"
+    },
+    "Argentina": {
+      "code": "AR",
+      "emoji": "🇦🇷",
+      "continent": "South America",
+      "flag_url": "https://storage.allsportdb.com/flags/flag-ar.png"
+    },
+    "Armenia": {
+      "code": "AM",
+      "emoji": "🇦🇲",
+      "continent": "Europe",
+      "flag_url": "https://storage.allsportdb.com/flags/flag-am.png"
+    },
+    "Australia": {
+      "code": "AU",
+      "emoji": "🇦🇺",
+      "continent": "Oceania",
+      "flag_url": "https://storage.allsportdb.com/flags/flag-au.png"
+    },
+    "Austria": {
+      "code": "AT",
+      "emoji": "🇦🇹",
+      "continent": "Europe",
+      "flag_url": "https://storage.allsportdb.com/flags/flag-at.png"
+    },
+    "Azerbaijan": {
+      "code": "AZ",
+      "emoji": "🇦🇿",
+      "continent": "Europe",
+      "flag_url": "https://storage.allsportdb.com/flags/flag-az.png"
+    },
+    "Bahamas": {
+      "code": "BS",
+      "emoji": "🇧🇸",
+      "continent": "North America",
+      "flag_url": "https://storage.allsportdb.com/flags/flag-bs.png"
+    },
+    "Bahrain": {
+      "code": "BH",
+      "emoji": "🇧🇭",
+      "continent": "Asia",
+      "flag_url": "https://storage.allsportdb.com/flags/flag-bh.png"
+    },
+    "Bangladesh": {
+      "code": "BD",
+      "emoji": "🇧🇩",
+      "continent": "Asia",
+      "flag_url": "https://storage.allsportdb.com/flags/flag-bd.png"
+    },
+    "Belarus": {
+      "code": "BY",
+      "emoji": "🇧🇾",
+      "continent": "Europe",
+      "flag_url": "https://storage.allsportdb.com/flags/flag-by.png"
+    },
+    "Belgium": {
+      "code": "BE",
+      "emoji": "🇧🇪",
+      "continent": "Europe",
+      "flag_url": "https://storage.allsportdb.com/flags/flag-be.png"
+    },
+    "Bermuda": {
+      "code": "BM",
+      "emoji": "🇧🇲",
+      "continent": "North America",
+      "flag_url": "https://storage.allsportdb.com/flags/flag-bm.png"
+    },
+    "Bolivia": {
+      "code": "BO",
+      "emoji": "🇧🇴",
+      "continent": "South America",
+      "flag_url": "https://storage.allsportdb.com/flags/flag-bo.png"
+    },
+    "Bosnia and Herzegovina": {
+      "code": "BA",
+      "emoji": "🇧🇦",
+      "continent": "Europe",
+      "flag_url": "https://storage.allsportdb.com/flags/flag-ba.png"
+    },
+    "Botswana": {
+      "code": "BW",
+      "emoji": "🇧🇼",
+      "continent": "Africa",
+      "flag_url": "https://storage.allsportdb.com/flags/flag-bw.png"
+    },
+    "Brazil": {
+      "code": "BR",
+      "emoji": "🇧🇷",
+      "continent": "South America",
+      "flag_url": "https://storage.allsportdb.com/flags/flag-br.png"
+    },
+    "Brunei": {
+      "code": "BN",
+      "emoji": "🇧🇳",
+      "continent": "Asia",
+      "flag_url": "https://storage.allsportdb.com/flags/flag-bn.png"
+    },
+    "Bulgaria": {
+      "code": "BG",
+      "emoji": "🇧🇬",
+      "continent": "Europe",
+      "flag_url": "https://storage.allsportdb.com/flags/flag-bg.png"
+    },
+    "Cabo Verde": {
+      "code": "CV",
+      "emoji": "🇨🇻",
+      "continent": "Africa",
+      "flag_url": "https://storage.allsportdb.com/flags/flag-cv.png"
+    },
+    "Cambodia": {
+      "code": "KH",
+      "emoji": "🇰🇭",
+      "continent": "Asia",
+      "flag_url": "https://storage.allsportdb.com/flags/flag-kh.png"
+    },
+    "Cameroon": {
+      "code": "CM",
+      "emoji": "🇨🇲",
+      "continent": "Africa",
+      "flag_url": "https://storage.allsportdb.com/flags/flag-cm.png"
+    },
+    "Canada": {
+      "code": "CA",
+      "emoji": "🇨🇦",
+      "continent": "North America",
+      "flag_url": "https://storage.allsportdb.com/flags/flag-ca.png"
+    },
+    "Chile": {
+      "code": "CL",
+      "emoji": "🇨🇱",
+      "continent": "South America",
+      "flag_url": "https://storage.allsportdb.com/flags/flag-cl.png"
+    },
+    "China": {
+      "code": "CN",
+      "emoji": "🇨🇳",
+      "continent": "Asia",
+      "flag_url": "https://storage.allsportdb.com/flags/flag-cn.png"
+    },
+    "Chinese Taipei": {
+      "code": "TW",
+      "emoji": "🇹🇼",
+      "continent": "Asia",
+      "flag_url": "https://storage.allsportdb.com/flags/flag-tw.png"
+    },
+    "Colombia": {
+      "code": "CO",
+      "emoji": "🇨🇴",
+      "continent": "South America",
+      "flag_url": "https://storage.allsportdb.com/flags/flag-co.png"
+    },
+    "Costa Rica": {
+      "code": "CR",
+      "emoji": "🇨🇷",
+      "continent": "North America",
+      "flag_url": "https://storage.allsportdb.com/flags/flag-cr.png"
+    },
+    "Croatia": {
+      "code": "HR",
+      "emoji": "🇭🇷",
+      "continent": "Europe",
+      "flag_url": "https://storage.allsportdb.com/flags/flag-hr.png"
+    },
+    "Cuba": {
+      "code": "CU",
+      "emoji": "🇨🇺",
+      "continent": "North America",
+      "flag_url": "https://storage.allsportdb.com/flags/flag-cu.png"
+    },
+    "Cyprus": {
+      "code": "CY",
+      "emoji": "🇨🇾",
+      "continent": "Europe",
+      "flag_url": "https://storage.allsportdb.com/flags/flag-cy.png"
+    },
+    "Czech Republic": {
+      "code": "CZ",
+      "emoji": "🇨🇿",
+      "continent": "Europe",
+      "flag_url": "https://storage.allsportdb.com/flags/flag-cz.png"
+    },
+    "Denmark": {
+      "code": "DK",
+      "emoji": "🇩🇰",
+      "continent": "Europe",
+      "flag_url": "https://storage.allsportdb.com/flags/flag-dk.png"
+    },
+    "Dominican Republic": {
+      "code": "DO",
+      "emoji": "🇩🇴",
+      "continent": "North America",
+      "flag_url": "https://storage.allsportdb.com/flags/flag-do.png"
+    },
+    "Ecuador": {
+      "code": "EC",
+      "emoji": "🇪🇨",
+      "continent": "South America",
+      "flag_url": "https://storage.allsportdb.com/flags/flag-ec.png"
+    },
+    "Egypt": {
+      "code": "EG",
+      "emoji": "🇪🇬",
+      "continent": "Africa",
+      "flag_url": "https://storage.allsportdb.com/flags/flag-eg.png"
+    },
+    "El Salvador": {
+      "code": "SV",
+      "emoji": "🇸🇻",
+      "continent": "North America",
+      "flag_url": "https://storage.allsportdb.com/flags/flag-sv.png"
+    },
+    "Equatorial Guinea": {
+      "code": "GQ",
+      "emoji": "🇬🇶",
+      "continent": "Africa",
+      "flag_url": "https://storage.allsportdb.com/flags/flag-gq.png"
+    },
+    "Estonia": {
+      "code": "EE",
+      "emoji": "🇪🇪",
+      "continent": "Europe",
+      "flag_url": "https://storage.allsportdb.com/flags/flag-ee.png"
+    },
+    "Europe": {
+      "code": "EU",
+      "emoji": "🇪🇺",
+      "continent": "Europe",
+      "flag_url": "https://storage.allsportdb.com/flags/flag-eu.png"
+    },
+    "Faroe Islands": {
+      "code": "FO",
+      "emoji": "🇫🇴",
+      "continent": "Europe",
+      "flag_url": "https://storage.allsportdb.com/flags/flag-fo.png"
+    },
+    "Fiji": {
+      "code": "FJ",
+      "emoji": "🇫🇯",
+      "continent": "Oceania",
+      "flag_url": "https://storage.allsportdb.com/flags/flag-fj.png"
+    },
+    "Finland": {
+      "code": "FI",
+      "emoji": "🇫🇮",
+      "continent": "Europe",
+      "flag_url": "https://storage.allsportdb.com/flags/flag-fi.png"
+    },
+    "France": {
+      "code": "FR",
+      "emoji": "🇫🇷",
+      "continent": "Europe",
+      "flag_url": "https://storage.allsportdb.com/flags/flag-fr.png"
+    },
+    "Gabon": {
+      "code": "GA",
+      "emoji": "🇬🇦",
+      "continent": "Africa",
+      "flag_url": "https://storage.allsportdb.com/flags/flag-ga.png"
+    },
+    "Georgia": {
+      "code": "GE",
+      "emoji": "🇬🇪",
+      "continent": "Europe",
+      "flag_url": "https://storage.allsportdb.com/flags/flag-ge.png"
+    },
+    "Germany": {
+      "code": "DE",
+      "emoji": "🇩🇪",
+      "continent": "Europe",
+      "flag_url": "https://storage.allsportdb.com/flags/flag-de.png"
+    },
+    "Ghana": {
+      "code": "GH",
+      "emoji": "🇬🇭",
+      "continent": "Africa",
+      "flag_url": "https://storage.allsportdb.com/flags/flag-gh.png"
+    },
+    "Gibraltar": {
+      "code": "GI",
+      "emoji": "🇬🇮",
+      "continent": "Europe",
+      "flag_url": "https://storage.allsportdb.com/flags/flag-gi.png"
+    },
+    "Greece": {
+      "code": "GR",
+      "emoji": "🇬🇷",
+      "continent": "Europe",
+      "flag_url": "https://storage.allsportdb.com/flags/flag-gr.png"
+    },
+    "Greenland": {
+      "code": "GL",
+      "emoji": "🇬🇱",
+      "continent": "Europe",
+      "flag_url": "https://storage.allsportdb.com/flags/flag-gl.png"
+    },
+    "Guatemala": {
+      "code": "GT",
+      "emoji": "🇬🇹",
+      "continent": "North America",
+      "flag_url": "https://storage.allsportdb.com/flags/flag-gt.png"
+    },
+    "Guinea": {
+      "code": "GN",
+      "emoji": "🇬🇳",
+      "continent": "Africa",
+      "flag_url": "https://storage.allsportdb.com/flags/flag-gn.png"
+    },
+    "Guyana": {
+      "code": "GY",
+      "emoji": "🇬🇾",
+      "continent": "South America",
+      "flag_url": "https://storage.allsportdb.com/flags/flag-gy.png"
+    },
+    "Hong Kong": {
+      "code": "HK",
+      "emoji": "🇭🇰",
+      "continent": "Asia",
+      "flag_url": "https://storage.allsportdb.com/flags/flag-hk.png"
+    },
+    "Hungary": {
+      "code": "HU",
+      "emoji": "🇭🇺",
+      "continent": "Europe",
+      "flag_url": "https://storage.allsportdb.com/flags/flag-hu.png"
+    },
+    "Iceland": {
+      "code": "IS",
+      "emoji": "🇮🇸",
+      "continent": "Europe",
+      "flag_url": "https://storage.allsportdb.com/flags/flag-is.png"
+    },
+    "India": {
+      "code": "IN",
+      "emoji": "🇮🇳",
+      "continent": "Asia",
+      "flag_url": "https://storage.allsportdb.com/flags/flag-in.png"
+    },
+    "Indonesia": {
+      "code": "ID",
+      "emoji": "🇮🇩",
+      "continent": "Asia",
+      "flag_url": "https://storage.allsportdb.com/flags/flag-id.png"
+    },
+    "Iran": {
+      "code": "IR",
+      "emoji": "🇮🇷",
+      "continent": "Asia",
+      "flag_url": "https://storage.allsportdb.com/flags/flag-ir.png"
+    },
+    "Ireland": {
+      "code": "IE",
+      "emoji": "🇮🇪",
+      "continent": "Europe",
+      "flag_url": "https://storage.allsportdb.com/flags/flag-ie.png"
+    },
+    "Isle Of Man": {
+      "code": "IM",
+      "emoji": "🇮🇲",
+      "continent": "Europe",
+      "flag_url": "https://storage.allsportdb.com/flags/flag-im.png"
+    },
+    "Israel": {
+      "code": "IL",
+      "emoji": "🇮🇱",
+      "continent": "Asia",
+      "flag_url": "https://storage.allsportdb.com/flags/flag-il.png"
+    },
+    "Italy": {
+      "code": "IT",
+      "emoji": "🇮🇹",
+      "continent": "Europe",
+      "flag_url": "https://storage.allsportdb.com/flags/flag-it.png"
+    },
+    "Ivory Coast": {
+      "code": "CI",
+      "emoji": "🇨🇮",
+      "continent": "Africa",
+      "flag_url": "https://storage.allsportdb.com/flags/flag-ci.png"
+    },
+    "Jamaica": {
+      "code": "JM",
+      "emoji": "🇯🇲",
+      "continent": "North America",
+      "flag_url": "https://storage.allsportdb.com/flags/flag-jm.png"
+    },
+    "Japan": {
+      "code": "JP",
+      "emoji": "🇯🇵",
+      "continent": "Asia",
+      "flag_url": "https://storage.allsportdb.com/flags/flag-jp.png"
+    },
+    "Jordan": {
+      "code": "JO",
+      "emoji": "🇯🇴",
+      "continent": "Asia",
+      "flag_url": "https://storage.allsportdb.com/flags/flag-jo.png"
+    },
+    "Kazakhstan": {
+      "code": "KZ",
+      "emoji": "🇰🇿",
+      "continent": "Asia",
+      "flag_url": "https://storage.allsportdb.com/flags/flag-kz.png"
+    },
+    "Kenya": {
+      "code": "KE",
+      "emoji": "🇰🇪",
+      "continent": "Africa",
+      "flag_url": "https://storage.allsportdb.com/flags/flag-ke.png"
+    },
+    "Kosovo": {
+      "code": "KOSOVO",
+      "emoji": "🇽🇰",
+      "continent": "Europe",
+      "flag_url": "https://storage.allsportdb.com/flags/flag-kosovo.png"
+    },
+    "Kuwait": {
+      "code": "KW",
+      "emoji": "🇰🇼",
+      "continent": "Asia",
+      "flag_url": "https://storage.allsportdb.com/flags/flag-kw.png"
+    },
+    "Kyrgyzstan": {
+      "code": "KG",
+      "emoji": "🇰🇬",
+      "continent": "Asia",
+      "flag_url": "https://storage.allsportdb.com/flags/flag-kg.png"
+    },
+    "Latvia": {
+      "code": "LV",
+      "emoji": "🇱🇻",
+      "continent": "Europe",
+      "flag_url": "https://storage.allsportdb.com/flags/flag-lv.png"
+    },
+    "Lebanon": {
+      "code": "LB",
+      "emoji": "🇱🇧",
+      "continent": "Asia",
+      "flag_url": "https://storage.allsportdb.com/flags/flag-lb.png"
+    },
+    "Lesotho": {
+      "code": "LS",
+      "emoji": "🇱🇸",
+      "continent": "Africa",
+      "flag_url": "https://storage.allsportdb.com/flags/flag-ls.png"
+    },
+    "Libya": {
+      "code": "LY",
+      "emoji": "🇱🇾",
+      "continent": "Africa",
+      "flag_url": "https://storage.allsportdb.com/flags/flag-ly.png"
+    },
+    "Liechtenstein": {
+      "code": "LI",
+      "emoji": "🇱🇮",
+      "continent": "Europe",
+      "flag_url": "https://storage.allsportdb.com/flags/flag-li.png"
+    },
+    "Lithuania": {
+      "code": "LT",
+      "emoji": "🇱🇹",
+      "continent": "Europe",
+      "flag_url": "https://storage.allsportdb.com/flags/flag-lt.png"
+    },
+    "Luxembourg": {
+      "code": "LU",
+      "emoji": "🇱🇺",
+      "continent": "Europe",
+      "flag_url": "https://storage.allsportdb.com/flags/flag-lu.png"
+    },
+    "Macao": {
+      "code": "MO",
+      "emoji": "🇲🇴",
+      "continent": "Asia",
+      "flag_url": "https://storage.allsportdb.com/flags/flag-mo.png"
+    },
+    "Malaysia": {
+      "code": "MY",
+      "emoji": "🇲🇾",
+      "continent": "Asia",
+      "flag_url": "https://storage.allsportdb.com/flags/flag-my.png"
+    },
+    "Maldives": {
+      "code": "MV",
+      "emoji": "🇲🇻",
+      "continent": "Asia",
+      "flag_url": "https://storage.allsportdb.com/flags/flag-mv.png"
+    },
+    "Mali": {
+      "code": "ML",
+      "emoji": "🇲🇱",
+      "continent": "Africa",
+      "flag_url": "https://storage.allsportdb.com/flags/flag-ml.png"
+    },
+    "Malta": {
+      "code": "MT",
+      "emoji": "🇲🇹",
+      "continent": "Europe",
+      "flag_url": "https://storage.allsportdb.com/flags/flag-mt.png"
+    },
+    "Mexico": {
+      "code": "MX",
+      "emoji": "🇲🇽",
+      "continent": "North America",
+      "flag_url": "https://storage.allsportdb.com/flags/flag-mx.png"
+    },
+    "Moldova": {
+      "code": "MD",
+      "emoji": "🇲🇩",
+      "continent": "Europe",
+      "flag_url": "https://storage.allsportdb.com/flags/flag-md.png"
+    },
+    "Monaco": {
+      "code": "MC",
+      "emoji": "🇲🇨",
+      "continent": "Europe",
+      "flag_url": "https://storage.allsportdb.com/flags/flag-mc.png"
+    },
+    "Mongolia": {
+      "code": "MN",
+      "emoji": "🇲🇳",
+      "continent": "Asia",
+      "flag_url": "https://storage.allsportdb.com/flags/flag-mn.png"
+    },
+    "Montenegro": {
+      "code": "ME",
+      "emoji": "🇲🇪",
+      "continent": "Europe",
+      "flag_url": "https://storage.allsportdb.com/flags/flag-me.png"
+    },
+    "Morocco": {
+      "code": "MA",
+      "emoji": "🇲🇦",
+      "continent": "Africa",
+      "flag_url": "https://storage.allsportdb.com/flags/flag-ma.png"
+    },
+    "Mozambique": {
+      "code": "MZ",
+      "emoji": "🇲🇿",
+      "continent": "Africa",
+      "flag_url": "https://storage.allsportdb.com/flags/flag-mz.png"
+    },
+    "Namibia": {
+      "code": "NA",
+      "emoji": "🇳🇦",
+      "continent": "Africa",
+      "flag_url": "https://storage.allsportdb.com/flags/flag-na.png"
+    },
+    "Netherlands": {
+      "code": "NL",
+      "emoji": "🇳🇱",
+      "continent": "Europe",
+      "flag_url": "https://storage.allsportdb.com/flags/flag-nl.png"
+    },
+    "New Caledonia": {
+      "code": "NC",
+      "emoji": "🇳🇨",
+      "continent": "Oceania",
+      "flag_url": "https://storage.allsportdb.com/flags/flag-nc.png"
+    },
+    "New Zealand": {
+      "code": "NZ",
+      "emoji": "🇳🇿",
+      "continent": "Oceania",
+      "flag_url": "https://storage.allsportdb.com/flags/flag-nz.png"
+    },
+    "Nicaragua": {
+      "code": "NI",
+      "emoji": "🇳🇮",
+      "continent": "North America",
+      "flag_url": "https://storage.allsportdb.com/flags/flag-ni.png"
+    },
+    "Nigeria": {
+      "code": "NG",
+      "emoji": "🇳🇬",
+      "continent": "Africa",
+      "flag_url": "https://storage.allsportdb.com/flags/flag-ng.png"
+    },
+    "North Korea": {
+      "code": "KP",
+      "emoji": "🇰🇵",
+      "continent": "Asia",
+      "flag_url": "https://storage.allsportdb.com/flags/flag-kp.png"
+    },
+    "North Macedonia": {
+      "code": "MK",
+      "emoji": "🇲🇰",
+      "continent": "Europe",
+      "flag_url": "https://storage.allsportdb.com/flags/flag-mk.png"
+    },
+    "Norway": {
+      "code": "NO",
+      "emoji": "🇳🇴",
+      "continent": "Europe",
+      "flag_url": "https://storage.allsportdb.com/flags/flag-no.png"
+    },
+    "Oman": {
+      "code": "OM",
+      "emoji": "🇴🇲",
+      "continent": "Asia",
+      "flag_url": "https://storage.allsportdb.com/flags/flag-om.png"
+    },
+    "Pakistan": {
+      "code": "PK",
+      "emoji": "🇵🇰",
+      "continent": "Asia",
+      "flag_url": "https://storage.allsportdb.com/flags/flag-pk.png"
+    },
+    "Panama": {
+      "code": "PA",
+      "emoji": "🇵🇦",
+      "continent": "North America",
+      "flag_url": "https://storage.allsportdb.com/flags/flag-pa.png"
+    },
+    "Papua New Guinea": {
+      "code": "PG",
+      "emoji": "🇵🇬",
+      "continent": "Oceania",
+      "flag_url": "https://storage.allsportdb.com/flags/flag-pg.png"
+    },
+    "Paraguay": {
+      "code": "PY",
+      "emoji": "🇵🇾",
+      "continent": "South America",
+      "flag_url": "https://storage.allsportdb.com/flags/flag-py.png"
+    },
+    "Peru": {
+      "code": "PE",
+      "emoji": "🇵🇪",
+      "continent": "South America",
+      "flag_url": "https://storage.allsportdb.com/flags/flag-pe.png"
+    },
+    "Philippines": {
+      "code": "PH",
+      "emoji": "🇵🇭",
+      "continent": "Asia",
+      "flag_url": "https://storage.allsportdb.com/flags/flag-ph.png"
+    },
+    "Poland": {
+      "code": "PL",
+      "emoji": "🇵🇱",
+      "continent": "Europe",
+      "flag_url": "https://storage.allsportdb.com/flags/flag-pl.png"
+    },
+    "Portugal": {
+      "code": "PT",
+      "emoji": "🇵🇹",
+      "continent": "Europe",
+      "flag_url": "https://storage.allsportdb.com/flags/flag-pt.png"
+    },
+    "Puerto Rico": {
+      "code": "PR",
+      "emoji": "🇵🇷",
+      "continent": "North America",
+      "flag_url": "https://storage.allsportdb.com/flags/flag-pr.png"
+    },
+    "Qatar": {
+      "code": "QA",
+      "emoji": "🇶🇦",
+      "continent": "Asia",
+      "flag_url": "https://storage.allsportdb.com/flags/flag-qa.png"
+    },
+    "Republic of the Congo": {
+      "code": "CG",
+      "emoji": "🇨🇬",
+      "continent": "Africa",
+      "flag_url": "https://storage.allsportdb.com/flags/flag-cg.png"
+    },
+    "Romania": {
+      "code": "RO",
+      "emoji": "🇷🇴",
+      "continent": "Europe",
+      "flag_url": "https://storage.allsportdb.com/flags/flag-ro.png"
+    },
+    "Russia": {
+      "code": "RU",
+      "emoji": "🇷🇺",
+      "continent": "Europe",
+      "flag_url": "https://storage.allsportdb.com/flags/flag-ru.png"
+    },
+    "Rwanda": {
+      "code": "RW",
+      "emoji": "🇷🇼",
+      "continent": "Africa",
+      "flag_url": "https://storage.allsportdb.com/flags/flag-rw.png"
+    },
+    "Saint Kitts and Nevis": {
+      "code": "KN",
+      "emoji": "🇰🇳",
+      "continent": "North America",
+      "flag_url": "https://storage.allsportdb.com/flags/flag-kn.png"
+    },
+    "Saint Lucia": {
+      "code": "LC",
+      "emoji": "🇱🇨",
+      "continent": "North America",
+      "flag_url": "https://storage.allsportdb.com/flags/flag-lc.png"
+    },
+    "Samoa": {
+      "code": "WS",
+      "emoji": "🇼🇸",
+      "continent": "Oceania",
+      "flag_url": "https://storage.allsportdb.com/flags/flag-ws.png"
+    },
+    "San Marino": {
+      "code": "SM",
+      "emoji": "🇸🇲",
+      "continent": "Europe",
+      "flag_url": "https://storage.allsportdb.com/flags/flag-sm.png"
+    },
+    "Saudi Arabia": {
+      "code": "SA",
+      "emoji": "🇸🇦",
+      "continent": "Asia",
+      "flag_url": "https://storage.allsportdb.com/flags/flag-sa.png"
+    },
+    "Senegal": {
+      "code": "SN",
+      "emoji": "🇸🇳",
+      "continent": "Africa",
+      "flag_url": "https://storage.allsportdb.com/flags/flag-sn.png"
+    },
+    "Serbia": {
+      "code": "RS",
+      "emoji": "🇷🇸",
+      "continent": "Europe",
+      "flag_url": "https://storage.allsportdb.com/flags/flag-rs.png"
+    },
+    "Seychelles": {
+      "code": "SC",
+      "emoji": "🇸🇨",
+      "continent": "Africa",
+      "flag_url": "https://storage.allsportdb.com/flags/flag-sc.png"
+    },
+    "Singapore": {
+      "code": "SG",
+      "emoji": "🇸🇬",
+      "continent": "Asia",
+      "flag_url": "https://storage.allsportdb.com/flags/flag-sg.png"
+    },
+    "Slovakia": {
+      "code": "SK",
+      "emoji": "🇸🇰",
+      "continent": "Europe",
+      "flag_url": "https://storage.allsportdb.com/flags/flag-sk.png"
+    },
+    "Slovenia": {
+      "code": "SI",
+      "emoji": "🇸🇮",
+      "continent": "Europe",
+      "flag_url": "https://storage.allsportdb.com/flags/flag-si.png"
+    },
+    "Solomon Islands": {
+      "code": "SB",
+      "emoji": "🇸🇧",
+      "continent": "Oceania",
+      "flag_url": "https://storage.allsportdb.com/flags/flag-sb.png"
+    },
+    "South Africa": {
+      "code": "ZA",
+      "emoji": "🇿🇦",
+      "continent": "Africa",
+      "flag_url": "https://storage.allsportdb.com/flags/flag-za.png"
+    },
+    "South Korea": {
+      "code": "KR",
+      "emoji": "🇰🇷",
+      "continent": "Asia",
+      "flag_url": "https://storage.allsportdb.com/flags/flag-kr.png"
+    },
+    "Spain": {
+      "code": "ES",
+      "emoji": "🇪🇸",
+      "continent": "Europe",
+      "flag_url": "https://storage.allsportdb.com/flags/flag-es.png"
+    },
+    "Sri Lanka": {
+      "code": "LK",
+      "emoji": "🇱🇰",
+      "continent": "Asia",
+      "flag_url": "https://storage.allsportdb.com/flags/flag-lk.png"
+    },
+    "Sweden": {
+      "code": "SE",
+      "emoji": "🇸🇪",
+      "continent": "Europe",
+      "flag_url": "https://storage.allsportdb.com/flags/flag-se.png"
+    },
+    "Switzerland": {
+      "code": "CH",
+      "emoji": "🇨🇭",
+      "continent": "Europe",
+      "flag_url": "https://storage.allsportdb.com/flags/flag-ch.png"
+    },
+    "Tahiti": {
+      "code": "PF",
+      "emoji": "🇵🇫",
+      "continent": "Oceania",
+      "flag_url": "https://storage.allsportdb.com/flags/flag-pf.png"
+    },
+    "Tajikistan": {
+      "code": "TJ",
+      "emoji": "🇹🇯",
+      "continent": "Asia",
+      "flag_url": "https://storage.allsportdb.com/flags/flag-tj.png"
+    },
+    "TBA": {
+      "code": "XX",
+      "emoji": "❓",
+      "continent": "World",
+      "flag_url": "https://storage.allsportdb.com/flags/flag-xx.png"
+    },
+    "Thailand": {
+      "code": "TH",
+      "emoji": "🇹🇭",
+      "continent": "Asia",
+      "flag_url": "https://storage.allsportdb.com/flags/flag-th.png"
+    },
+    "Tonga": {
+      "code": "TO",
+      "emoji": "🇹🇴",
+      "continent": "Oceania",
+      "flag_url": "https://storage.allsportdb.com/flags/flag-to.png"
+    },
+    "Trinidad and Tobago": {
+      "code": "TT",
+      "emoji": "🇹🇹",
+      "continent": "North America",
+      "flag_url": "https://storage.allsportdb.com/flags/flag-tt.png"
+    },
+    "Tunisia": {
+      "code": "TN",
+      "emoji": "🇹🇳",
+      "continent": "Africa",
+      "flag_url": "https://storage.allsportdb.com/flags/flag-tn.png"
+    },
+    "Turkey": {
+      "code": "TR",
+      "emoji": "🇹🇷",
+      "continent": "Europe",
+      "flag_url": "https://storage.allsportdb.com/flags/flag-tr.png"
+    },
+    "Turkmenistan": {
+      "code": "TM",
+      "emoji": "🇹🇲",
+      "continent": "Asia",
+      "flag_url": "https://storage.allsportdb.com/flags/flag-tm.png"
+    },
+    "Uganda": {
+      "code": "UG",
+      "emoji": "🇺🇬",
+      "continent": "Africa",
+      "flag_url": "https://storage.allsportdb.com/flags/flag-ug.png"
+    },
+    "Ukraine": {
+      "code": "UA",
+      "emoji": "🇺🇦",
+      "continent": "Europe",
+      "flag_url": "https://storage.allsportdb.com/flags/flag-ua.png"
+    },
+    "United Arab Emirates": {
+      "code": "AE",
+      "emoji": "🇦🇪",
+      "continent": "Asia",
+      "flag_url": "https://storage.allsportdb.com/flags/flag-ae.png"
+    },
+    "United Kingdom": {
+      "code": "GB",
+      "emoji": "🇬🇧",
+      "continent": "Europe",
+      "flag_url": "https://storage.allsportdb.com/flags/flag-gb.png"
+    },
+    "United States": {
+      "code": "US",
+      "emoji": "🇺🇸",
+      "continent": "North America",
+      "flag_url": "https://storage.allsportdb.com/flags/flag-us.png"
+    },
+    "Uruguay": {
+      "code": "UY",
+      "emoji": "🇺🇾",
+      "continent": "South America",
+      "flag_url": "https://storage.allsportdb.com/flags/flag-uy.png"
+    },
+    "Uzbekistan": {
+      "code": "UZ",
+      "emoji": "🇺🇿",
+      "continent": "Asia",
+      "flag_url": "https://storage.allsportdb.com/flags/flag-uz.png"
+    },
+    "Venezuela": {
+      "code": "VE",
+      "emoji": "🇻🇪",
+      "continent": "South America",
+      "flag_url": "https://storage.allsportdb.com/flags/flag-ve.png"
+    },
+    "Vietnam": {
+      "code": "VN",
+      "emoji": "🇻🇳",
+      "continent": "Asia",
+      "flag_url": "https://storage.allsportdb.com/flags/flag-vn.png"
+    },
+    "Virgin Islands of the United States": {
+      "code": "VI",
+      "emoji": "🇻🇮",
+      "continent": "North America",
+      "flag_url": "https://storage.allsportdb.com/flags/flag-vi.png"
+    },
+    "Zambia": {
+      "code": "ZM",
+      "emoji": "🇿🇲",
+      "continent": "Africa",
+      "flag_url": "https://storage.allsportdb.com/flags/flag-zm.png"
+    },
+    "Zimbabwe": {
+      "code": "ZW",
+      "emoji": "🇿🇼",
+      "continent": "Africa",
+      "flag_url": "https://storage.allsportdb.com/flags/flag-zw.png"
+    }
+  }
+}

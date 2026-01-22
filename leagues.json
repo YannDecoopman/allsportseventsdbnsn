@@ -1,0 +1,2266 @@
+{
+  "Brazil": [
+    {
+      "name": "Brazilian Serie A",
+      "sport": "Soccer"
+    },
+    {
+      "name": "Brazilian Serie B",
+      "sport": "Soccer"
+    },
+    {
+      "name": "Jungle Fight",
+      "sport": "Fighting"
+    },
+    {
+      "name": "Brazilian Serie C",
+      "sport": "Soccer"
+    },
+    {
+      "name": "Copa do Brasil",
+      "sport": "Soccer"
+    },
+    {
+      "name": "Brazil Serie D",
+      "sport": "Soccer"
+    },
+    {
+      "name": "Brazil Brasileiro Women",
+      "sport": "Soccer"
+    },
+    {
+      "name": "Copa Paulista",
+      "sport": "Soccer"
+    },
+    {
+      "name": "Brazilian Copa do Nordeste",
+      "sport": "Soccer"
+    },
+    {
+      "name": "Brazilian Copa Verde",
+      "sport": "Soccer"
+    },
+    {
+      "name": "Brazilian Campeonato Acreano",
+      "sport": "Soccer"
+    },
+    {
+      "name": "Brazilian Campeonato Alagoano",
+      "sport": "Soccer"
+    },
+    {
+      "name": "Brazilian Campeonato Amapaense",
+      "sport": "Soccer"
+    },
+    {
+      "name": "Brazilian Campeonato Amazonense",
+      "sport": "Soccer"
+    },
+    {
+      "name": "Brazilian Campeonato Baiano",
+      "sport": "Soccer"
+    },
+    {
+      "name": "Brazilian Campeonato Brasiliense",
+      "sport": "Soccer"
+    },
+    {
+      "name": "Brazilian Campeonato Capixaba",
+      "sport": "Soccer"
+    },
+    {
+      "name": "Brazilian Campeonato Catarinense",
+      "sport": "Soccer"
+    },
+    {
+      "name": "Brazilian Campeonato Carioca",
+      "sport": "Soccer"
+    },
+    {
+      "name": "Brazilian Campeonato Cearense",
+      "sport": "Soccer"
+    },
+    {
+      "name": "Brazilian Campeonato Gaucho",
+      "sport": "Soccer"
+    },
+    {
+      "name": "Brazilian Copa FGF",
+      "sport": "Soccer"
+    },
+    {
+      "name": "Brazilian Campeonato Goiano",
+      "sport": "Soccer"
+    },
+    {
+      "name": "Brazilian Campeonato Maranhense",
+      "sport": "Soccer"
+    },
+    {
+      "name": "Brazilian Campeonato MatoGrossense",
+      "sport": "Soccer"
+    },
+    {
+      "name": "Brazilian Campeonato Mineiro",
+      "sport": "Soccer"
+    },
+    {
+      "name": "Brazilian Campeonato Paraense",
+      "sport": "Soccer"
+    },
+    {
+      "name": "Brazilian Campeonato Paraibano",
+      "sport": "Soccer"
+    },
+    {
+      "name": "Brazilian Campeonato Paranaense",
+      "sport": "Soccer"
+    },
+    {
+      "name": "Brazilian Campeonato Paulista",
+      "sport": "Soccer"
+    },
+    {
+      "name": "Brazilian Campeonato Pernambucano",
+      "sport": "Soccer"
+    },
+    {
+      "name": "Brazilian Campeonato Piauiense",
+      "sport": "Soccer"
+    },
+    {
+      "name": "Brazilian Campeonato Potiguar",
+      "sport": "Soccer"
+    },
+    {
+      "name": "Brazilian Campeonato Rondoniense",
+      "sport": "Soccer"
+    },
+    {
+      "name": "Brazilian Campeonato Roraimense",
+      "sport": "Soccer"
+    },
+    {
+      "name": "Brazilian Campeonato Sergipano",
+      "sport": "Soccer"
+    },
+    {
+      "name": "Brazilian Campeonato SulMatoGrossense",
+      "sport": "Soccer"
+    },
+    {
+      "name": "Brazilian Campeonato Tocantinense",
+      "sport": "Soccer"
+    },
+    {
+      "name": "Brazilian Supercopa Rei",
+      "sport": "Soccer"
+    }
+  ],
+  "Portugal": [
+    {
+      "name": "Portuguese Primeira Liga",
+      "sport": "Soccer"
+    },
+    {
+      "name": "Taca de Liga",
+      "sport": "Soccer"
+    },
+    {
+      "name": "Taca de Portugal",
+      "sport": "Soccer"
+    },
+    {
+      "name": "Portuguese LigaPro",
+      "sport": "Soccer"
+    },
+    {
+      "name": "Portugal Liga 3",
+      "sport": "Soccer"
+    },
+    {
+      "name": "Campeonato Nacional Feminino",
+      "sport": "Soccer"
+    },
+    {
+      "name": "Campeonato de Portugal Serie A",
+      "sport": "Soccer"
+    },
+    {
+      "name": "Campeonato de Portugal Serie B",
+      "sport": "Soccer"
+    },
+    {
+      "name": "Campeonato de Portugal Serie C",
+      "sport": "Soccer"
+    },
+    {
+      "name": "Campeonato de Portugal Serie D",
+      "sport": "Soccer"
+    }
+  ],
+  "Canada": [
+    {
+      "name": "CFL",
+      "sport": "American Football"
+    },
+    {
+      "name": "Can-Am",
+      "sport": "Baseball"
+    },
+    {
+      "name": "PGA Tour Canada",
+      "sport": "Golf"
+    },
+    {
+      "name": "Canadian Premier League",
+      "sport": "Soccer"
+    },
+    {
+      "name": "Canadian OHL",
+      "sport": "Ice Hockey"
+    },
+    {
+      "name": "Canadian WHL",
+      "sport": "Ice Hockey"
+    },
+    {
+      "name": "Canadian QMJHL",
+      "sport": "Ice Hockey"
+    },
+    {
+      "name": "Canadian Elite Basketball League",
+      "sport": "Basketball"
+    },
+    {
+      "name": "TKO MMA",
+      "sport": "Fighting"
+    },
+    {
+      "name": "U Sports Football League",
+      "sport": "American Football"
+    },
+    {
+      "name": "Scotties Tournament of Hearts",
+      "sport": "Wintersports"
+    },
+    {
+      "name": "Canada Cup",
+      "sport": "Ice Hockey"
+    },
+    {
+      "name": "PGA Tour Americas",
+      "sport": "Golf"
+    },
+    {
+      "name": "Canadian Northern Super League",
+      "sport": "Soccer"
+    },
+    {
+      "name": "Canadian Memorial Cup",
+      "sport": "Ice Hockey"
+    }
+  ],
+  "United States": [
+    {
+      "name": "American Major League Soccer",
+      "sport": "Soccer"
+    },
+    {
+      "name": "IndyCar Series",
+      "sport": "Motorsport"
+    },
+    {
+      "name": "NBA",
+      "sport": "Basketball"
+    },
+    {
+      "name": "NBA G League",
+      "sport": "Basketball"
+    },
+    {
+      "name": "NFL",
+      "sport": "American Football"
+    },
+    {
+      "name": "NASCAR Cup Series",
+      "sport": "Motorsport"
+    },
+    {
+      "name": "MLB",
+      "sport": "Baseball"
+    },
+    {
+      "name": "American NASL",
+      "sport": "Soccer"
+    },
+    {
+      "name": "WWE",
+      "sport": "Fighting"
+    },
+    {
+      "name": "ROH",
+      "sport": "Fighting"
+    },
+    {
+      "name": "WCW",
+      "sport": "Fighting"
+    },
+    {
+      "name": "ECW",
+      "sport": "Fighting"
+    },
+    {
+      "name": "NWA",
+      "sport": "Fighting"
+    },
+    {
+      "name": "TNA Wrestling",
+      "sport": "Fighting"
+    },
+    {
+      "name": "AMA Supercross Championship",
+      "sport": "Motorsport"
+    },
+    {
+      "name": "Pro Motocross",
+      "sport": "Motorsport"
+    },
+    {
+      "name": "Arena Football League",
+      "sport": "American Football"
+    },
+    {
+      "name": "Indoor Football League",
+      "sport": "American Football"
+    },
+    {
+      "name": "National Arena League",
+      "sport": "American Football"
+    },
+    {
+      "name": "NCAA Division 1",
+      "sport": "American Football"
+    },
+    {
+      "name": "IMSA SportsCar Championship",
+      "sport": "Motorsport"
+    },
+    {
+      "name": "WNBA",
+      "sport": "Basketball"
+    },
+    {
+      "name": "American NWSL",
+      "sport": "Soccer"
+    },
+    {
+      "name": "League of Legends Championship Series",
+      "sport": "ESports"
+    },
+    {
+      "name": "AAF",
+      "sport": "American Football"
+    },
+    {
+      "name": "AEW",
+      "sport": "Fighting"
+    },
+    {
+      "name": "BKFC",
+      "sport": "Fighting"
+    },
+    {
+      "name": "NASCAR Xfinity Series",
+      "sport": "Motorsport"
+    },
+    {
+      "name": "NCAA Division I Basketball Mens",
+      "sport": "Basketball"
+    },
+    {
+      "name": "GCW",
+      "sport": "Fighting"
+    },
+    {
+      "name": "American USL Championship",
+      "sport": "Soccer"
+    },
+    {
+      "name": "XFL",
+      "sport": "American Football"
+    },
+    {
+      "name": "American AHL",
+      "sport": "Ice Hockey"
+    },
+    {
+      "name": "Korn Ferry Tour",
+      "sport": "Golf"
+    },
+    {
+      "name": "Affliction",
+      "sport": "Fighting"
+    },
+    {
+      "name": "Strikeforce",
+      "sport": "Fighting"
+    },
+    {
+      "name": "FIBA AmeriCup",
+      "sport": "Basketball"
+    },
+    {
+      "name": "IFL",
+      "sport": "Fighting"
+    },
+    {
+      "name": "IMSA Prototype Challenge Series",
+      "sport": "Motorsport"
+    },
+    {
+      "name": "IMSA Pilot Challenge",
+      "sport": "Motorsport"
+    },
+    {
+      "name": "Porsche GT3 Cup Challenge",
+      "sport": "Motorsport"
+    },
+    {
+      "name": "Lamborghini Super Trofeo North America",
+      "sport": "Motorsport"
+    },
+    {
+      "name": "Ferrari Challenge North America",
+      "sport": "Motorsport"
+    },
+    {
+      "name": "eNASCAR iRacing Series",
+      "sport": "ESports"
+    },
+    {
+      "name": "Top Rank",
+      "sport": "Fighting"
+    },
+    {
+      "name": "TPW",
+      "sport": "Fighting"
+    },
+    {
+      "name": "USWF",
+      "sport": "Fighting"
+    },
+    {
+      "name": "KOTC",
+      "sport": "Fighting"
+    },
+    {
+      "name": "EliteXC",
+      "sport": "Fighting"
+    },
+    {
+      "name": "NCAA Fighting",
+      "sport": "Fighting"
+    }
+  ],
+  "Peru": [
+    {
+      "name": "Peruvian Primera Division",
+      "sport": "Soccer"
+    },
+    {
+      "name": "Peruvian Segunda División",
+      "sport": "Soccer"
+    }
+  ],
+  "Mexico": [
+    {
+      "name": "Mexican Primera League",
+      "sport": "Soccer"
+    },
+    {
+      "name": "AAA",
+      "sport": "Fighting"
+    },
+    {
+      "name": "CMLL",
+      "sport": "Fighting"
+    },
+    {
+      "name": "Mexican Liga de Expansión MX",
+      "sport": "Soccer"
+    },
+    {
+      "name": "Zona 23",
+      "sport": "Fighting"
+    },
+    {
+      "name": "Liga Mexicana de Béisbol",
+      "sport": "Baseball"
+    },
+    {
+      "name": "Mexican Pacific League",
+      "sport": "Baseball"
+    },
+    {
+      "name": "Mexican LNBP",
+      "sport": "Basketball"
+    },
+    {
+      "name": "Mexico Liga MX Femenil",
+      "sport": "Soccer"
+    },
+    {
+      "name": "Mexican Campeon de Campeones",
+      "sport": "Soccer"
+    }
+  ],
+  "India": [
+    {
+      "name": "Indian Premier League",
+      "sport": "Cricket"
+    },
+    {
+      "name": "Professional Golf Tour of India",
+      "sport": "Golf"
+    },
+    {
+      "name": "Indian Super League",
+      "sport": "Soccer"
+    },
+    {
+      "name": "Indian I-League",
+      "sport": "Soccer"
+    },
+    {
+      "name": "Indian I-League 2nd Division",
+      "sport": "Soccer"
+    }
+  ],
+  "Bulgaria": [
+    {
+      "name": "Bulgarian First League",
+      "sport": "Soccer"
+    },
+    {
+      "name": "Bulgarian Second League",
+      "sport": "Soccer"
+    },
+    {
+      "name": "Bulgarian NBL",
+      "sport": "Basketball"
+    }
+  ],
+  "Spain": [
+    {
+      "name": "Spanish La Liga",
+      "sport": "Soccer"
+    },
+    {
+      "name": "Spanish La Liga 2",
+      "sport": "Soccer"
+    },
+    {
+      "name": "Spanish Liga ACB",
+      "sport": "Basketball"
+    },
+    {
+      "name": "Copa del Rey",
+      "sport": "Soccer"
+    },
+    {
+      "name": "Supercopa de Espana",
+      "sport": "Soccer"
+    },
+    {
+      "name": "Spanish Liga ASOBAL",
+      "sport": "Handball"
+    },
+    {
+      "name": "Primera División RFEF Group 1",
+      "sport": "Soccer"
+    },
+    {
+      "name": "Primera División RFEF Group 2",
+      "sport": "Soccer"
+    },
+    {
+      "name": "Spanish Segunda División B Group 3",
+      "sport": "Soccer"
+    },
+    {
+      "name": "Spanish Segunda División B Group 4",
+      "sport": "Soccer"
+    },
+    {
+      "name": "Spanish Copa del Rey de Baloncesto",
+      "sport": "Basketball"
+    },
+    {
+      "name": "Spanish Supercup of Basketball",
+      "sport": "Basketball"
+    },
+    {
+      "name": "Spanish Segunda División B Group 5",
+      "sport": "Soccer"
+    },
+    {
+      "name": "Spanish Primera RFEF Group 1",
+      "sport": "Soccer"
+    },
+    {
+      "name": "Spanish Segunda RFEF Group 1",
+      "sport": "Soccer"
+    },
+    {
+      "name": "Spanish Primera RFEF Group 2",
+      "sport": "Soccer"
+    },
+    {
+      "name": "Spanish Segunda RFEF Group 2",
+      "sport": "Soccer"
+    },
+    {
+      "name": "Spanish Segunda RFEF Group 3",
+      "sport": "Soccer"
+    },
+    {
+      "name": "Spanish Segunda RFEF Group 4",
+      "sport": "Soccer"
+    },
+    {
+      "name": "Spanish Segunda RFEF Group 5",
+      "sport": "Soccer"
+    },
+    {
+      "name": "Spanish Liga F",
+      "sport": "Soccer"
+    },
+    {
+      "name": "Spanish Primera FEB",
+      "sport": "Basketball"
+    },
+    {
+      "name": "Spanish División de Honor",
+      "sport": "Rugby"
+    },
+    {
+      "name": "Supercopa de Espana Femenina",
+      "sport": "Soccer"
+    },
+    {
+      "name": "Spanish Liga Femenina de Baloncesto",
+      "sport": "Basketball"
+    },
+    {
+      "name": "Spanish Supercopa de Espana de Baloncesto Femenino",
+      "sport": "Basketball"
+    },
+    {
+      "name": "Spanish Copa de la Reina de Baloncesto",
+      "sport": "Basketball"
+    },
+    {
+      "name": "Spanish Segunda FEB",
+      "sport": "Basketball"
+    },
+    {
+      "name": "Spanish Tercera Federación Group 1",
+      "sport": "Soccer"
+    },
+    {
+      "name": "Spanish Tercera Federación Group 2",
+      "sport": "Soccer"
+    },
+    {
+      "name": "Spanish Tercera Federación Group 3",
+      "sport": "Soccer"
+    },
+    {
+      "name": "Spanish Tercera Federación Group 4",
+      "sport": "Soccer"
+    },
+    {
+      "name": "Spanish Tercera Federación Group 5",
+      "sport": "Soccer"
+    },
+    {
+      "name": "Spanish Tercera Federación Group 6",
+      "sport": "Soccer"
+    },
+    {
+      "name": "Spanish Tercera Federación Group 7",
+      "sport": "Soccer"
+    },
+    {
+      "name": "Spanish Tercera Federación Group 8",
+      "sport": "Soccer"
+    },
+    {
+      "name": "Spanish Tercera Federación Group 9",
+      "sport": "Soccer"
+    },
+    {
+      "name": "Spanish Tercera Federación Group 10",
+      "sport": "Soccer"
+    },
+    {
+      "name": "Spanish Tercera Federación Group 11",
+      "sport": "Soccer"
+    },
+    {
+      "name": "Spanish Tercera Federación Group 12",
+      "sport": "Soccer"
+    },
+    {
+      "name": "Spanish Tercera Federación Group 13",
+      "sport": "Soccer"
+    },
+    {
+      "name": "Spanish Tercera Federación Group 14",
+      "sport": "Soccer"
+    },
+    {
+      "name": "Spanish Tercera Federación Group 15",
+      "sport": "Soccer"
+    },
+    {
+      "name": "Spanish Tercera Federación Group 16",
+      "sport": "Soccer"
+    },
+    {
+      "name": "Spanish Tercera Federación Group 17",
+      "sport": "Soccer"
+    },
+    {
+      "name": "Spanish Tercera Federación Group 18",
+      "sport": "Soccer"
+    },
+    {
+      "name": "Spanish Copa Federacion",
+      "sport": "Soccer"
+    }
+  ],
+  "Chile": [
+    {
+      "name": "Chile Primera Division",
+      "sport": "Soccer"
+    },
+    {
+      "name": "Chile Primera B",
+      "sport": "Soccer"
+    },
+    {
+      "name": "Copa Chile",
+      "sport": "Soccer"
+    },
+    {
+      "name": "Chile Segunda División",
+      "sport": "Soccer"
+    },
+    {
+      "name": "Supercopa de Chile",
+      "sport": "Soccer"
+    }
+  ],
+  "Russia": [
+    {
+      "name": "Russian Football Premier League",
+      "sport": "Soccer"
+    },
+    {
+      "name": "Russian VTB United League",
+      "sport": "Basketball"
+    },
+    {
+      "name": "ACA",
+      "sport": "Fighting"
+    },
+    {
+      "name": "Russian Volleyball Super League",
+      "sport": "Volleyball"
+    },
+    {
+      "name": "Russian Football National League",
+      "sport": "Soccer"
+    },
+    {
+      "name": "Russian VHL",
+      "sport": "Ice Hockey"
+    },
+    {
+      "name": "Russian KHL",
+      "sport": "Ice Hockey"
+    },
+    {
+      "name": "Russia Cup",
+      "sport": "Soccer"
+    },
+    {
+      "name": "Russia FNL 2 Group 1",
+      "sport": "Soccer"
+    },
+    {
+      "name": "Russia FNL 2 Group 2",
+      "sport": "Soccer"
+    },
+    {
+      "name": "Russia FNL 2 Group 3",
+      "sport": "Soccer"
+    },
+    {
+      "name": "Russia FNL 2 Group 4",
+      "sport": "Soccer"
+    },
+    {
+      "name": "Russia FNL 2 Division A Gold Group",
+      "sport": "Soccer"
+    },
+    {
+      "name": "Russia FNL 2 Division A Silver Group",
+      "sport": "Soccer"
+    }
+  ],
+  "South Africa": [
+    {
+      "name": "South African T20 Challenge",
+      "sport": "Cricket"
+    },
+    {
+      "name": "South African Sunshine Tour",
+      "sport": "Golf"
+    },
+    {
+      "name": "Big Easy Tour",
+      "sport": "Golf"
+    },
+    {
+      "name": "South African Premier Soccer League",
+      "sport": "Soccer"
+    },
+    {
+      "name": "Currie Cup",
+      "sport": "Rugby"
+    },
+    {
+      "name": "COSAFA Cup",
+      "sport": "Soccer"
+    },
+    {
+      "name": "South-Africa 8 Cup",
+      "sport": "Soccer"
+    },
+    {
+      "name": "SA20",
+      "sport": "Cricket"
+    }
+  ],
+  "Belgium": [
+    {
+      "name": "Belgian Pro League",
+      "sport": "Soccer"
+    },
+    {
+      "name": "Belgian PBL",
+      "sport": "Basketball"
+    },
+    {
+      "name": "Belgian First Division B",
+      "sport": "Soccer"
+    },
+    {
+      "name": "BNXT League",
+      "sport": "Basketball"
+    },
+    {
+      "name": "CEHL",
+      "sport": "Ice Hockey"
+    },
+    {
+      "name": "Volleyliga Belgium",
+      "sport": "Volleyball"
+    }
+  ],
+  "Japan": [
+    {
+      "name": "Super GT series",
+      "sport": "Motorsport"
+    },
+    {
+      "name": "NJPW",
+      "sport": "Fighting"
+    },
+    {
+      "name": "Rizin FF",
+      "sport": "Fighting"
+    },
+    {
+      "name": "Nippon Baseball League",
+      "sport": "Baseball"
+    },
+    {
+      "name": "AJPW",
+      "sport": "Fighting"
+    },
+    {
+      "name": "NOAH",
+      "sport": "Fighting"
+    },
+    {
+      "name": "UWF",
+      "sport": "Fighting"
+    },
+    {
+      "name": "UWF-i",
+      "sport": "Fighting"
+    },
+    {
+      "name": "Pancrase",
+      "sport": "Fighting"
+    },
+    {
+      "name": "DREAM",
+      "sport": "Fighting"
+    },
+    {
+      "name": "DEEP",
+      "sport": "Fighting"
+    },
+    {
+      "name": "IGF",
+      "sport": "Fighting"
+    },
+    {
+      "name": "Battlarts",
+      "sport": "Fighting"
+    },
+    {
+      "name": "BJW",
+      "sport": "Fighting"
+    },
+    {
+      "name": "BML",
+      "sport": "Fighting"
+    },
+    {
+      "name": "HUSTLE",
+      "sport": "Fighting"
+    },
+    {
+      "name": "PWFG",
+      "sport": "Fighting"
+    },
+    {
+      "name": "ZERO-1",
+      "sport": "Fighting"
+    },
+    {
+      "name": "Japanese J1 League",
+      "sport": "Soccer"
+    },
+    {
+      "name": "FREEDOMS",
+      "sport": "Fighting"
+    },
+    {
+      "name": "UFO",
+      "sport": "Fighting"
+    },
+    {
+      "name": "VTJ",
+      "sport": "Fighting"
+    },
+    {
+      "name": "World Japan",
+      "sport": "Fighting"
+    },
+    {
+      "name": "U-STYLE",
+      "sport": "Fighting"
+    },
+    {
+      "name": "WAR",
+      "sport": "Fighting"
+    },
+    {
+      "name": "Michinoku Pro",
+      "sport": "Fighting"
+    },
+    {
+      "name": "KINGDOM",
+      "sport": "Fighting"
+    },
+    {
+      "name": "AJW",
+      "sport": "Fighting"
+    },
+    {
+      "name": "W-1",
+      "sport": "Fighting"
+    },
+    {
+      "name": "Sumo",
+      "sport": "Fighting"
+    },
+    {
+      "name": "Diamond Ring",
+      "sport": "Fighting"
+    },
+    {
+      "name": "SRC",
+      "sport": "Fighting"
+    },
+    {
+      "name": "Shoot Boxing",
+      "sport": "Fighting"
+    },
+    {
+      "name": "Shooto",
+      "sport": "Fighting"
+    },
+    {
+      "name": "RISE",
+      "sport": "Fighting"
+    },
+    {
+      "name": "Japan Golf Tour",
+      "sport": "Golf"
+    },
+    {
+      "name": "Japan Challenge Tour",
+      "sport": "Golf"
+    },
+    {
+      "name": "Heros",
+      "sport": "Fighting"
+    },
+    {
+      "name": "Japanese J2 League",
+      "sport": "Soccer"
+    },
+    {
+      "name": "ILFJ",
+      "sport": "Fighting"
+    },
+    {
+      "name": "GLEAT",
+      "sport": "Fighting"
+    },
+    {
+      "name": "Quintet ",
+      "sport": "Fighting"
+    },
+    {
+      "name": "Strong Style Pro-Wrestling",
+      "sport": "Fighting"
+    },
+    {
+      "name": "Riki Pro",
+      "sport": "Fighting"
+    },
+    {
+      "name": "Dradition",
+      "sport": "Fighting"
+    },
+    {
+      "name": "SWS",
+      "sport": "Fighting"
+    },
+    {
+      "name": "ZST",
+      "sport": "Fighting"
+    },
+    {
+      "name": "KO",
+      "sport": "Fighting"
+    },
+    {
+      "name": "AJKF",
+      "sport": "Fighting"
+    },
+    {
+      "name": "KJP",
+      "sport": "Fighting"
+    }
+  ],
+  "Hungary": [
+    {
+      "name": "Hungarian Nemzeti Bajnokság I",
+      "sport": "Handball"
+    },
+    {
+      "name": "Hungarian Nemzeti Bajnokság IA",
+      "sport": "Basketball"
+    },
+    {
+      "name": "Hungarian NB I",
+      "sport": "Soccer"
+    },
+    {
+      "name": "Hungarian NB II",
+      "sport": "Soccer"
+    },
+    {
+      "name": "Hungarian Erste Liga",
+      "sport": "Ice Hockey"
+    }
+  ],
+  "Kazakhstan": [
+    {
+      "name": "Kazakhstan Premier League",
+      "sport": "Soccer"
+    },
+    {
+      "name": "Kazakhstan First League",
+      "sport": "Soccer"
+    },
+    {
+      "name": "Kazakhstan Cup",
+      "sport": "Soccer"
+    }
+  ],
+  "Nigeria": [
+    {
+      "name": "Nigerian NPFL",
+      "sport": "Soccer"
+    }
+  ],
+  "Ecuador": [
+    {
+      "name": "Ecuadorian Serie A",
+      "sport": "Soccer"
+    },
+    {
+      "name": "Ecuadorian Serie B",
+      "sport": "Soccer"
+    },
+    {
+      "name": "Copa Ecuador",
+      "sport": "Soccer"
+    }
+  ],
+  "Bangladesh": [
+    {
+      "name": "Bangladesh Premier League",
+      "sport": "Soccer"
+    },
+    {
+      "name": "Bangladesh Premier League",
+      "sport": "Cricket"
+    }
+  ],
+  "Luxembourg": [
+    {
+      "name": "Luxembourg National Division",
+      "sport": "Soccer"
+    }
+  ],
+  "Singapore": [
+    {
+      "name": "Singapore Premier League",
+      "sport": "Soccer"
+    }
+  ],
+  "Venezuela": [
+    {
+      "name": "Venezuela Primera Division",
+      "sport": "Soccer"
+    },
+    {
+      "name": "Venezuelan Professional Baseball League",
+      "sport": "Baseball"
+    },
+    {
+      "name": "Venezuelan Segunda Division",
+      "sport": "Soccer"
+    },
+    {
+      "name": "Copa Venezuela",
+      "sport": "Soccer"
+    },
+    {
+      "name": "Supercopa de Venezuela",
+      "sport": "Soccer"
+    }
+  ],
+  "Mongolia": [
+    {
+      "name": "Mongolian Premier League",
+      "sport": "Soccer"
+    }
+  ],
+  "Costa Rica": [
+    {
+      "name": "Costa-Rica Liga FPD",
+      "sport": "Soccer"
+    }
+  ],
+  "Poland": [
+    {
+      "name": "Polish Ekstraklasa",
+      "sport": "Soccer"
+    },
+    {
+      "name": "Polish Handball Superliga",
+      "sport": "Handball"
+    },
+    {
+      "name": "Polish Basketball League",
+      "sport": "Basketball"
+    },
+    {
+      "name": "Polish I liga",
+      "sport": "Soccer"
+    },
+    {
+      "name": "KSW",
+      "sport": "Fighting"
+    },
+    {
+      "name": "Polish Hockey League",
+      "sport": "Ice Hockey"
+    },
+    {
+      "name": "Polish PlusLiga",
+      "sport": "Volleyball"
+    },
+    {
+      "name": "Polish II liga",
+      "sport": "Soccer"
+    },
+    {
+      "name": "Polish III liga Group I",
+      "sport": "Soccer"
+    },
+    {
+      "name": "Polish III liga Group II",
+      "sport": "Soccer"
+    },
+    {
+      "name": "Polish III liga Group III",
+      "sport": "Soccer"
+    },
+    {
+      "name": "Polish III liga Group IV",
+      "sport": "Soccer"
+    }
+  ],
+  "Switzerland": [
+    {
+      "name": "Swiss Super League",
+      "sport": "Soccer"
+    },
+    {
+      "name": "Swiss Challenge League",
+      "sport": "Soccer"
+    },
+    {
+      "name": "Swiss National League",
+      "sport": "Ice Hockey"
+    },
+    {
+      "name": "Swiss SB League",
+      "sport": "Basketball"
+    },
+    {
+      "name": "Swiss League",
+      "sport": "Ice Hockey"
+    },
+    {
+      "name": "Swiss Promotion League",
+      "sport": "Soccer"
+    },
+    {
+      "name": "Swiss Cup",
+      "sport": "Soccer"
+    }
+  ],
+  "Turkey": [
+    {
+      "name": "Turkish Super Lig",
+      "sport": "Soccer"
+    },
+    {
+      "name": "Turkish Basketbol Super Ligi",
+      "sport": "Basketball"
+    },
+    {
+      "name": "Turkish Volleyball League",
+      "sport": "Volleyball"
+    },
+    {
+      "name": "Turkish 1 Lig",
+      "sport": "Soccer"
+    },
+    {
+      "name": "Turkish 2 Lig",
+      "sport": "Soccer"
+    },
+    {
+      "name": "Turkish Cup",
+      "sport": "Soccer"
+    },
+    {
+      "name": "Turkish Basketball Cup",
+      "sport": "Basketball"
+    },
+    {
+      "name": "Turkish Basketball Presidential Cup",
+      "sport": "Basketball"
+    },
+    {
+      "name": "Turkish Basketball First League",
+      "sport": "Basketball"
+    }
+  ],
+  "Colombia": [
+    {
+      "name": "Colombia Categoría Primera A",
+      "sport": "Soccer"
+    },
+    {
+      "name": "Colombian Categoría Primera B",
+      "sport": "Soccer"
+    },
+    {
+      "name": "Copa Colombia",
+      "sport": "Soccer"
+    },
+    {
+      "name": "Superliga Colombiana",
+      "sport": "Soccer"
+    }
+  ],
+  "Uzbekistan": [
+    {
+      "name": "Uzbekistan Super League",
+      "sport": "Soccer"
+    }
+  ],
+  "Finland": [
+    {
+      "name": "Finnish Veikkausliiga",
+      "sport": "Soccer"
+    },
+    {
+      "name": "Finnish Liiga",
+      "sport": "Ice Hockey"
+    },
+    {
+      "name": "Finnish Mestis",
+      "sport": "Ice Hockey"
+    },
+    {
+      "name": "Finnish Ykkönen",
+      "sport": "Soccer"
+    },
+    {
+      "name": "Finnish Korisliiga",
+      "sport": "Basketball"
+    },
+    {
+      "name": "Finnish Cup",
+      "sport": "Soccer"
+    },
+    {
+      "name": "Finnish Ykkösliiga",
+      "sport": "Soccer"
+    }
+  ],
+  "Burkina Faso": [
+    {
+      "name": "Burkina Faso 1ere Division",
+      "sport": "Soccer"
+    }
+  ],
+  "Moldova": [
+    {
+      "name": "Moldovan National Division",
+      "sport": "Soccer"
+    }
+  ],
+  "El Salvador": [
+    {
+      "name": "El Salvador Primera Division",
+      "sport": "Soccer"
+    }
+  ],
+  "Kyrgyzstan": [
+    {
+      "name": "Kyrgyz Premier League",
+      "sport": "Soccer"
+    }
+  ],
+  "Algeria": [
+    {
+      "name": "Algerian Ligue 1",
+      "sport": "Soccer"
+    }
+  ],
+  "Kuwait": [
+    {
+      "name": "Kuwait Premier League",
+      "sport": "Soccer"
+    },
+    {
+      "name": "Kuwait Crown Prince Cup",
+      "sport": "Soccer"
+    },
+    {
+      "name": "Kuwait Emir Cup",
+      "sport": "Soccer"
+    },
+    {
+      "name": "Kuwait Division 1",
+      "sport": "Soccer"
+    }
+  ],
+  "Mauritania": [
+    {
+      "name": "Mauritania Premier League",
+      "sport": "Soccer"
+    }
+  ],
+  "Germany": [
+    {
+      "name": "German Bundesliga",
+      "sport": "Soccer"
+    },
+    {
+      "name": "German 2. Bundesliga",
+      "sport": "Soccer"
+    },
+    {
+      "name": "German BBL",
+      "sport": "Basketball"
+    },
+    {
+      "name": "DFB-Pokal",
+      "sport": "Soccer"
+    },
+    {
+      "name": "German Handball-Bundesliga",
+      "sport": "Handball"
+    },
+    {
+      "name": "Germany Liga 3",
+      "sport": "Soccer"
+    },
+    {
+      "name": "German Regionalliga Nord",
+      "sport": "Soccer"
+    },
+    {
+      "name": "German Regionalliga West",
+      "sport": "Soccer"
+    },
+    {
+      "name": "German Regionalliga SudWest",
+      "sport": "Soccer"
+    },
+    {
+      "name": "German Regionalliga Bayern",
+      "sport": "Soccer"
+    },
+    {
+      "name": "German Regionalliga Nordost",
+      "sport": "Soccer"
+    },
+    {
+      "name": "ProGolf Tour",
+      "sport": "Golf"
+    },
+    {
+      "name": "German Super Cup",
+      "sport": "Soccer"
+    },
+    {
+      "name": "German DEL",
+      "sport": "Ice Hockey"
+    },
+    {
+      "name": "German DEL 2",
+      "sport": "Ice Hockey"
+    },
+    {
+      "name": "German ProA",
+      "sport": "Basketball"
+    },
+    {
+      "name": "Germany Women Bundesliga",
+      "sport": "Soccer"
+    },
+    {
+      "name": "wXw",
+      "sport": "Fighting"
+    },
+    {
+      "name": "GFL",
+      "sport": "American Football"
+    },
+    {
+      "name": "DFB-Pokal Frauen",
+      "sport": "Soccer"
+    },
+    {
+      "name": "German 1. Bundesliga",
+      "sport": "Volleyball"
+    },
+    {
+      "name": "German BBL Pokal",
+      "sport": "Basketball"
+    },
+    {
+      "name": "German DBBL",
+      "sport": "Basketball"
+    }
+  ],
+  "Panama": [
+    {
+      "name": "Panama Liga Panamena de Futbol",
+      "sport": "Soccer"
+    }
+  ],
+  "Bermuda": [
+    {
+      "name": "Bermuda Premier League",
+      "sport": "Soccer"
+    }
+  ],
+  "Tunisia": [
+    {
+      "name": "Tunisian Ligue 1",
+      "sport": "Soccer"
+    }
+  ],
+  "Kenya": [
+    {
+      "name": "Kenyan Premier League",
+      "sport": "Soccer"
+    }
+  ],
+  "England": [
+    {
+      "name": "English Premier League",
+      "sport": "Soccer"
+    },
+    {
+      "name": "English League Championship",
+      "sport": "Soccer"
+    },
+    {
+      "name": "BTCC",
+      "sport": "Motorsport"
+    },
+    {
+      "name": "English League 1",
+      "sport": "Soccer"
+    },
+    {
+      "name": "English League 2",
+      "sport": "Soccer"
+    },
+    {
+      "name": "British GT Championship",
+      "sport": "Motorsport"
+    },
+    {
+      "name": "English Prem Rugby",
+      "sport": "Rugby"
+    },
+    {
+      "name": "English Rugby League Super League",
+      "sport": "Rugby"
+    },
+    {
+      "name": "English County Championship Division 1",
+      "sport": "Cricket"
+    },
+    {
+      "name": "English County Championship Division 2",
+      "sport": "Cricket"
+    },
+    {
+      "name": "English t20 Blast",
+      "sport": "Cricket"
+    },
+    {
+      "name": "Football League First Division",
+      "sport": "Soccer"
+    },
+    {
+      "name": "Football League Super Cup",
+      "sport": "Soccer"
+    },
+    {
+      "name": "BDO Darts",
+      "sport": "Darts"
+    },
+    {
+      "name": "EFL Cup",
+      "sport": "Soccer"
+    },
+    {
+      "name": "English National League",
+      "sport": "Soccer"
+    },
+    {
+      "name": "English Northern Premier League Premier Division",
+      "sport": "Soccer"
+    },
+    {
+      "name": "English Isthmian League Premier Division",
+      "sport": "Soccer"
+    },
+    {
+      "name": "English Southern Premier League South Division",
+      "sport": "Soccer"
+    },
+    {
+      "name": "English National League North",
+      "sport": "Soccer"
+    },
+    {
+      "name": "English National League South",
+      "sport": "Soccer"
+    },
+    {
+      "name": "FA Trophy",
+      "sport": "Soccer"
+    },
+    {
+      "name": "EFL Trophy",
+      "sport": "Soccer"
+    },
+    {
+      "name": "English Womens Super League",
+      "sport": "Soccer"
+    },
+    {
+      "name": "England Non League Div One Isthmian North",
+      "sport": "Soccer"
+    },
+    {
+      "name": "England Non League Div One Isthmian South",
+      "sport": "Soccer"
+    },
+    {
+      "name": "England Non League Div One Southern SW",
+      "sport": "Soccer"
+    },
+    {
+      "name": "England Non League Div One Southern Central",
+      "sport": "Soccer"
+    },
+    {
+      "name": "RevPro",
+      "sport": "Fighting"
+    },
+    {
+      "name": "English Southern Premier League Central Division",
+      "sport": "Soccer"
+    },
+    {
+      "name": "English Northern Premier League Division One East",
+      "sport": "Soccer"
+    },
+    {
+      "name": "English Northern Premier League Division One Midlands",
+      "sport": "Soccer"
+    },
+    {
+      "name": "English Southern Premier League Central Division One",
+      "sport": "Soccer"
+    },
+    {
+      "name": "English Northern Premier League Division One West",
+      "sport": "Soccer"
+    },
+    {
+      "name": "English Prem Rugby Cup",
+      "sport": "Rugby"
+    }
+  ],
+  "Scotland": [
+    {
+      "name": "Scottish Premier League",
+      "sport": "Soccer"
+    },
+    {
+      "name": "Scottish Championship",
+      "sport": "Soccer"
+    },
+    {
+      "name": "Scottish League 1",
+      "sport": "Soccer"
+    },
+    {
+      "name": "Scottish League 2",
+      "sport": "Soccer"
+    },
+    {
+      "name": "Scottish FA Cup",
+      "sport": "Soccer"
+    },
+    {
+      "name": "Scottish League Cup",
+      "sport": "Soccer"
+    },
+    {
+      "name": "Scottish Highland League",
+      "sport": "Soccer"
+    },
+    {
+      "name": "Scottish Lowland League",
+      "sport": "Soccer"
+    },
+    {
+      "name": "Scottish Premiership",
+      "sport": "Rugby"
+    },
+    {
+      "name": "ICW",
+      "sport": "Fighting"
+    },
+    {
+      "name": "Celtic Cup",
+      "sport": "Netball"
+    }
+  ],
+  "Wales": [
+    {
+      "name": "Welsh Premier League",
+      "sport": "Soccer"
+    },
+    {
+      "name": "Welsh League Cup",
+      "sport": "Soccer"
+    },
+    {
+      "name": "Welsh Cymru North-South",
+      "sport": "Soccer"
+    }
+  ],
+  "Northern Ireland": [
+    {
+      "name": "Northern Irish Premiership",
+      "sport": "Soccer"
+    },
+    {
+      "name": "Northern Irish Championship",
+      "sport": "Soccer"
+    },
+    {
+      "name": "Northern Irish Premier Intermediate League",
+      "sport": "Soccer"
+    }
+  ],
+  "Ivory Coast": [
+    {
+      "name": "Ivory Coast Ligue 1",
+      "sport": "Soccer"
+    }
+  ],
+  "Congo (Kinshasa)": [
+    {
+      "name": "DR Congo Ligue 1",
+      "sport": "Soccer"
+    }
+  ],
+  "Morocco": [
+    {
+      "name": "Moroccan Championship",
+      "sport": "Soccer"
+    },
+    {
+      "name": "Moroccan Botola 2",
+      "sport": "Soccer"
+    }
+  ],
+  "France": [
+    {
+      "name": "French Ligue 1",
+      "sport": "Soccer"
+    },
+    {
+      "name": "French Ligue 2",
+      "sport": "Soccer"
+    },
+    {
+      "name": "French LNB",
+      "sport": "Basketball"
+    },
+    {
+      "name": "French Top 14",
+      "sport": "Rugby"
+    },
+    {
+      "name": "Coupe de France",
+      "sport": "Soccer"
+    },
+    {
+      "name": "Coupe de la Ligue",
+      "sport": "Soccer"
+    },
+    {
+      "name": "French LNH Division 1",
+      "sport": "Handball"
+    },
+    {
+      "name": "French LNB Pro B",
+      "sport": "Basketball"
+    },
+    {
+      "name": "French Ligue A Mens Volleyball",
+      "sport": "Volleyball"
+    },
+    {
+      "name": "French Ligue A Womens Volleyball",
+      "sport": "Volleyball"
+    },
+    {
+      "name": "French Championnat National",
+      "sport": "Soccer"
+    },
+    {
+      "name": "French Trophée des Champions",
+      "sport": "Soccer"
+    },
+    {
+      "name": "French Ligue Magnus",
+      "sport": "Ice Hockey"
+    },
+    {
+      "name": "French Pro D2",
+      "sport": "Rugby"
+    },
+    {
+      "name": "France Première Ligue",
+      "sport": "Soccer"
+    },
+    {
+      "name": "French National 2 Group A",
+      "sport": "Soccer"
+    },
+    {
+      "name": "French National 2 Group B",
+      "sport": "Soccer"
+    },
+    {
+      "name": "French National 2 Group C",
+      "sport": "Soccer"
+    },
+    {
+      "name": "French National 2 Group D",
+      "sport": "Soccer"
+    },
+    {
+      "name": "Coupe de France de Basket",
+      "sport": "Basketball"
+    },
+    {
+      "name": "LNB Pro A Leaders Cup",
+      "sport": "Basketball"
+    },
+    {
+      "name": "Olympics Breaking",
+      "sport": "Extreme Sports"
+    },
+    {
+      "name": "French Nationale",
+      "sport": "Rugby"
+    },
+    {
+      "name": "Ligue Féminine de Basketball",
+      "sport": "Basketball"
+    },
+    {
+      "name": "French Nationale Masculine 1",
+      "sport": "Basketball"
+    },
+    {
+      "name": "Hexagone MMA",
+      "sport": "Fighting"
+    },
+    {
+      "name": "French National 3 Group A",
+      "sport": "Soccer"
+    },
+    {
+      "name": "French National 3 Group B",
+      "sport": "Soccer"
+    },
+    {
+      "name": "French National 3 Group C",
+      "sport": "Soccer"
+    },
+    {
+      "name": "French National 3 Group D",
+      "sport": "Soccer"
+    },
+    {
+      "name": "French National 3 Group E",
+      "sport": "Soccer"
+    },
+    {
+      "name": "French National 3 Group F",
+      "sport": "Soccer"
+    },
+    {
+      "name": "French National 3 Group G",
+      "sport": "Soccer"
+    },
+    {
+      "name": "French National 3 Group H",
+      "sport": "Soccer"
+    }
+  ],
+  "Senegal": [
+    {
+      "name": "Senegal Ligue 1",
+      "sport": "Soccer"
+    }
+  ],
+  "Argentina": [
+    {
+      "name": "Argentinian Primera Division",
+      "sport": "Soccer"
+    },
+    {
+      "name": "Copa Argentina",
+      "sport": "Soccer"
+    },
+    {
+      "name": "Argentinian Primera B Nacional",
+      "sport": "Soccer"
+    },
+    {
+      "name": "Argentine LNB",
+      "sport": "Basketball"
+    },
+    {
+      "name": "URBA Top 13",
+      "sport": "Rugby"
+    },
+    {
+      "name": "Super Liga Americana",
+      "sport": "Rugby"
+    },
+    {
+      "name": "Argentina Primera B Metropolitana",
+      "sport": "Soccer"
+    },
+    {
+      "name": "Argentinian Copa de la Liga Profesional",
+      "sport": "Soccer"
+    },
+    {
+      "name": "Argentina Torneo Federal A",
+      "sport": "Soccer"
+    },
+    {
+      "name": "Argentinian Primera C",
+      "sport": "Soccer"
+    },
+    {
+      "name": "Argentinian Supercopa Internacional",
+      "sport": "Soccer"
+    },
+    {
+      "name": "Argentinian Trofeo de Campeones",
+      "sport": "Soccer"
+    }
+  ],
+  "Australia": [
+    {
+      "name": "Australian A-League",
+      "sport": "Soccer"
+    },
+    {
+      "name": "Australian National Rugby League",
+      "sport": "Rugby"
+    },
+    {
+      "name": "Australian National Rugby Championship",
+      "sport": "Rugby"
+    },
+    {
+      "name": "Australian NBL",
+      "sport": "Basketball"
+    },
+    {
+      "name": "Australian AFL",
+      "sport": "Australian Football"
+    },
+    {
+      "name": "Australian Big Bash League",
+      "sport": "Cricket"
+    },
+    {
+      "name": "V8 Supercars",
+      "sport": "Motorsport"
+    },
+    {
+      "name": "Australian Super Netball League",
+      "sport": "Netball"
+    },
+    {
+      "name": "Australia ACT NPL",
+      "sport": "Soccer"
+    },
+    {
+      "name": "PGA Tour of Australasia",
+      "sport": "Golf"
+    },
+    {
+      "name": "Australian A-League Women",
+      "sport": "Soccer"
+    },
+    {
+      "name": "Australia Northern NSW NPL",
+      "sport": "Soccer"
+    },
+    {
+      "name": "Australia New South Wales NPL",
+      "sport": "Soccer"
+    },
+    {
+      "name": "Australia Victoria NPL",
+      "sport": "Soccer"
+    },
+    {
+      "name": "Australia Brisbane Premier League",
+      "sport": "Soccer"
+    },
+    {
+      "name": "Australia Queensland NPL",
+      "sport": "Soccer"
+    },
+    {
+      "name": "Australia Western Australia NPL",
+      "sport": "Soccer"
+    },
+    {
+      "name": "Australia South Australia NPL",
+      "sport": "Soccer"
+    },
+    {
+      "name": "Australia Northern Territory Premier League",
+      "sport": "Soccer"
+    },
+    {
+      "name": "Australia Tasmania NPL",
+      "sport": "Soccer"
+    },
+    {
+      "name": "Australian Baseball League",
+      "sport": "Baseball"
+    },
+    {
+      "name": "Australian WNBL",
+      "sport": "Basketball"
+    },
+    {
+      "name": "Australian Shute Shield",
+      "sport": "Rugby"
+    },
+    {
+      "name": "Australia FFA Cup",
+      "sport": "Soccer"
+    },
+    {
+      "name": "AFL Womens",
+      "sport": "Australian Football"
+    },
+    {
+      "name": "NBL1 West",
+      "sport": "Basketball"
+    },
+    {
+      "name": "Sheffield Shield",
+      "sport": "Cricket"
+    },
+    {
+      "name": "NBL1 Central",
+      "sport": "Basketball"
+    },
+    {
+      "name": "NBL1 East",
+      "sport": "Basketball"
+    },
+    {
+      "name": "NBL1 North",
+      "sport": "Basketball"
+    },
+    {
+      "name": "NBL1 South",
+      "sport": "Basketball"
+    },
+    {
+      "name": "Super Rugby Aus",
+      "sport": "Rugby"
+    },
+    {
+      "name": "Australian Championship",
+      "sport": "Soccer"
+    }
+  ],
+  "Sweden": [
+    {
+      "name": "Swedish Allsvenskan",
+      "sport": "Soccer"
+    },
+    {
+      "name": "Swedish Superettan",
+      "sport": "Soccer"
+    },
+    {
+      "name": "Swedish Hockey League",
+      "sport": "Ice Hockey"
+    },
+    {
+      "name": "Swedish Division 1 North",
+      "sport": "Soccer"
+    },
+    {
+      "name": "Svenska Cupen",
+      "sport": "Soccer"
+    },
+    {
+      "name": "Nordic Golf League",
+      "sport": "Golf"
+    },
+    {
+      "name": "Swedish Division 1 South",
+      "sport": "Soccer"
+    },
+    {
+      "name": "Swedish Handbollsligan",
+      "sport": "Handball"
+    },
+    {
+      "name": "Swedish Womens Hockey League",
+      "sport": "Ice Hockey"
+    },
+    {
+      "name": "Swedish Hockey Allsvenskan",
+      "sport": "Ice Hockey"
+    },
+    {
+      "name": "Sweden Damallsvenskan",
+      "sport": "Soccer"
+    }
+  ],
+  "Guatemala": [
+    {
+      "name": "Guatemala Liga Nacional",
+      "sport": "Soccer"
+    }
+  ],
+  "Azerbaijan": [
+    {
+      "name": "Azerbaijani Premier League",
+      "sport": "Soccer"
+    },
+    {
+      "name": "Azerbaijan First Division",
+      "sport": "Soccer"
+    },
+    {
+      "name": "Azerbaijan Cup",
+      "sport": "Soccer"
+    }
+  ],
+  "Nepal": [
+    {
+      "name": "Nepalese A Division",
+      "sport": "Soccer"
+    },
+    {
+      "name": "Nepal Premier League",
+      "sport": "Cricket"
+    }
+  ],
+  "Austria": [
+    {
+      "name": "Austrian Bundesliga",
+      "sport": "Soccer"
+    }
+  ],
+  "China": [
+    {
+      "name": "Chinese Super League",
+      "sport": "Soccer"
+    },
+    {
+      "name": "Chinese League One",
+      "sport": "Soccer"
+    },
+    {
+      "name": "Chinese Basketball Association",
+      "sport": "Basketball"
+    }
+  ],
+  "Denmark": [
+    {
+      "name": "Superligaen",
+      "sport": "Soccer"
+    }
+  ],
+  "Greece": [
+    {
+      "name": "Super League Greece",
+      "sport": "Soccer"
+    }
+  ],
+  "Ireland": [
+    {
+      "name": "League of Ireland Premier Division",
+      "sport": "Soccer"
+    },
+    {
+      "name": "League of Ireland First Division",
+      "sport": "Soccer"
+    }
+  ],
+  "Italy": [
+    {
+      "name": "Serie A",
+      "sport": "Soccer"
+    },
+    {
+      "name": "Serie B",
+      "sport": "Soccer"
+    }
+  ],
+  "Netherlands": [
+    {
+      "name": "Eredivisie",
+      "sport": "Soccer"
+    }
+  ],
+  "Norway": [
+    {
+      "name": "Eliteserien",
+      "sport": "Soccer"
+    },
+    {
+      "name": "Norwegian First Division",
+      "sport": "Soccer"
+    }
+  ],
+  "South Korea": [
+    {
+      "name": "K League 1",
+      "sport": "Soccer"
+    },
+    {
+      "name": "K League 2",
+      "sport": "Soccer"
+    },
+    {
+      "name": "Korean Basketball League",
+      "sport": "Basketball"
+    }
+  ]
+}

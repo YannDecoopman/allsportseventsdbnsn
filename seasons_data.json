@@ -1,0 +1,295 @@
+{
+  "French Ligue 1": {
+    "league_id": "4334",
+    "league_name": "French Ligue 1",
+    "sport": "Soccer",
+    "country": "France",
+    "current_season": "2025-2026",
+    "formed_year": "1932",
+    "start_date": "2025-08-15",
+    "end_date": "2026-05-24",
+    "events_count": 306
+  },
+  "English Premier League": {
+    "league_id": "4328",
+    "league_name": "English Premier League",
+    "sport": "Soccer",
+    "country": "England",
+    "current_season": "2025-2026",
+    "formed_year": "1992",
+    "start_date": "2025-08-16",
+    "end_date": "2026-05-24",
+    "events_count": 380
+  },
+  "German Bundesliga": {
+    "league_id": "4331",
+    "league_name": "German Bundesliga",
+    "sport": "Soccer",
+    "country": "Germany",
+    "current_season": "2025-2026",
+    "formed_year": "1963",
+    "start_date": "2025-08-23",
+    "end_date": "2026-05-17",
+    "events_count": 306
+  },
+  "Spanish La Liga": {
+    "league_id": "4335",
+    "league_name": "Spanish La Liga",
+    "sport": "Soccer",
+    "country": "Spain",
+    "current_season": "2025-2026",
+    "formed_year": "1929",
+    "start_date": "2025-08-16",
+    "end_date": "2026-05-24",
+    "events_count": 380
+  },
+  "Italian Serie A": {
+    "league_id": "4332",
+    "league_name": "Italian Serie A",
+    "sport": "Soccer",
+    "country": "Italy",
+    "current_season": "2025-2026",
+    "formed_year": "1929",
+    "start_date": "2025-08-24",
+    "end_date": "2026-05-24",
+    "events_count": 380
+  },
+  "Dutch Eredivisie": {
+    "league_id": "4337",
+    "league_name": "Dutch Eredivisie",
+    "sport": "Soccer",
+    "country": "Netherlands",
+    "current_season": "2025-2026",
+    "formed_year": "1956",
+    "start_date": "2025-08-09",
+    "end_date": "2026-05-17",
+    "events_count": 306
+  },
+  "Portuguese Primeira Liga": {
+    "league_id": "4344",
+    "league_name": "Portuguese Primeira Liga",
+    "sport": "Soccer",
+    "country": "Portugal",
+    "current_season": "2025-2026",
+    "formed_year": "1934",
+    "start_date": "2025-08-09",
+    "end_date": "2026-05-17",
+    "events_count": 306
+  },
+  "Swiss Super League": {
+    "league_id": "4675",
+    "league_name": "Swiss Super League",
+    "sport": "Soccer",
+    "country": "Switzerland",
+    "current_season": "2025-2026",
+    "formed_year": "1898",
+    "start_date": "2025-07-19",
+    "end_date": "2026-05-24",
+    "events_count": 198
+  },
+  "Danish Superliga": {
+    "league_id": "4340",
+    "league_name": "Danish Superliga",
+    "sport": "Soccer",
+    "country": "Denmark",
+    "current_season": "2025-2026",
+    "formed_year": "1991",
+    "start_date": "2025-07-18",
+    "end_date": "2026-05-24",
+    "events_count": 198
+  },
+  "Norwegian Eliteserien": {
+    "league_id": "4358",
+    "league_name": "Norwegian Eliteserien",
+    "sport": "Soccer",
+    "country": "Norway",
+    "current_season": "2026",
+    "formed_year": "1937",
+    "start_date": "2026-03-14",
+    "end_date": "2026-12-01",
+    "events_count": 240
+  },
+  "Swedish Allsvenskan": {
+    "league_id": "4347",
+    "league_name": "Swedish Allsvenskan",
+    "sport": "Soccer",
+    "country": "Sweden",
+    "current_season": "2026",
+    "formed_year": "1924",
+    "start_date": "2026-04-05",
+    "end_date": "2026-11-08",
+    "events_count": 240
+  },
+  "Turkish Super Lig": {
+    "league_id": "4339",
+    "league_name": "Turkish Super Lig",
+    "sport": "Soccer",
+    "country": "Turkey",
+    "current_season": "2025-2026",
+    "formed_year": "1959",
+    "start_date": "2025-08-09",
+    "end_date": "2026-05-24",
+    "events_count": 306
+  },
+  "Polish Ekstraklasa": {
+    "league_id": "4422",
+    "league_name": "Polish Ekstraklasa",
+    "sport": "Soccer",
+    "country": "Poland",
+    "current_season": "2025-2026",
+    "formed_year": "1927",
+    "start_date": "2025-07-18",
+    "end_date": "2026-05-24",
+    "events_count": 306
+  },
+  "Major League Soccer": {
+    "league_id": "4346",
+    "league_name": "Major League Soccer",
+    "sport": "Soccer",
+    "country": "United States",
+    "current_season": "2026",
+    "formed_year": "1996",
+    "start_date": "2026-02-21",
+    "end_date": "2026-12-13",
+    "events_count": 612
+  },
+  "Liga MX": {
+    "league_id": "4350",
+    "league_name": "Liga MX",
+    "sport": "Soccer",
+    "country": "Mexico",
+    "current_season": "2025-2026",
+    "formed_year": "1943",
+    "start_date": "2025-07-11",
+    "end_date": "2026-05-17",
+    "events_count": 340
+  },
+  "Brazilian Serie A": {
+    "league_id": "4351",
+    "league_name": "Brazilian Serie A",
+    "sport": "Soccer",
+    "country": "Brazil",
+    "current_season": "2026",
+    "formed_year": "1959",
+    "start_date": "2026-04-11",
+    "end_date": "2026-12-06",
+    "events_count": 380
+  },
+  "NFL": {
+    "league_name": "NFL",
+    "sport": "American Football",
+    "country": "United States",
+    "current_season": "2025-2026",
+    "start_date": "2025-09-04",
+    "end_date": "2026-02-08",
+    "events_count": 272
+  },
+  "NBA": {
+    "league_name": "NBA",
+    "sport": "Basketball",
+    "country": "United States",
+    "current_season": "2025-2026",
+    "start_date": "2025-10-21",
+    "end_date": "2026-06-21",
+    "events_count": 1230
+  },
+  "NHL": {
+    "league_name": "NHL",
+    "sport": "Ice Hockey",
+    "country": "United States",
+    "current_season": "2025-2026",
+    "start_date": "2025-10-07",
+    "end_date": "2026-06-15",
+    "events_count": 1312
+  },
+  "MLB": {
+    "league_name": "MLB",
+    "sport": "Baseball",
+    "country": "United States",
+    "current_season": "2026",
+    "start_date": "2026-03-26",
+    "end_date": "2026-10-04",
+    "events_count": 2430
+  },
+  "Indian Premier League": {
+    "league_name": "Indian Premier League",
+    "sport": "Cricket",
+    "country": "India",
+    "current_season": "2026",
+    "start_date": "2026-03-20",
+    "end_date": "2026-05-25",
+    "events_count": 74
+  },
+  "Formula 1": {
+    "league_name": "Formula 1 World Championship",
+    "sport": "Motorsport",
+    "country": "International",
+    "current_season": "2026",
+    "start_date": "2026-03-15",
+    "end_date": "2026-12-06",
+    "events_count": 24
+  },
+  "UFC": {
+    "league_name": "Ultimate Fighting Championship",
+    "sport": "MMA",
+    "country": "United States",
+    "current_season": "2026",
+    "start_date": "2026-01-03",
+    "end_date": "2026-12-19",
+    "events_count": 45
+  },
+  "Tour de France": {
+    "league_name": "Tour de France",
+    "sport": "Cycling",
+    "country": "France",
+    "current_season": "2026",
+    "start_date": "2026-07-04",
+    "end_date": "2026-07-26",
+    "events_count": 21
+  },
+  "AFL": {
+    "league_name": "Australian Football League",
+    "sport": "Australian Rules",
+    "country": "Australia",
+    "current_season": "2026",
+    "start_date": "2026-03-12",
+    "end_date": "2026-09-26",
+    "events_count": 207
+  },
+  "Chinese Super League": {
+    "league_name": "Chinese Super League",
+    "sport": "Soccer",
+    "country": "China",
+    "current_season": "2026",
+    "start_date": "2026-03-01",
+    "end_date": "2026-11-07",
+    "events_count": 240
+  },
+  "K League 1": {
+    "league_name": "K League 1",
+    "sport": "Soccer",
+    "country": "South Korea",
+    "current_season": "2026",
+    "start_date": "2026-02-28",
+    "end_date": "2026-12-05",
+    "events_count": 266
+  },
+  "J1 League": {
+    "league_name": "J1 League",
+    "sport": "Soccer",
+    "country": "Japan",
+    "current_season": "2026",
+    "start_date": "2026-02-21",
+    "end_date": "2026-12-05",
+    "events_count": 306
+  },
+  "Argentine Primera Division": {
+    "league_name": "Argentine Primera División",
+    "sport": "Soccer",
+    "country": "Argentina",
+    "current_season": "2026",
+    "start_date": "2026-02-01",
+    "end_date": "2026-12-15",
+    "events_count": 378
+  }
+}

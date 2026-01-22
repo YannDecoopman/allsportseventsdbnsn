@@ -1,0 +1,142 @@
+{
+  "France": {
+    "code": "FR",
+    "major_sports": ["Football", "Rugby", "Basketball", "Handball", "Tennis", "Cycling"],
+    "notes": "Multi-sport, handball champion du monde"
+  },
+  "United Kingdom": {
+    "code": "GB",
+    "major_sports": ["Football", "Rugby", "Cricket", "Tennis", "Golf", "Motorsport"],
+    "notes": "Berceau du football moderne, Premier League"
+  },
+  "Germany": {
+    "code": "DE",
+    "major_sports": ["Football", "Basketball", "Ice Hockey", "Handball", "Motorsport", "Tennis"],
+    "notes": "Bundesliga, forte culture foot"
+  },
+  "Spain": {
+    "code": "ES",
+    "major_sports": ["Football", "Basketball", "Tennis", "Motorsport", "Handball", "Cycling"],
+    "notes": "La Liga, basketball fort"
+  },
+  "Italy": {
+    "code": "IT",
+    "major_sports": ["Football", "Basketball", "Volleyball", "Rugby", "Motorsport", "Cycling"],
+    "notes": "Serie A, passion foot intense"
+  },
+  "United States": {
+    "code": "US",
+    "major_sports": ["American Football", "Basketball", "Baseball", "Ice Hockey", "MMA", "Golf"],
+    "notes": "NFL, NBA, MLB, NHL - Big 4"
+  },
+  "Canada": {
+    "code": "CA",
+    "major_sports": ["Ice Hockey", "American Football", "Basketball", "Baseball", "MMA", "Lacrosse"],
+    "notes": "Hockey sport national, CFL"
+  },
+  "Brazil": {
+    "code": "BR",
+    "major_sports": ["Football", "MMA", "Volleyball", "Basketball", "Motorsport"],
+    "notes": "Football religion nationale, MMA fort"
+  },
+  "Argentina": {
+    "code": "AR",
+    "major_sports": ["Football", "Basketball", "Rugby", "Tennis", "Polo"],
+    "notes": "Passion foot, Maradona/Messi"
+  },
+  "Mexico": {
+    "code": "MX",
+    "major_sports": ["Football", "Boxing", "Baseball", "Lucha Libre", "Basketball"],
+    "notes": "Liga MX, boxe historique"
+  },
+  "Japan": {
+    "code": "JP",
+    "major_sports": ["Baseball", "Football", "MMA", "Wrestling", "Basketball", "Motorsport"],
+    "notes": "Baseball sport #1, J-League"
+  },
+  "South Korea": {
+    "code": "KR",
+    "major_sports": ["Football", "Baseball", "Basketball", "Golf", "Esports"],
+    "notes": "K-League, baseball fort"
+  },
+  "China": {
+    "code": "CN",
+    "major_sports": ["Basketball", "Football", "Table Tennis", "Badminton", "Volleyball"],
+    "notes": "CBA, Chinese Super League"
+  },
+  "Australia": {
+    "code": "AU",
+    "major_sports": ["Australian Rules Football", "Rugby", "Cricket", "Football", "Basketball", "Tennis"],
+    "notes": "AFL sport #1, NRL"
+  },
+  "Netherlands": {
+    "code": "NL",
+    "major_sports": ["Football", "Ice Hockey", "Cycling", "Tennis", "Motorsport"],
+    "notes": "Eredivisie, football total"
+  },
+  "Belgium": {
+    "code": "BE",
+    "major_sports": ["Football", "Cycling", "Tennis", "Basketball", "Motorsport"],
+    "notes": "Pro League, cyclisme tradition"
+  },
+  "Portugal": {
+    "code": "PT",
+    "major_sports": ["Football", "Basketball", "Handball", "Motorsport", "Tennis"],
+    "notes": "Primeira Liga, Ronaldo"
+  },
+  "Russia": {
+    "code": "RU",
+    "major_sports": ["Football", "Ice Hockey", "Basketball", "Volleyball", "MMA"],
+    "notes": "KHL, RPL"
+  },
+  "Poland": {
+    "code": "PL",
+    "major_sports": ["Football", "Volleyball", "Handball", "Basketball", "Motorsport"],
+    "notes": "Ekstraklasa, volleyball fort"
+  },
+  "Turkey": {
+    "code": "TR",
+    "major_sports": ["Football", "Basketball", "Volleyball", "Wrestling", "Motorsport"],
+    "notes": "Super Lig, Istanbul derbies"
+  },
+  "Greece": {
+    "code": "GR",
+    "major_sports": ["Football", "Basketball", "Volleyball", "Water Polo"],
+    "notes": "Super League, basket fort"
+  },
+  "Switzerland": {
+    "code": "CH",
+    "major_sports": ["Football", "Ice Hockey", "Tennis", "Skiing", "Cycling"],
+    "notes": "Super League, Federer nation"
+  },
+  "Austria": {
+    "code": "AT",
+    "major_sports": ["Football", "Ice Hockey", "Skiing", "Motorsport", "Tennis"],
+    "notes": "Bundesliga, Red Bull influence"
+  },
+  "Sweden": {
+    "code": "SE",
+    "major_sports": ["Football", "Ice Hockey", "Handball", "Golf", "Motorsport"],
+    "notes": "Allsvenskan, SHL"
+  },
+  "Norway": {
+    "code": "NO",
+    "major_sports": ["Football", "Ice Hockey", "Skiing", "Handball", "Cycling"],
+    "notes": "Eliteserien, sports d'hiver"
+  },
+  "Denmark": {
+    "code": "DK",
+    "major_sports": ["Football", "Handball", "Cycling", "Ice Hockey", "Badminton"],
+    "notes": "Superligaen, handball champions"
+  },
+  "Ireland": {
+    "code": "IE",
+    "major_sports": ["Football", "Rugby", "Gaelic Football", "Hurling", "Golf"],
+    "notes": "GAA sports uniques"
+  },
+  "India": {
+    "code": "IN",
+    "major_sports": ["Cricket", "Football", "Kabaddi", "Hockey", "Badminton"],
+    "notes": "Cricket religion, IPL"
+  }
+}

@@ -1,0 +1,338 @@
+{
+  "Ligue 1": {
+    "wikipedia_monthly_views": 70945,
+    "wikipedia_article": "Ligue_1",
+    "score": 87,
+    "tier": "A"
+  },
+  "Premier League": {
+    "wikipedia_monthly_views": 339659,
+    "wikipedia_article": "Premier_League",
+    "score": 100,
+    "tier": "A"
+  },
+  "Bundesliga": {
+    "wikipedia_monthly_views": 74438,
+    "wikipedia_article": "Bundesliga",
+    "score": 88,
+    "tier": "A"
+  },
+  "La Liga": {
+    "wikipedia_monthly_views": 132058,
+    "wikipedia_article": "La_Liga",
+    "score": 92,
+    "tier": "A"
+  },
+  "Serie A": {
+    "wikipedia_monthly_views": 110171,
+    "wikipedia_article": "Serie_A",
+    "score": 91,
+    "tier": "A"
+  },
+  "Eredivisie": {
+    "wikipedia_monthly_views": 45043,
+    "wikipedia_article": "Eredivisie",
+    "score": 84,
+    "tier": "A"
+  },
+  "Primeira Liga": {
+    "wikipedia_monthly_views": 43241,
+    "wikipedia_article": "Primeira_Liga",
+    "score": 83,
+    "tier": "A"
+  },
+  "Belgian Pro League": {
+    "wikipedia_monthly_views": 2122,
+    "wikipedia_article": "Belgian_First_Division_A",
+    "score": 60,
+    "tier": "B"
+  },
+  "Super League Switzerland": {
+    "wikipedia_monthly_views": 16375,
+    "wikipedia_article": "Swiss_Super_League",
+    "score": 76,
+    "tier": "B"
+  },
+  "Austrian Bundesliga": {
+    "wikipedia_monthly_views": 13638,
+    "wikipedia_article": "Austrian_Football_Bundesliga",
+    "score": 74,
+    "tier": "B"
+  },
+  "Superligaen": {
+    "wikipedia_monthly_views": 17931,
+    "wikipedia_article": "Danish_Superliga",
+    "score": 76,
+    "tier": "B"
+  },
+  "Eliteserien": {
+    "wikipedia_monthly_views": 22294,
+    "wikipedia_article": "Eliteserien",
+    "score": 78,
+    "tier": "B"
+  },
+  "Allsvenskan": {
+    "wikipedia_monthly_views": 23042,
+    "wikipedia_article": "Allsvenskan",
+    "score": 78,
+    "tier": "B"
+  },
+  "Super League Greece": {
+    "wikipedia_monthly_views": 22768,
+    "wikipedia_article": "Super_League_Greece",
+    "score": 78,
+    "tier": "B"
+  },
+  "Super Lig": {
+    "wikipedia_monthly_views": 34685,
+    "wikipedia_article": "Süper_Lig",
+    "score": 82,
+    "tier": "A"
+  },
+  "Russian Premier League": {
+    "wikipedia_monthly_views": 22070,
+    "wikipedia_article": "Russian_Premier_League",
+    "score": 78,
+    "tier": "B"
+  },
+  "Ekstraklasa": {
+    "wikipedia_monthly_views": 20692,
+    "wikipedia_article": "Ekstraklasa",
+    "score": 78,
+    "tier": "B"
+  },
+  "League of Ireland Premier Division": {
+    "wikipedia_monthly_views": 19428,
+    "wikipedia_article": "League_of_Ireland_Premier_Division",
+    "score": 77,
+    "tier": "B"
+  },
+  "Major League Soccer": {
+    "wikipedia_monthly_views": 129355,
+    "wikipedia_article": "Major_League_Soccer",
+    "score": 92,
+    "tier": "A"
+  },
+  "Liga MX": {
+    "wikipedia_monthly_views": 49847,
+    "wikipedia_article": "Liga_MX",
+    "score": 84,
+    "tier": "A"
+  },
+  "Brasileirao": {
+    "wikipedia_monthly_views": 45063,
+    "wikipedia_article": "Campeonato_Brasileiro_Série_A",
+    "score": 84,
+    "tier": "A"
+  },
+  "Argentine Primera Division": {
+    "wikipedia_monthly_views": 25684,
+    "wikipedia_article": "Argentine_Primera_División",
+    "score": 79,
+    "tier": "B"
+  },
+  "Chinese Super League": {
+    "wikipedia_monthly_views": 18446,
+    "wikipedia_article": "Chinese_Super_League",
+    "score": 77,
+    "tier": "B"
+  },
+  "K League 1": {
+    "wikipedia_monthly_views": 12735,
+    "wikipedia_article": "K_League_1",
+    "score": 74,
+    "tier": "B"
+  },
+  "J1 League": {
+    "wikipedia_monthly_views": 24308,
+    "wikipedia_article": "J1_League",
+    "score": 79,
+    "tier": "B"
+  },
+  "Indian Super League": {
+    "wikipedia_monthly_views": 44883,
+    "wikipedia_article": "Indian_Super_League",
+    "score": 84,
+    "tier": "A"
+  },
+  "A-League Men": {
+    "wikipedia_monthly_views": 27981,
+    "wikipedia_article": "A-League_Men",
+    "score": 80,
+    "tier": "A"
+  },
+  "NFL": {
+    "wikipedia_monthly_views": 252206,
+    "wikipedia_article": "National_Football_League",
+    "score": 97,
+    "tier": "A"
+  },
+  "CFL": {
+    "wikipedia_monthly_views": 46891,
+    "wikipedia_article": "Canadian_Football_League",
+    "score": 84,
+    "tier": "A"
+  },
+  "NBA": {
+    "wikipedia_monthly_views": 139120,
+    "wikipedia_article": "National_Basketball_Association",
+    "score": 92,
+    "tier": "A"
+  },
+  "EuroLeague": {
+    "wikipedia_monthly_views": 45641,
+    "wikipedia_article": "EuroLeague",
+    "score": 84,
+    "tier": "A"
+  },
+  "Chinese Basketball Association": {
+    "wikipedia_monthly_views": 11977,
+    "wikipedia_article": "Chinese_Basketball_Association",
+    "score": 73,
+    "tier": "B"
+  },
+  "Korean Basketball League": {
+    "wikipedia_monthly_views": 5277,
+    "wikipedia_article": "Korean_Basketball_League",
+    "score": 67,
+    "tier": "B"
+  },
+  "NHL": {
+    "wikipedia_monthly_views": 114779,
+    "wikipedia_article": "National_Hockey_League",
+    "score": 91,
+    "tier": "A"
+  },
+  "KHL": {
+    "wikipedia_monthly_views": 19163,
+    "wikipedia_article": "Kontinental_Hockey_League",
+    "score": 77,
+    "tier": "B"
+  },
+  "SHL": {
+    "wikipedia_monthly_views": 7938,
+    "wikipedia_article": "Swedish_Hockey_League",
+    "score": 70,
+    "tier": "B"
+  },
+  "MLB": {
+    "wikipedia_monthly_views": 153317,
+    "wikipedia_article": "Major_League_Baseball",
+    "score": 93,
+    "tier": "A"
+  },
+  "Nippon Professional Baseball": {
+    "wikipedia_monthly_views": 38743,
+    "wikipedia_article": "Nippon_Professional_Baseball",
+    "score": 82,
+    "tier": "A"
+  },
+  "KBO League": {
+    "wikipedia_monthly_views": 13964,
+    "wikipedia_article": "KBO_League",
+    "score": 74,
+    "tier": "B"
+  },
+  "Top 14": {
+    "wikipedia_monthly_views": 11221,
+    "wikipedia_article": "Top_14",
+    "score": 73,
+    "tier": "B"
+  },
+  "Premiership Rugby": {
+    "wikipedia_monthly_views": 21226,
+    "wikipedia_article": "Premiership_Rugby",
+    "score": 78,
+    "tier": "B"
+  },
+  "Super Rugby": {
+    "wikipedia_monthly_views": 13876,
+    "wikipedia_article": "Super_Rugby",
+    "score": 74,
+    "tier": "B"
+  },
+  "Indian Premier League": {
+    "wikipedia_monthly_views": 89968,
+    "wikipedia_article": "Indian_Premier_League",
+    "score": 89,
+    "tier": "A"
+  },
+  "The Ashes": {
+    "wikipedia_monthly_views": 114488,
+    "wikipedia_article": "The_Ashes",
+    "score": 91,
+    "tier": "A"
+  },
+  "Big Bash League": {
+    "wikipedia_monthly_views": 65574,
+    "wikipedia_article": "Big_Bash_League",
+    "score": 87,
+    "tier": "A"
+  },
+  "UFC": {
+    "wikipedia_monthly_views": 116486,
+    "wikipedia_article": "Ultimate_Fighting_Championship",
+    "score": 91,
+    "tier": "A"
+  },
+  "ATP Tour": {
+    "wikipedia_monthly_views": 15680,
+    "wikipedia_article": "ATP_Tour",
+    "score": 75,
+    "tier": "B"
+  },
+  "WTA Tour": {
+    "wikipedia_monthly_views": 9172,
+    "wikipedia_article": "WTA_Tour",
+    "score": 71,
+    "tier": "B"
+  },
+  "Formula One": {
+    "wikipedia_monthly_views": 234462,
+    "wikipedia_article": "Formula_One",
+    "score": 97,
+    "tier": "A"
+  },
+  "NASCAR": {
+    "wikipedia_monthly_views": 45122,
+    "wikipedia_article": "NASCAR",
+    "score": 84,
+    "tier": "A"
+  },
+  "MotoGP": {
+    "wikipedia_monthly_views": 3904,
+    "wikipedia_article": "MotoGP",
+    "score": 64,
+    "tier": "B"
+  },
+  "PGA Tour": {
+    "wikipedia_monthly_views": 25823,
+    "wikipedia_article": "PGA_Tour",
+    "score": 79,
+    "tier": "B"
+  },
+  "Tour de France": {
+    "wikipedia_monthly_views": 46920,
+    "wikipedia_article": "Tour_de_France",
+    "score": 84,
+    "tier": "A"
+  },
+  "Giro d'Italia": {
+    "wikipedia_monthly_views": 8909,
+    "wikipedia_article": "Giro_d%27Italia",
+    "score": 71,
+    "tier": "B"
+  },
+  "AFL": {
+    "wikipedia_monthly_views": 44571,
+    "wikipedia_article": "Australian_Football_League",
+    "score": 84,
+    "tier": "A"
+  },
+  "Handball-Bundesliga": {
+    "wikipedia_monthly_views": 2998,
+    "wikipedia_article": "Handball-Bundesliga",
+    "score": 62,
+    "tier": "B"
+  }
+}
