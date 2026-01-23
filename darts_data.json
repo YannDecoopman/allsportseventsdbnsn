@@ -1,0 +1,306 @@
+{
+  "events": [
+    {
+      "name": "2026 PDC World Darts Championship",
+      "date": "2025-12-15",
+      "dateTo": "2026-01-03",
+      "sport": "Darts",
+      "competition": "World Championship",
+      "level": 1,
+      "source": "pdc",
+      "locations": [
+        {
+          "country": "United Kingdom",
+          "city": "London"
+        }
+      ],
+      "venue": "Alexandra Palace"
+    },
+    {
+      "name": "2026 WDF World Championship",
+      "date": "2026-01-04",
+      "dateTo": "2026-01-12",
+      "sport": "Darts",
+      "competition": "WDF World Championship",
+      "level": 1,
+      "source": "wdf",
+      "locations": [
+        {
+          "country": "United Kingdom",
+          "city": "Lakeside"
+        }
+      ]
+    },
+    {
+      "name": "2026 Masters",
+      "date": "2026-01-30",
+      "dateTo": "2026-02-02",
+      "sport": "Darts",
+      "competition": "Masters",
+      "level": 1,
+      "source": "pdc",
+      "locations": [
+        {
+          "country": "United Kingdom",
+          "city": "Milton Keynes"
+        }
+      ]
+    },
+    {
+      "name": "2026 Premier League Darts",
+      "date": "2026-02-05",
+      "dateTo": "2026-05-28",
+      "sport": "Darts",
+      "competition": "Premier League",
+      "level": 1,
+      "source": "pdc",
+      "locations": [
+        {
+          "country": "United Kingdom",
+          "city": "Various"
+        }
+      ]
+    },
+    {
+      "name": "2026 UK Open",
+      "date": "2026-02-28",
+      "dateTo": "2026-03-01",
+      "sport": "Darts",
+      "competition": "UK Open",
+      "level": 1,
+      "source": "pdc",
+      "locations": [
+        {
+          "country": "United Kingdom",
+          "city": "Minehead"
+        }
+      ]
+    },
+    {
+      "name": "2026 European Darts Open",
+      "date": "2026-03-21",
+      "dateTo": "2026-03-23",
+      "sport": "Darts",
+      "competition": "European Tour",
+      "level": 2,
+      "source": "pdc",
+      "locations": [
+        {
+          "country": "Germany",
+          "city": "Leverkusen"
+        }
+      ]
+    },
+    {
+      "name": "2026 Belgian Darts Open",
+      "date": "2026-04-11",
+      "dateTo": "2026-04-13",
+      "sport": "Darts",
+      "competition": "European Tour",
+      "level": 2,
+      "source": "pdc",
+      "locations": [
+        {
+          "country": "Belgium",
+          "city": "Wieze"
+        }
+      ]
+    },
+    {
+      "name": "2026 German Darts Masters",
+      "date": "2026-05-02",
+      "dateTo": "2026-05-04",
+      "sport": "Darts",
+      "competition": "European Tour",
+      "level": 2,
+      "source": "pdc",
+      "locations": [
+        {
+          "country": "Germany",
+          "city": "Hildesheim"
+        }
+      ]
+    },
+    {
+      "name": "2026 Dutch Darts Masters",
+      "date": "2026-05-30",
+      "dateTo": "2026-06-01",
+      "sport": "Darts",
+      "competition": "European Tour",
+      "level": 2,
+      "source": "pdc",
+      "locations": [
+        {
+          "country": "Netherlands",
+          "city": "Zwolle"
+        }
+      ]
+    },
+    {
+      "name": "2026 US Darts Masters",
+      "date": "2026-06-06",
+      "dateTo": "2026-06-07",
+      "sport": "Darts",
+      "competition": "World Series",
+      "level": 1,
+      "source": "pdc",
+      "locations": [
+        {
+          "country": "United States",
+          "city": "New York"
+        }
+      ]
+    },
+    {
+      "name": "2026 World Cup of Darts",
+      "date": "2026-06-11",
+      "dateTo": "2026-06-14",
+      "sport": "Darts",
+      "competition": "World Cup",
+      "level": 1,
+      "source": "pdc",
+      "locations": [
+        {
+          "country": "Germany",
+          "city": "Frankfurt"
+        }
+      ]
+    },
+    {
+      "name": "2026 Czech Darts Open",
+      "date": "2026-06-20",
+      "dateTo": "2026-06-22",
+      "sport": "Darts",
+      "competition": "European Tour",
+      "level": 2,
+      "source": "pdc",
+      "locations": [
+        {
+          "country": "Czech Republic",
+          "city": "Prague"
+        }
+      ]
+    },
+    {
+      "name": "2026 World Matchplay",
+      "date": "2026-07-18",
+      "dateTo": "2026-07-26",
+      "sport": "Darts",
+      "competition": "World Matchplay",
+      "level": 1,
+      "source": "pdc",
+      "locations": [
+        {
+          "country": "United Kingdom",
+          "city": "Blackpool"
+        }
+      ],
+      "venue": "Winter Gardens"
+    },
+    {
+      "name": "2026 Nordic Darts Masters",
+      "date": "2026-09-05",
+      "dateTo": "2026-09-06",
+      "sport": "Darts",
+      "competition": "World Series",
+      "level": 2,
+      "source": "pdc",
+      "locations": [
+        {
+          "country": "Denmark",
+          "city": "Copenhagen"
+        }
+      ]
+    },
+    {
+      "name": "2026 Austrian Darts Open",
+      "date": "2026-09-12",
+      "dateTo": "2026-09-14",
+      "sport": "Darts",
+      "competition": "European Tour",
+      "level": 2,
+      "source": "pdc",
+      "locations": [
+        {
+          "country": "Austria",
+          "city": "Graz"
+        }
+      ]
+    },
+    {
+      "name": "2026 World Series of Darts Finals",
+      "date": "2026-09-19",
+      "dateTo": "2026-09-20",
+      "sport": "Darts",
+      "competition": "World Series",
+      "level": 1,
+      "source": "pdc",
+      "locations": [
+        {
+          "country": "Netherlands",
+          "city": "Amsterdam"
+        }
+      ]
+    },
+    {
+      "name": "2026 World Grand Prix",
+      "date": "2026-10-05",
+      "dateTo": "2026-10-11",
+      "sport": "Darts",
+      "competition": "World Grand Prix",
+      "level": 1,
+      "source": "pdc",
+      "locations": [
+        {
+          "country": "Ireland",
+          "city": "Dublin"
+        }
+      ]
+    },
+    {
+      "name": "2026 European Championship",
+      "date": "2026-10-29",
+      "dateTo": "2026-11-01",
+      "sport": "Darts",
+      "competition": "European Championship",
+      "level": 1,
+      "source": "pdc",
+      "locations": [
+        {
+          "country": "Germany",
+          "city": "Dortmund"
+        }
+      ]
+    },
+    {
+      "name": "2026 Grand Slam of Darts",
+      "date": "2026-11-08",
+      "dateTo": "2026-11-16",
+      "sport": "Darts",
+      "competition": "Grand Slam",
+      "level": 1,
+      "source": "pdc",
+      "locations": [
+        {
+          "country": "United Kingdom",
+          "city": "Wolverhampton"
+        }
+      ]
+    },
+    {
+      "name": "2026 Players Championship Finals",
+      "date": "2026-11-27",
+      "dateTo": "2026-11-29",
+      "sport": "Darts",
+      "competition": "Players Championship Finals",
+      "level": 1,
+      "source": "pdc",
+      "locations": [
+        {
+          "country": "United Kingdom",
+          "city": "Minehead"
+        }
+      ]
+    }
+  ]
+}

@@ -11,6 +11,7 @@ DATA_DIR = Path(__file__).parent
 MAJOR_SPORTS = {
     "Football", "Tennis", "Rugby", "Basketball",
     "Baseball", "Cricket", "Boxing", "MMA",
+    "Golf", "Motor Sports", "Horse Racing", "Darts",
 }
 
 # Niveaux de compétition
@@ -76,6 +77,26 @@ def load_allsportdb_data() -> dict:
 def load_ufc_data() -> list[dict]:
     """Load UFC events from ESPN data."""
     path = DATA_DIR / "ufc_data.json"
+    if not path.exists():
+        return []
+    with open(path) as f:
+        data = json.load(f)
+    return data.get("events", [])
+
+
+def load_horse_racing_data() -> list[dict]:
+    """Load horse racing events."""
+    path = DATA_DIR / "horse_racing_data.json"
+    if not path.exists():
+        return []
+    with open(path) as f:
+        data = json.load(f)
+    return data.get("events", [])
+
+
+def load_darts_data() -> list[dict]:
+    """Load darts events."""
+    path = DATA_DIR / "darts_data.json"
     if not path.exists():
         return []
     with open(path) as f:
@@ -167,6 +188,76 @@ def build_events() -> dict:
             "wikiUrl": "",
             "logoUrl": "https://a.espncdn.com/i/teamlogos/leagues/500/ufc.png",
             "locations": ufc.get("locations", []),
+        })
+        next_id += 1
+
+    # Add Horse Racing events
+    horse_racing_events = load_horse_racing_data()
+    for race in horse_racing_events:
+        sport = "Horse Racing"
+        sports_count[sport] = sports_count.get(sport, 0) + 1
+
+        date_from = race.get("date", "")
+        date_to = race.get("dateTo", date_from)
+        try:
+            dt = datetime.strptime(date_from, "%Y-%m-%d")
+            date_display = dt.strftime("%d %B %Y")
+        except ValueError:
+            date_display = date_from
+
+        events.append({
+            "id": next_id,
+            "name": race.get("name", ""),
+            "date": date_from,
+            "dateTo": date_to,
+            "dateDisplay": date_display,
+            "sport": sport,
+            "sportId": 998,
+            "competition": race.get("competition", "Major Racing"),
+            "competitionId": 9998,
+            "continent": "World",
+            "emoji": "🏇",
+            "level": race.get("level", 1),
+            "isMajorSport": True,
+            "webUrl": "",
+            "wikiUrl": "",
+            "logoUrl": "",
+            "locations": race.get("locations", []),
+        })
+        next_id += 1
+
+    # Add Darts events
+    darts_events = load_darts_data()
+    for darts in darts_events:
+        sport = "Darts"
+        sports_count[sport] = sports_count.get(sport, 0) + 1
+
+        date_from = darts.get("date", "")
+        date_to = darts.get("dateTo", date_from)
+        try:
+            dt = datetime.strptime(date_from, "%Y-%m-%d")
+            date_display = dt.strftime("%d %B %Y")
+        except ValueError:
+            date_display = date_from
+
+        events.append({
+            "id": next_id,
+            "name": darts.get("name", ""),
+            "date": date_from,
+            "dateTo": date_to,
+            "dateDisplay": date_display,
+            "sport": sport,
+            "sportId": 997,
+            "competition": darts.get("competition", "PDC"),
+            "competitionId": 9997,
+            "continent": "World",
+            "emoji": "🎯",
+            "level": darts.get("level", 1),
+            "isMajorSport": True,
+            "webUrl": "https://www.pdc.tv/",
+            "wikiUrl": "",
+            "logoUrl": "",
+            "locations": darts.get("locations", []),
         })
         next_id += 1
 

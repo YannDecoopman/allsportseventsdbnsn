@@ -1,0 +1,364 @@
+{
+  "events": [
+    {
+      "name": "2026 Pegasus World Cup",
+      "date": "2026-01-24",
+      "dateTo": "2026-01-24",
+      "sport": "Horse Racing",
+      "competition": "Major Racing",
+      "level": 1,
+      "source": "static",
+      "locations": [
+        {
+          "country": "United States",
+          "city": "Hallandale Beach"
+        }
+      ]
+    },
+    {
+      "name": "2026 Cheltenham Festival",
+      "date": "2026-03-10",
+      "dateTo": "2026-03-13",
+      "sport": "Horse Racing",
+      "competition": "Major Racing",
+      "level": 1,
+      "source": "static",
+      "locations": [
+        {
+          "country": "United Kingdom",
+          "city": "Cheltenham"
+        }
+      ]
+    },
+    {
+      "name": "2026 Dubai World Cup",
+      "date": "2026-03-28",
+      "dateTo": "2026-03-28",
+      "sport": "Horse Racing",
+      "competition": "Major Racing",
+      "level": 1,
+      "source": "static",
+      "locations": [
+        {
+          "country": "United Arab Emirates",
+          "city": "Dubai"
+        }
+      ]
+    },
+    {
+      "name": "2026 Grand National",
+      "date": "2026-04-04",
+      "dateTo": "2026-04-04",
+      "sport": "Horse Racing",
+      "competition": "Major Racing",
+      "level": 1,
+      "source": "static",
+      "locations": [
+        {
+          "country": "United Kingdom",
+          "city": "Liverpool"
+        }
+      ]
+    },
+    {
+      "name": "2026 Kentucky Derby",
+      "date": "2026-05-02",
+      "dateTo": "2026-05-02",
+      "sport": "Horse Racing",
+      "competition": "Major Racing",
+      "level": 1,
+      "source": "static",
+      "locations": [
+        {
+          "country": "United States",
+          "city": "Louisville"
+        }
+      ]
+    },
+    {
+      "name": "2026 Preakness Stakes",
+      "date": "2026-05-16",
+      "dateTo": "2026-05-16",
+      "sport": "Horse Racing",
+      "competition": "Major Racing",
+      "level": 1,
+      "source": "static",
+      "locations": [
+        {
+          "country": "United States",
+          "city": "Baltimore"
+        }
+      ]
+    },
+    {
+      "name": "2026 Epsom Derby",
+      "date": "2026-06-06",
+      "dateTo": "2026-06-06",
+      "sport": "Horse Racing",
+      "competition": "Major Racing",
+      "level": 1,
+      "source": "static",
+      "locations": [
+        {
+          "country": "United Kingdom",
+          "city": "Epsom"
+        }
+      ]
+    },
+    {
+      "name": "2026 Belmont Stakes",
+      "date": "2026-06-06",
+      "dateTo": "2026-06-06",
+      "sport": "Horse Racing",
+      "competition": "Major Racing",
+      "level": 1,
+      "source": "static",
+      "locations": [
+        {
+          "country": "United States",
+          "city": "Elmont"
+        }
+      ]
+    },
+    {
+      "name": "2026 Prix du Jockey Club",
+      "date": "2026-06-07",
+      "dateTo": "2026-06-07",
+      "sport": "Horse Racing",
+      "competition": "Major Racing",
+      "level": 1,
+      "source": "static",
+      "locations": [
+        {
+          "country": "France",
+          "city": "Chantilly"
+        }
+      ]
+    },
+    {
+      "name": "2026 Royal Ascot",
+      "date": "2026-06-16",
+      "dateTo": "2026-06-20",
+      "sport": "Horse Racing",
+      "competition": "Major Racing",
+      "level": 1,
+      "source": "static",
+      "locations": [
+        {
+          "country": "United Kingdom",
+          "city": "Ascot"
+        }
+      ]
+    },
+    {
+      "name": "2026 Irish Derby",
+      "date": "2026-06-28",
+      "dateTo": "2026-06-28",
+      "sport": "Horse Racing",
+      "competition": "Major Racing",
+      "level": 1,
+      "source": "static",
+      "locations": [
+        {
+          "country": "Ireland",
+          "city": "Curragh"
+        }
+      ]
+    },
+    {
+      "name": "2026 King George VI and Queen Elizabeth Stakes",
+      "date": "2026-07-25",
+      "dateTo": "2026-07-25",
+      "sport": "Horse Racing",
+      "competition": "Major Racing",
+      "level": 1,
+      "source": "static",
+      "locations": [
+        {
+          "country": "United Kingdom",
+          "city": "Ascot"
+        }
+      ]
+    },
+    {
+      "name": "2026 Galway Races",
+      "date": "2026-07-27",
+      "dateTo": "2026-08-02",
+      "sport": "Horse Racing",
+      "competition": "Major Racing",
+      "level": 2,
+      "source": "static",
+      "locations": [
+        {
+          "country": "Ireland",
+          "city": "Galway"
+        }
+      ]
+    },
+    {
+      "name": "2026 Glorious Goodwood",
+      "date": "2026-07-28",
+      "dateTo": "2026-08-01",
+      "sport": "Horse Racing",
+      "competition": "Major Racing",
+      "level": 2,
+      "source": "static",
+      "locations": [
+        {
+          "country": "United Kingdom",
+          "city": "Goodwood"
+        }
+      ]
+    },
+    {
+      "name": "2026 St Leger",
+      "date": "2026-09-12",
+      "dateTo": "2026-09-12",
+      "sport": "Horse Racing",
+      "competition": "Major Racing",
+      "level": 1,
+      "source": "static",
+      "locations": [
+        {
+          "country": "United Kingdom",
+          "city": "Doncaster"
+        }
+      ]
+    },
+    {
+      "name": "2026 Prix de l'Arc de Triomphe",
+      "date": "2026-10-04",
+      "dateTo": "2026-10-04",
+      "sport": "Horse Racing",
+      "competition": "Major Racing",
+      "level": 1,
+      "source": "static",
+      "locations": [
+        {
+          "country": "France",
+          "city": "Paris"
+        }
+      ]
+    },
+    {
+      "name": "2026 Champions Day",
+      "date": "2026-10-17",
+      "dateTo": "2026-10-17",
+      "sport": "Horse Racing",
+      "competition": "Major Racing",
+      "level": 1,
+      "source": "static",
+      "locations": [
+        {
+          "country": "United Kingdom",
+          "city": "Ascot"
+        }
+      ]
+    },
+    {
+      "name": "2026 The Everest",
+      "date": "2026-10-17",
+      "dateTo": "2026-10-17",
+      "sport": "Horse Racing",
+      "competition": "Major Racing",
+      "level": 1,
+      "source": "static",
+      "locations": [
+        {
+          "country": "Australia",
+          "city": "Sydney"
+        }
+      ]
+    },
+    {
+      "name": "2026 Cox Plate",
+      "date": "2026-10-24",
+      "dateTo": "2026-10-24",
+      "sport": "Horse Racing",
+      "competition": "Major Racing",
+      "level": 1,
+      "source": "static",
+      "locations": [
+        {
+          "country": "Australia",
+          "city": "Melbourne"
+        }
+      ]
+    },
+    {
+      "name": "2026 Melbourne Cup",
+      "date": "2026-11-03",
+      "dateTo": "2026-11-03",
+      "sport": "Horse Racing",
+      "competition": "Major Racing",
+      "level": 1,
+      "source": "static",
+      "locations": [
+        {
+          "country": "Australia",
+          "city": "Melbourne"
+        }
+      ]
+    },
+    {
+      "name": "2026 Breeders' Cup",
+      "date": "2026-11-06",
+      "dateTo": "2026-11-07",
+      "sport": "Horse Racing",
+      "competition": "Major Racing",
+      "level": 1,
+      "source": "static",
+      "locations": [
+        {
+          "country": "United States",
+          "city": "TBD"
+        }
+      ]
+    },
+    {
+      "name": "2026 Japan Cup",
+      "date": "2026-11-29",
+      "dateTo": "2026-11-29",
+      "sport": "Horse Racing",
+      "competition": "Major Racing",
+      "level": 1,
+      "source": "static",
+      "locations": [
+        {
+          "country": "Japan",
+          "city": "Tokyo"
+        }
+      ]
+    },
+    {
+      "name": "2026 Hong Kong International Races",
+      "date": "2026-12-13",
+      "dateTo": "2026-12-13",
+      "sport": "Horse Racing",
+      "competition": "Major Racing",
+      "level": 1,
+      "source": "static",
+      "locations": [
+        {
+          "country": "Hong Kong",
+          "city": "Sha Tin"
+        }
+      ]
+    },
+    {
+      "name": "2026 Leopardstown Christmas Festival",
+      "date": "2026-12-26",
+      "dateTo": "2026-12-29",
+      "sport": "Horse Racing",
+      "competition": "Major Racing",
+      "level": 2,
+      "source": "static",
+      "locations": [
+        {
+          "country": "Ireland",
+          "city": "Dublin"
+        }
+      ]
+    }
+  ]
+}
