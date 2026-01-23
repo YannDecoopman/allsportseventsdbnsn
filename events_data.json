@@ -737,6 +737,30 @@
       ]
     },
     {
+      "id": 20957,
+      "name": "2026 UFC 324: Gaethje vs. Pimblett",
+      "date": "2026-01-25",
+      "dateTo": "2026-01-25",
+      "dateDisplay": "25 January 2026",
+      "sport": "MMA",
+      "sportId": 999,
+      "competition": "UFC",
+      "competitionId": 9999,
+      "continent": "World",
+      "emoji": "🥊",
+      "level": 1,
+      "isMajorSport": true,
+      "webUrl": "https://www.ufc.com/events",
+      "wikiUrl": "",
+      "logoUrl": "https://a.espncdn.com/i/teamlogos/leagues/500/ufc.png",
+      "locations": [
+        {
+          "country": "USA",
+          "city": "Las Vegas"
+        }
+      ]
+    },
+    {
       "id": 18428,
       "name": "2026 World Snooker Tour - German Masters",
       "date": "2026-01-26",
@@ -1431,6 +1455,25 @@
           "city": "Bowman Gray Stadium"
         }
       ]
+    },
+    {
+      "id": 20958,
+      "name": "2026 UFC 325: Volkanovski vs. Lopes 2",
+      "date": "2026-02-01",
+      "dateTo": "2026-02-01",
+      "dateDisplay": "01 February 2026",
+      "sport": "MMA",
+      "sportId": 999,
+      "competition": "UFC",
+      "competitionId": 9999,
+      "continent": "World",
+      "emoji": "🥊",
+      "level": 1,
+      "isMajorSport": true,
+      "webUrl": "https://www.ufc.com/events",
+      "wikiUrl": "",
+      "logoUrl": "https://a.espncdn.com/i/teamlogos/leagues/500/ufc.png",
+      "locations": []
     },
     {
       "id": 18429,
@@ -2239,6 +2282,25 @@
           "city": "Doha"
         }
       ]
+    },
+    {
+      "id": 20959,
+      "name": "2026 UFC Fight Night: Bautista vs. Oliveira",
+      "date": "2026-02-08",
+      "dateTo": "2026-02-08",
+      "dateDisplay": "08 February 2026",
+      "sport": "MMA",
+      "sportId": 999,
+      "competition": "UFC",
+      "competitionId": 9999,
+      "continent": "World",
+      "emoji": "🥊",
+      "level": 2,
+      "isMajorSport": true,
+      "webUrl": "https://www.ufc.com/events",
+      "wikiUrl": "",
+      "logoUrl": "https://a.espncdn.com/i/teamlogos/leagues/500/ufc.png",
+      "locations": []
     },
     {
       "id": 19229,
@@ -3461,6 +3523,25 @@
       ]
     },
     {
+      "id": 20960,
+      "name": "2026 UFC Fight Night: Strickland vs. Hernandez",
+      "date": "2026-02-22",
+      "dateTo": "2026-02-22",
+      "dateDisplay": "22 February 2026",
+      "sport": "MMA",
+      "sportId": 999,
+      "competition": "UFC",
+      "competitionId": 9999,
+      "continent": "World",
+      "emoji": "🥊",
+      "level": 2,
+      "isMajorSport": true,
+      "webUrl": "https://www.ufc.com/events",
+      "wikiUrl": "",
+      "logoUrl": "https://a.espncdn.com/i/teamlogos/leagues/500/ufc.png",
+      "locations": []
+    },
+    {
       "id": 18430,
       "name": "2026 World Snooker Tour - Welsh Open",
       "date": "2026-02-23",
@@ -4419,6 +4500,25 @@
           "city": "Tokyo"
         }
       ]
+    },
+    {
+      "id": 20961,
+      "name": "2026 UFC Fight Night: Moreno vs. Almabayev",
+      "date": "2026-03-01",
+      "dateTo": "2026-03-01",
+      "dateDisplay": "01 March 2026",
+      "sport": "MMA",
+      "sportId": 999,
+      "competition": "UFC",
+      "competitionId": 9999,
+      "continent": "World",
+      "emoji": "🥊",
+      "level": 2,
+      "isMajorSport": true,
+      "webUrl": "https://www.ufc.com/events",
+      "wikiUrl": "",
+      "logoUrl": "https://a.espncdn.com/i/teamlogos/leagues/500/ufc.png",
+      "locations": []
     },
     {
       "id": 18713,
@@ -5589,6 +5689,25 @@
       ]
     },
     {
+      "id": 20962,
+      "name": "2026 UFC 326: Holloway vs. Oliveira 2",
+      "date": "2026-03-08",
+      "dateTo": "2026-03-08",
+      "dateDisplay": "08 March 2026",
+      "sport": "MMA",
+      "sportId": 999,
+      "competition": "UFC",
+      "competitionId": 9999,
+      "continent": "World",
+      "emoji": "🥊",
+      "level": 1,
+      "isMajorSport": true,
+      "webUrl": "https://www.ufc.com/events",
+      "wikiUrl": "",
+      "logoUrl": "https://a.espncdn.com/i/teamlogos/leagues/500/ufc.png",
+      "locations": []
+    },
+    {
       "id": 18524,
       "name": "2026 European U23 Wrestling Championship",
       "date": "2026-03-09",
@@ -6605,6 +6724,25 @@
       ]
     },
     {
+      "id": 20963,
+      "name": "2026 UFC Fight Night: Emmett vs. Vallejos",
+      "date": "2026-03-15",
+      "dateTo": "2026-03-15",
+      "dateDisplay": "15 March 2026",
+      "sport": "MMA",
+      "sportId": 999,
+      "competition": "UFC",
+      "competitionId": 9999,
+      "continent": "World",
+      "emoji": "🥊",
+      "level": 2,
+      "isMajorSport": true,
+      "webUrl": "https://www.ufc.com/events",
+      "wikiUrl": "",
+      "logoUrl": "https://a.espncdn.com/i/teamlogos/leagues/500/ufc.png",
+      "locations": []
+    },
+    {
       "id": 18431,
       "name": "2026 World Snooker Tour - World Open",
       "date": "2026-03-16",
@@ -7443,6 +7581,25 @@
           "city": "Haikou"
         }
       ]
+    },
+    {
+      "id": 20964,
+      "name": "2026 UFC Fight Night: 3/21",
+      "date": "2026-03-21",
+      "dateTo": "2026-03-22",
+      "dateDisplay": "21 March 2026",
+      "sport": "MMA",
+      "sportId": 999,
+      "competition": "UFC",
+      "competitionId": 9999,
+      "continent": "World",
+      "emoji": "🥊",
+      "level": 2,
+      "isMajorSport": true,
+      "webUrl": "https://www.ufc.com/events",
+      "wikiUrl": "",
+      "logoUrl": "https://a.espncdn.com/i/teamlogos/leagues/500/ufc.png",
+      "locations": []
     },
     {
       "id": 19722,
@@ -8379,6 +8536,25 @@
           "city": "Martinsville Speedway"
         }
       ]
+    },
+    {
+      "id": 20965,
+      "name": "2026 UFC Fight Night: Adesanya vs. Pyfer",
+      "date": "2026-03-29",
+      "dateTo": "2026-03-29",
+      "dateDisplay": "29 March 2026",
+      "sport": "MMA",
+      "sportId": 999,
+      "competition": "UFC",
+      "competitionId": 9999,
+      "continent": "World",
+      "emoji": "🥊",
+      "level": 2,
+      "isMajorSport": true,
+      "webUrl": "https://www.ufc.com/events",
+      "wikiUrl": "",
+      "logoUrl": "https://a.espncdn.com/i/teamlogos/leagues/500/ufc.png",
+      "locations": []
     },
     {
       "id": 18432,
@@ -28414,7 +28590,7 @@
     }
   ],
   "metadata": {
-    "total_count": 1176,
+    "total_count": 1185,
     "sports": {
       "Motor Sports": 115,
       "Cycling": 96,
@@ -28457,6 +28633,7 @@
       "Snooker": 9,
       "Short Track": 9,
       "Trampoline": 9,
+      "MMA": 9,
       "Cross-Country Skiing": 8,
       "Nordic Combined": 8,
       "Artistic Swimming": 8,
@@ -28482,7 +28659,7 @@
       "American Football": 1,
       "Lacrosse": 1
     },
-    "major_sports_count": 147,
-    "generated_at": "2026-01-22T19:25:59.506432"
+    "major_sports_count": 156,
+    "generated_at": "2026-01-23T12:01:43.223352"
   }
 }

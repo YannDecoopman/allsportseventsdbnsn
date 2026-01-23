@@ -10,7 +10,7 @@ DATA_DIR = Path(__file__).parent
 # Sports majeurs par priorité (sports prioritaires NSN)
 MAJOR_SPORTS = {
     "Football", "Tennis", "Rugby", "Basketball",
-    "Baseball", "Cricket", "Boxing",
+    "Baseball", "Cricket", "Boxing", "MMA",
 }
 
 # Niveaux de compétition
@@ -73,6 +73,16 @@ def load_allsportdb_data() -> dict:
         return json.load(f)
 
 
+def load_ufc_data() -> list[dict]:
+    """Load UFC events from ESPN data."""
+    path = DATA_DIR / "ufc_data.json"
+    if not path.exists():
+        return []
+    with open(path) as f:
+        data = json.load(f)
+    return data.get("events", [])
+
+
 def build_events() -> dict:
     """Build unified events data."""
     data = load_allsportdb_data()
@@ -121,6 +131,44 @@ def build_events() -> dict:
                 for loc in event.get("location", [])
             ],
         })
+
+    # Add UFC events from ESPN
+    ufc_events = load_ufc_data()
+    next_id = max((e.get("id", 0) for e in events), default=0) + 1000
+
+    for ufc in ufc_events:
+        sport = "MMA"
+        sports_count[sport] = sports_count.get(sport, 0) + 1
+
+        # Format date display
+        date_from = ufc.get("date", "")
+        date_to = ufc.get("dateTo", date_from)
+        try:
+            dt = datetime.strptime(date_from, "%Y-%m-%d")
+            date_display = dt.strftime("%d %B %Y")
+        except ValueError:
+            date_display = date_from
+
+        events.append({
+            "id": next_id,
+            "name": ufc.get("name", ""),
+            "date": date_from,
+            "dateTo": date_to,
+            "dateDisplay": date_display,
+            "sport": sport,
+            "sportId": 999,  # Custom ID for MMA
+            "competition": ufc.get("competition", "UFC"),
+            "competitionId": 9999,
+            "continent": "World",
+            "emoji": "🥊",
+            "level": ufc.get("level", 1),
+            "isMajorSport": True,
+            "webUrl": "https://www.ufc.com/events",
+            "wikiUrl": "",
+            "logoUrl": "https://a.espncdn.com/i/teamlogos/leagues/500/ufc.png",
+            "locations": ufc.get("locations", []),
+        })
+        next_id += 1
 
     # Sort by date
     events.sort(key=lambda e: e.get("date", ""))
